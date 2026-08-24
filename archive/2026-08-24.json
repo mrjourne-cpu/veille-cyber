@@ -1,0 +1,49 @@
+{
+  "genere_le": "2026-08-24T08:44:24.587107+00:00",
+  "fenetre_jours": 3,
+  "sources": {
+    "cert_fr_avis": {
+      "flux_utilise": "https://www.cert.ssi.gouv.fr/avis/feed/",
+      "entrees": []
+    },
+    "cert_fr_alertes": {
+      "flux_utilise": "https://www.cert.ssi.gouv.fr/alerte/feed/",
+      "entrees": []
+    },
+    "cert_fr_cti": {
+      "flux_utilise": "https://www.cert.ssi.gouv.fr/cti/feed/",
+      "entrees": []
+    },
+    "anssi_actualites": {
+      "flux_utilise": "listing HTML (repli, flux RSS indisponible)",
+      "entrees": []
+    },
+    "cert_eu": {
+      "flux_utilise": null,
+      "entrees": []
+    },
+    "fuites_infos": {
+      "flux_utilise": "raw.githubusercontent.com REGISTRE.md",
+      "lignes_recentes": [
+        "- `2026-08-24` — **Klark** (fiche du 2026-08-23) · **entrée ajoutée**",
+        "- `2026-08-23` — **Solimut Mutuelle de France** (fiche du 2026-08-23) · **entrée ajoutée**",
+        "- `2026-08-23` — **Déclic Services** (fiche du 2026-08-22) · **entrée ajoutée**",
+        "- `2026-08-22` — **iMapper** (fiche du 2026-08-22) · **entrée ajoutée**",
+        "- `2026-08-22` — **DINUM (portail Cloud de l'État)** (fiche du 2026-08-22) · **entrée ajoutée**",
+        "- `2026-08-22` — **DRON** (fiche du 2026-08-22) · **entrée ajoutée**",
+        "- `2026-08-22` — **Bureau Vallée** (fiche du 2026-08-21) · **entrée ajoutée**",
+        "- `2026-08-21` — **Stripe** (fiche du 2026-08-18) · **entrée ajoutée**",
+        "- `2026-08-21` — **Groupe Géotec** (fiche du 2026-08-19) · **entrée ajoutée**",
+        "- `2026-08-21` — **Made in Bébé** (fiche du 2026-08-21) · **entrée ajoutée**",
+        "- `2026-08-21` — **Fédération Nationale de Protection Civile** (fiche du 2026-08-21) · **entrée ajoutée**",
+        "- `2026-08-21` — **Beauty Success** (fiche du 2026-08-21) · **entrée ajoutée**",
+        "- `2026-08-21` — **Allobébé** (fiche du 2026-08-21) · **entrée ajoutée**",
+        "- `2026-08-21` — **EEVA Club Évasion** (fiche du 2026-08-21) · **entrée ajoutée**"
+      ]
+    }
+  },
+  "erreurs": [
+    "anssi_actualites: aucune entrée récupérée",
+    "cert_eu: flux non trouvé — vérifier l'URL manuellement, source à faible priorité"
+  ]
+}
