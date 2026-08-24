@@ -1,0 +1,40 @@
+name: Veille Cyber - Collecte quotidienne
+
+on:
+  schedule:
+    # 06:45 UTC ≈ 08:45 CEST (été) / 07:45 CET (hiver) — avant la session Claude de 9h
+    - cron: "45 6 * * 1-5"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  collecte:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Dépendances
+        run: pip install requests feedparser
+
+      - name: Collecte
+        run: python collecte_veille.py
+
+      - name: Commit et push du résultat
+        run: |
+          git config user.name "veille-cyber-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add latest.json archive/
+          if git diff --cached --quiet; then
+            echo "Rien de nouveau à committer."
+          else
+            git commit -m "Collecte veille cyber $(date -u +%Y-%m-%d)"
+            git push
+          fi
