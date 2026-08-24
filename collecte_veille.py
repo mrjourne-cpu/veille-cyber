@@ -31,7 +31,7 @@ HEADERS = {"User-Agent": "veille-cyber-bot/1.0 (+contact: usage interne)"}
 FENETRE_JOURS = 3  # marge de sécurité au-delà des 48h ciblées par la main courante
 
 now = datetime.now(timezone.utc)
-seuil = now - timedelta(days=FENETRE_JOURS)
+seuil = (now - timedelta(days=FENETRE_JOURS)).replace(hour=0, minute=0, second=0, microsecond=0)
 
 
 def log(msg):
