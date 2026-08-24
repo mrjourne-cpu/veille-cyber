@@ -230,7 +230,8 @@ except Exception as exc:
 # --- Écriture ------------------------------------------------------------------
 with open("latest.json", "w", encoding="utf-8") as f:
     json.dump(resultat, f, ensure_ascii=False, indent=2)
-
+import os
+os.makedirs("archive", exist_ok=True)
 archive_name = f"archive/{now.strftime('%Y-%m-%d')}.json"
 with open(archive_name, "w", encoding="utf-8") as f:
     json.dump(resultat, f, ensure_ascii=False, indent=2)
