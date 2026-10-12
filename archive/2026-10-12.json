@@ -1,0 +1,144 @@
+{
+  "genere_le": "2026-10-12T16:09:56.505017+00:00",
+  "fenetre_jours": 3,
+  "sources": {
+    "cert_fr_avis": {
+      "flux_utilise": "https://www.cert.ssi.gouv.fr/avis/feed/",
+      "entrees": [
+        {
+          "titre": "Multiples vulnérabilités dans les produits Nextcloud (09 octobre 2026)",
+          "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1283/",
+          "date": "2026-10-09T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans les produits Nextcloud. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, un déni de service à distance et une atteinte à la confidentialité des données."
+        },
+        {
+          "titre": "Vulnérabilité dans les produits Tenable (09 octobre 2026)",
+          "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1284/",
+          "date": "2026-10-09T00:00:00+00:00",
+          "resume": "Une vulnérabilité a été découverte dans les produits Tenable. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance. L'éditeur indique qu'une réinstallation d'un composant est nécessaire après la mise à jour."
+        },
+        {
+          "titre": "Vulnérabilité dans Citrix NetScaler ADC et Gateway (09 octobre 2026)",
+          "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1285/",
+          "date": "2026-10-09T00:00:00+00:00",
+          "resume": "Une vulnérabilité a été découverte dans Citrix NetScaler ADC et Gateway. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service à distance."
+        },
+        {
+          "titre": "Multiples vulnérabilités dans le noyau Linux d'Ubuntu (09 octobre 2026)",
+          "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1286/",
+          "date": "2026-10-09T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, un déni de service à distance et une atteinte à la confidentialité des données."
+        },
+        {
+          "titre": "Multiples vulnérabilités dans le noyau Linux de Red Hat (09 octobre 2026)",
+          "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1287/",
+          "date": "2026-10-09T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance."
+        },
+        {
+          "titre": "Multiples vulnérabilités dans le noyau Linux de SUSE (09 octobre 2026)",
+          "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1288/",
+          "date": "2026-10-09T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service à distance et une atteinte à la confidentialité des données."
+        },
+        {
+          "titre": "Multiples vulnérabilités dans le noyau Linux de Debian LTS (09 octobre 2026)",
+          "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1289/",
+          "date": "2026-10-09T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian LTS. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un déni de service."
+        },
+        {
+          "titre": "Multiples vulnérabilités dans Apache Struts (09 octobre 2026)",
+          "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1290/",
+          "date": "2026-10-09T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans Apache Struts. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données. L'éditeur indique que les versions 2 des..."
+        },
+        {
+          "titre": "Multiples vulnérabilités dans les produits IBM (09 octobre 2026)",
+          "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1291/",
+          "date": "2026-10-09T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance."
+        },
+        {
+          "titre": "Multiples vulnérabilités dans PostgreSQL JDBC (12 octobre 2026)",
+          "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1292/",
+          "date": "2026-10-12T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans PostgreSQL JDBC. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et un contournement de la politique de sécurité."
+        },
+        {
+          "titre": "Multiples vulnérabilités dans MongoDB (12 octobre 2026)",
+          "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1293/",
+          "date": "2026-10-12T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans les produits MongoDB. Elles permettent à un attaquant de provoquer un déni de service à distance et un problème de sécurité non spécifié par l'éditeur."
+        },
+        {
+          "titre": "Multiples vulnérabilités dans GitLab (12 octobre 2026)",
+          "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1294/",
+          "date": "2026-10-12T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans GitLab. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données."
+        }
+      ]
+    },
+    "cert_fr_alertes": {
+      "flux_utilise": "https://www.cert.ssi.gouv.fr/alerte/feed/",
+      "entrees": []
+    },
+    "cert_fr_cti": {
+      "flux_utilise": "https://www.cert.ssi.gouv.fr/cti/feed/",
+      "entrees": []
+    },
+    "anssi_actualites": {
+      "flux_utilise": "listing HTML (repli, flux RSS indisponible)",
+      "entrees": []
+    },
+    "cert_eu": {
+      "flux_utilise": null,
+      "entrees": []
+    },
+    "fuites_infos": {
+      "flux_utilise": "raw.githubusercontent.com REGISTRE.md",
+      "lignes_recentes": [
+        "- `2026-10-12 (constaté)` — **Infogreffe** (fiche du 2026-10-10) · Statut : Revendiquée → Confirmée",
+        "- `2026-10-12 (constaté)` — **Infogreffe** (fiche du 2026-10-10) · Description publique réécrite — texte non reproduit (empreinte 17768269312c74ad → 3ab5c807963a70ae)",
+        "- `2026-10-12 (constaté)` — **Uptoo** (fiche du 2026-09-24) · Statut : Revendiquée → Confirmée",
+        "- `2026-10-12 (constaté)` — **Uptoo** (fiche du 2026-09-24) · Volume concerné : (vide) → 140",
+        "- `2026-10-12 (constaté)` — **Uptoo** (fiche du 2026-09-24) · Description publique réécrite — texte non reproduit (empreinte 57f8568c5fe0b249 → 29dc4703750e3547)",
+        "- `2026-10-12` — **Alloextra** (fiche du 2026-10-12) · **entrée ajoutée**",
+        "- `2026-10-11` — **Kiassure** (fiche du 2026-10-11) · **entrée ajoutée**",
+        "- `2026-10-11 (constaté)` — **Callibri** (fiche du 2026-10-10) · Description publique réécrite — texte non reproduit (empreinte 681af4840f1b70f4 → f1dc2ad90461ed20)",
+        "- `2026-10-11` — **Infogreffe** (fiche du 2026-10-10) · Description publique réécrite — texte non reproduit (empreinte 94acbdba6f8fdc2b → 17768269312c74ad)",
+        "- `2026-10-11` — **Grand Delta Habitat** (fiche du 2026-09-13) · Description publique réécrite — texte non reproduit (empreinte 63aa577244bede8b → 46dcefec1f4afc71)",
+        "- `2026-10-11` — **VD2E** (fiche du 2026-10-10) · **entrée ajoutée**",
+        "- `2026-10-11` — **RGIS France** (fiche du 2026-10-11) · **entrée ajoutée**",
+        "- `2026-10-11` — **Institut de formation politique** (fiche du 2026-09-16) · **entrée ajoutée**",
+        "- `2026-10-11` — **G LA DALLE** (fiche du 2026-10-11) · **entrée ajoutée**",
+        "- `2026-10-11` — **FranceBourse** (fiche du 2026-10-10) · **entrée ajoutée**",
+        "- `2026-10-11` — **Callibri** (fiche du 2026-10-10) · **entrée ajoutée**",
+        "- `2026-10-11` — **Armurerie du Bocage** (fiche du 2026-10-11) · **entrée ajoutée**",
+        "- `2026-10-11` — **AK Transport** (fiche du 2026-10-11) · **entrée ajoutée**",
+        "- `2026-10-10` — **Courtiers Partenaires** (fiche du 2026-10-09) · **entrée ajoutée**",
+        "- `2026-10-10` — **Infogreffe** (fiche du 2026-10-10) · **entrée ajoutée**",
+        "- `2026-10-10` — **École 42** (fiche du 2026-10-09) · Statut : Revendiquée → Confirmée",
+        "- `2026-10-10` — **École 42** (fiche du 2026-10-09) · Description publique réécrite — texte non reproduit (empreinte 6e474c4914edffc5 → b8a69a2d09347ceb)",
+        "- `2026-10-09` — **École 42** (fiche du 2026-10-09) · **entrée ajoutée**",
+        "- `2026-10-09` — **Maileva** (fiche du 2026-10-09) · **entrée ajoutée**",
+        "- `2026-10-09` — **ASOS** (fiche du 2026-10-06) · **entrée ajoutée**",
+        "- `2026-10-09` — **Wimoov** (fiche du 2026-10-09) · **entrée ajoutée**",
+        "- `2026-10-09` — **VACAF** (fiche du 2026-10-09) · **entrée ajoutée**",
+        "- `2026-10-09 (constaté)` — **Eau Cœur d'Essonne** (fiche du 2026-10-08) · Statut : Revendiquée → Confirmée",
+        "- `2026-10-09 (constaté)` — **Eau Cœur d'Essonne** (fiche du 2026-10-08) · Description publique réécrite — texte non reproduit (empreinte a9c39142557d74e2 → a462fad0ae3005b8)",
+        "- `2026-10-09` — **Quick** (fiche du 2026-10-09) · **entrée ajoutée**",
+        "- `2026-10-09` — **Ministère de l'Éducation nationale** (fiche du 2025-06-10) · **entrée ajoutée**",
+        "- `2026-10-09 (constaté)` — **Distinxion** (fiche du 2026-09-30) · Statut : Revendiquée → Confirmée",
+        "- `2026-10-09 (constaté)` — **Distinxion** (fiche du 2026-09-30) · Description publique réécrite — texte non reproduit (empreinte 42015969a3550796 → ec35a06ab39b21eb)",
+        "- `2026-10-09 (constaté)` — **Réussir** (fiche du 2026-10-05) · Statut : Revendiquée → Confirmée",
+        "- `2026-10-09 (constaté)` — **Réussir** (fiche du 2026-10-05) · Description publique réécrite — texte non reproduit (empreinte e938c6708dfac59e → b917625d48abc1ec)",
+        "- `2026-10-09` — **Agence de Services et de Paiement** (fiche du 2026-10-09) · **entrée ajoutée**"
+      ]
+    }
+  },
+  "erreurs": [
+    "anssi_actualites: aucune entrée récupérée",
+    "cert_eu: flux non trouvé — vérifier l'URL manuellement, source à faible priorité"
+  ]
+}
