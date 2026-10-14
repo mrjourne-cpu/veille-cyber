@@ -1,0 +1,94 @@
+{
+  "genere_le": "2026-10-14T12:25:48.153405+00:00",
+  "fenetre_jours": 3,
+  "sources": {
+    "cert_fr_avis": {
+      "flux_utilise": "https://www.cert.ssi.gouv.fr/avis/feed/",
+      "entrees": [
+        {
+          "titre": "Multiples vulnérabilités dans PostgreSQL JDBC (12 octobre 2026)",
+          "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1292/",
+          "date": "2026-10-12T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans PostgreSQL JDBC. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et un contournement de la politique de sécurité."
+        },
+        {
+          "titre": "Multiples vulnérabilités dans MongoDB (12 octobre 2026)",
+          "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1293/",
+          "date": "2026-10-12T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans les produits MongoDB. Elles permettent à un attaquant de provoquer un déni de service à distance et un problème de sécurité non spécifié par l'éditeur."
+        },
+        {
+          "titre": "Multiples vulnérabilités dans GitLab (12 octobre 2026)",
+          "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1294/",
+          "date": "2026-10-12T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans GitLab. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données."
+        },
+        {
+          "titre": "Vulnérabilité dans NetApp StorageGRID (13 octobre 2026)",
+          "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1295/",
+          "date": "2026-10-13T00:00:00+00:00",
+          "resume": "Une vulnérabilité a été découverte dans NetApp StorageGRID. Elle permet à un attaquant de provoquer un déni de service à distance."
+        }
+      ]
+    },
+    "cert_fr_alertes": {
+      "flux_utilise": "https://www.cert.ssi.gouv.fr/alerte/feed/",
+      "entrees": [
+        {
+          "titre": "Incident de sécurité ciblant les contrôleurs à distance des installations de réfrigération (12 octobre 2026)",
+          "url": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2026-ALE-012/",
+          "date": "2026-10-12T00:00:00+00:00",
+          "resume": "Le CERT-FR a connaissance de nombreuses compromissions des controleurs à distance d'installation de réfrigération Danfoss série AK-SM, AK-SC ainsi que Copeland xweb et Dixell xweb. De manière générale l'exposition d'une interface de gestion sur Internet est contraire aux bonnes pratiques."
+        }
+      ]
+    },
+    "cert_fr_cti": {
+      "flux_utilise": "https://www.cert.ssi.gouv.fr/cti/feed/",
+      "entrees": []
+    },
+    "anssi_actualites": {
+      "flux_utilise": "listing HTML (repli, flux RSS indisponible)",
+      "entrees": []
+    },
+    "cert_eu": {
+      "flux_utilise": null,
+      "entrees": []
+    },
+    "fuites_infos": {
+      "flux_utilise": "raw.githubusercontent.com REGISTRE.md",
+      "lignes_recentes": [
+        "- `2026-10-14` — **Swedish Fit** (fiche du 2026-10-08) · Statut : Revendiquée → Confirmée",
+        "- `2026-10-14` — **Swedish Fit** (fiche du 2026-10-08) · Description publique réécrite — texte non reproduit (empreinte fbf359a04872bcde → c82d1493c1c08ce9)",
+        "- `2026-10-13` — **WeFix** (fiche du 2026-10-13) · **entrée ajoutée**",
+        "- `2026-10-13` — **Ecologic** (fiche du 2026-10-13) · **entrée ajoutée**",
+        "- `2026-10-13` — **Assu Pro** (fiche du 2026-10-13) · **entrée ajoutée**",
+        "- `2026-10-13` — **MaQuestionMedicale** (fiche du 2026-10-13) · **entrée ajoutée**",
+        "- `2026-10-13` — **Immo-gratuit.com** (fiche du 2026-10-12) · **entrée ajoutée**",
+        "- `2026-10-13` — **France Utilitaires** (fiche du 2026-10-12) · **entrée ajoutée**",
+        "- `2026-10-12` — **Solutions30** (fiche du 2026-10-12) · **entrée ajoutée**",
+        "- `2026-10-12 (constaté)` — **Infogreffe** (fiche du 2026-10-10) · Statut : Revendiquée → Confirmée",
+        "- `2026-10-12 (constaté)` — **Infogreffe** (fiche du 2026-10-10) · Description publique réécrite — texte non reproduit (empreinte 17768269312c74ad → 3ab5c807963a70ae)",
+        "- `2026-10-12 (constaté)` — **Uptoo** (fiche du 2026-09-24) · Statut : Revendiquée → Confirmée",
+        "- `2026-10-12 (constaté)` — **Uptoo** (fiche du 2026-09-24) · Volume concerné : (vide) → 140",
+        "- `2026-10-12 (constaté)` — **Uptoo** (fiche du 2026-09-24) · Description publique réécrite — texte non reproduit (empreinte 57f8568c5fe0b249 → 29dc4703750e3547)",
+        "- `2026-10-12` — **Alloextra** (fiche du 2026-10-12) · **entrée ajoutée**",
+        "- `2026-10-11` — **Kiassure** (fiche du 2026-10-11) · **entrée ajoutée**",
+        "- `2026-10-11 (constaté)` — **Callibri** (fiche du 2026-10-10) · Description publique réécrite — texte non reproduit (empreinte 681af4840f1b70f4 → f1dc2ad90461ed20)",
+        "- `2026-10-11` — **Infogreffe** (fiche du 2026-10-10) · Description publique réécrite — texte non reproduit (empreinte 94acbdba6f8fdc2b → 17768269312c74ad)",
+        "- `2026-10-11` — **Grand Delta Habitat** (fiche du 2026-09-13) · Description publique réécrite — texte non reproduit (empreinte 63aa577244bede8b → 46dcefec1f4afc71)",
+        "- `2026-10-11` — **VD2E** (fiche du 2026-10-10) · **entrée ajoutée**",
+        "- `2026-10-11` — **RGIS France** (fiche du 2026-10-11) · **entrée ajoutée**",
+        "- `2026-10-11` — **Institut de formation politique** (fiche du 2026-09-16) · **entrée ajoutée**",
+        "- `2026-10-11` — **G LA DALLE** (fiche du 2026-10-11) · **entrée ajoutée**",
+        "- `2026-10-11` — **FranceBourse** (fiche du 2026-10-10) · **entrée ajoutée**",
+        "- `2026-10-11` — **Callibri** (fiche du 2026-10-10) · **entrée ajoutée**",
+        "- `2026-10-11` — **Armurerie du Bocage** (fiche du 2026-10-11) · **entrée ajoutée**",
+        "- `2026-10-11` — **AK Transport** (fiche du 2026-10-11) · **entrée ajoutée**"
+      ]
+    }
+  },
+  "erreurs": [
+    "anssi_actualites: aucune entrée récupérée",
+    "cert_eu: flux non trouvé — vérifier l'URL manuellement, source à faible priorité"
+  ]
+}

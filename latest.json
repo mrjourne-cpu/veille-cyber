@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-10-13T14:36:21.370915+00:00",
+  "genere_le": "2026-10-14T12:25:48.153405+00:00",
   "fenetre_jours": 3,
   "sources": {
     "cert_fr_avis": {
@@ -57,6 +57,14 @@
     "fuites_infos": {
       "flux_utilise": "raw.githubusercontent.com REGISTRE.md",
       "lignes_recentes": [
+        "- `2026-10-14` — **Swedish Fit** (fiche du 2026-10-08) · Statut : Revendiquée → Confirmée",
+        "- `2026-10-14` — **Swedish Fit** (fiche du 2026-10-08) · Description publique réécrite — texte non reproduit (empreinte fbf359a04872bcde → c82d1493c1c08ce9)",
+        "- `2026-10-13` — **WeFix** (fiche du 2026-10-13) · **entrée ajoutée**",
+        "- `2026-10-13` — **Ecologic** (fiche du 2026-10-13) · **entrée ajoutée**",
+        "- `2026-10-13` — **Assu Pro** (fiche du 2026-10-13) · **entrée ajoutée**",
+        "- `2026-10-13` — **MaQuestionMedicale** (fiche du 2026-10-13) · **entrée ajoutée**",
+        "- `2026-10-13` — **Immo-gratuit.com** (fiche du 2026-10-12) · **entrée ajoutée**",
+        "- `2026-10-13` — **France Utilitaires** (fiche du 2026-10-12) · **entrée ajoutée**",
         "- `2026-10-12` — **Solutions30** (fiche du 2026-10-12) · **entrée ajoutée**",
         "- `2026-10-12 (constaté)` — **Infogreffe** (fiche du 2026-10-10) · Statut : Revendiquée → Confirmée",
         "- `2026-10-12 (constaté)` — **Infogreffe** (fiche du 2026-10-10) · Description publique réécrite — texte non reproduit (empreinte 17768269312c74ad → 3ab5c807963a70ae)",
@@ -75,11 +83,7 @@
         "- `2026-10-11` — **FranceBourse** (fiche du 2026-10-10) · **entrée ajoutée**",
         "- `2026-10-11` — **Callibri** (fiche du 2026-10-10) · **entrée ajoutée**",
         "- `2026-10-11` — **Armurerie du Bocage** (fiche du 2026-10-11) · **entrée ajoutée**",
-        "- `2026-10-11` — **AK Transport** (fiche du 2026-10-11) · **entrée ajoutée**",
-        "- `2026-10-10` — **Courtiers Partenaires** (fiche du 2026-10-09) · **entrée ajoutée**",
-        "- `2026-10-10` — **Infogreffe** (fiche du 2026-10-10) · **entrée ajoutée**",
-        "- `2026-10-10` — **École 42** (fiche du 2026-10-09) · Statut : Revendiquée → Confirmée",
-        "- `2026-10-10` — **École 42** (fiche du 2026-10-09) · Description publique réécrite — texte non reproduit (empreinte 6e474c4914edffc5 → b8a69a2d09347ceb)"
+        "- `2026-10-11` — **AK Transport** (fiche du 2026-10-11) · **entrée ajoutée**"
       ]
     }
   },
