@@ -1,28 +1,10 @@
 {
-  "genere_le": "2026-10-15T12:09:39.268690+00:00",
+  "genere_le": "2026-10-16T11:55:56.975870+00:00",
   "fenetre_jours": 3,
   "sources": {
     "cert_fr_avis": {
       "flux_utilise": "https://www.cert.ssi.gouv.fr/avis/feed/",
       "entrees": [
-        {
-          "titre": "Multiples vulnérabilités dans PostgreSQL JDBC (12 octobre 2026)",
-          "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1292/",
-          "date": "2026-10-12T00:00:00+00:00",
-          "resume": "De multiples vulnérabilités ont été découvertes dans PostgreSQL JDBC. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et un contournement de la politique de sécurité."
-        },
-        {
-          "titre": "Multiples vulnérabilités dans MongoDB (12 octobre 2026)",
-          "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1293/",
-          "date": "2026-10-12T00:00:00+00:00",
-          "resume": "De multiples vulnérabilités ont été découvertes dans les produits MongoDB. Elles permettent à un attaquant de provoquer un déni de service à distance et un problème de sécurité non spécifié par l'éditeur."
-        },
-        {
-          "titre": "Multiples vulnérabilités dans GitLab (12 octobre 2026)",
-          "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1294/",
-          "date": "2026-10-12T00:00:00+00:00",
-          "resume": "De multiples vulnérabilités ont été découvertes dans GitLab. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données."
-        },
         {
           "titre": "Vulnérabilité dans NetApp StorageGRID (13 octobre 2026)",
           "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1295/",
@@ -154,18 +136,72 @@
           "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1316/",
           "date": "2026-10-14T00:00:00+00:00",
           "resume": "De multiples vulnérabilités ont été découvertes dans les produits Microsoft. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance."
+        },
+        {
+          "titre": "Multiples vulnérabilités dans les produits F5 (15 octobre 2026)",
+          "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1317/",
+          "date": "2026-10-15T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans les produits F5. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données."
+        },
+        {
+          "titre": "Multiples vulnérabilités dans Moodle (15 octobre 2026)",
+          "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1318/",
+          "date": "2026-10-15T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans Moodle. Elles permettent à un attaquant de provoquer une injection de code indirecte à distance (XSS) et un contournement de la politique de sécurité."
+        },
+        {
+          "titre": "Vulnérabilité dans PostgreSQL psqlODBC (15 octobre 2026)",
+          "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1319/",
+          "date": "2026-10-15T00:00:00+00:00",
+          "resume": "Une vulnérabilité a été découverte dans PostgreSQL psqlODBC. Elle permet à un attaquant de provoquer un déni de service à distance."
+        },
+        {
+          "titre": "Multiples vulnérabilités dans Sonicwall Network Security Manager (15 octobre 2026)",
+          "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1320/",
+          "date": "2026-10-15T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans Sonicwall Network Security Manager. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de sécurité."
+        },
+        {
+          "titre": "Multiples vulnérabilités dans Drupal (15 octobre 2026)",
+          "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1321/",
+          "date": "2026-10-15T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans Drupal. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et une injection de code indirecte à distance (XSS)."
+        },
+        {
+          "titre": "Multiples vulnérabilités dans les produits Juniper Networks (15 octobre 2026)",
+          "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1322/",
+          "date": "2026-10-15T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans les produits Juniper Networks. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance."
+        },
+        {
+          "titre": "Vulnérabilité dans les produits Microsoft (15 octobre 2026)",
+          "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1323/",
+          "date": "2026-10-15T00:00:00+00:00",
+          "resume": "Une vulnérabilité a été découverte dans les produits Microsoft. Elle permet à un attaquant de provoquer une élévation de privilèges."
+        },
+        {
+          "titre": "Multiples vulnérabilités dans les produits Symfony (15 octobre 2026)",
+          "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1324/",
+          "date": "2026-10-15T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans les produits Symfony. Elles permettent à un attaquant de provoquer un déni de service à distance."
+        },
+        {
+          "titre": "Vulnérabilité dans Cisco AsyncOS Software pour Secure Email Gateway (15 octobre 2026)",
+          "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1325/",
+          "date": "2026-10-15T00:00:00+00:00",
+          "resume": "Une vulnérabilité a été découverte dans Cisco AsyncOS Software pour Secure Email Gateway. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance et une atteinte à l'intégrité des données. Cisco indique que la vulnérabilité CVE-2026-76519 est activement exploitée."
+        },
+        {
+          "titre": "Multiples vulnérabilités dans les produits Palo Alto Networks (15 octobre 2026)",
+          "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1326/",
+          "date": "2026-10-15T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans les produits Palo Alto Networks. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance. Palo Alto Networks indique que la..."
         }
       ]
     },
     "cert_fr_alertes": {
       "flux_utilise": "https://www.cert.ssi.gouv.fr/alerte/feed/",
       "entrees": [
-        {
-          "titre": "Incident de sécurité ciblant les contrôleurs à distance des installations de réfrigération (12 octobre 2026)",
-          "url": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2026-ALE-012/",
-          "date": "2026-10-12T00:00:00+00:00",
-          "resume": "Le CERT-FR a connaissance de nombreuses compromissions des controleurs à distance d'installation de réfrigération Danfoss série AK-SM, AK-SC ainsi que Copeland xweb et Dixell xweb. De manière générale l'exposition d'une interface de gestion sur Internet est contraire aux bonnes pratiques."
-        },
         {
           "titre": "Vulnérabilité dans Ivanti Connect Secure (ICS) (14 octobre 2026)",
           "url": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2026-ALE-013/",
@@ -189,6 +225,13 @@
     "fuites_infos": {
       "flux_utilise": "raw.githubusercontent.com REGISTRE.md",
       "lignes_recentes": [
+        "- `2026-10-15` — **Ouest-France** (fiche du 2026-10-15) · **entrée ajoutée**",
+        "- `2026-10-15 (constaté)` — **Climb Up** (fiche du 2026-10-14) · Statut : Revendiquée → Confirmée",
+        "- `2026-10-15 (constaté)` — **Climb Up** (fiche du 2026-10-14) · Description publique réécrite — texte non reproduit (empreinte 7e2d4beb78f1546b → 3c1ae8ae6499d6f9)",
+        "- `2026-10-15 (constaté)` — **Grand Orient de France** (fiche du 2026-10-11) · Statut : Revendiquée → Confirmée",
+        "- `2026-10-15 (constaté)` — **Grand Orient de France** (fiche du 2026-10-11) · Description publique réécrite — texte non reproduit (empreinte 2b3d83ff98b5461f → 440e0762f06f74e9)",
+        "- `2026-10-15` — **Couleur CE** (fiche du 2026-10-15) · **entrée ajoutée**",
+        "- `2026-10-15` — **Grand Orient de France** (fiche du 2026-10-11) · **entrée ajoutée**",
         "- `2026-10-15 (constaté)` — **Grande Pharmacie des Halles** (fiche du 2026-10-15) · Description publique réécrite — texte non reproduit (empreinte f773bf79308747a3 → 77bc4c024c01f79b)",
         "- `2026-10-15` — **TailleurAuto** (fiche du 2026-10-15) · **entrée ajoutée**",
         "- `2026-10-15` — **ASCOR** (fiche du 2026-10-15) · **entrée ajoutée**",
@@ -225,14 +268,7 @@
         "- `2026-10-13` — **Assu Pro** (fiche du 2026-10-13) · **entrée ajoutée**",
         "- `2026-10-13` — **MaQuestionMedicale** (fiche du 2026-10-13) · **entrée ajoutée**",
         "- `2026-10-13` — **Immo-gratuit.com** (fiche du 2026-10-12) · **entrée ajoutée**",
-        "- `2026-10-13` — **France Utilitaires** (fiche du 2026-10-12) · **entrée ajoutée**",
-        "- `2026-10-12` — **Solutions30** (fiche du 2026-10-12) · **entrée ajoutée**",
-        "- `2026-10-12 (constaté)` — **Infogreffe** (fiche du 2026-10-10) · Statut : Revendiquée → Confirmée",
-        "- `2026-10-12 (constaté)` — **Infogreffe** (fiche du 2026-10-10) · Description publique réécrite — texte non reproduit (empreinte 17768269312c74ad → 3ab5c807963a70ae)",
-        "- `2026-10-12 (constaté)` — **Uptoo** (fiche du 2026-09-24) · Statut : Revendiquée → Confirmée",
-        "- `2026-10-12 (constaté)` — **Uptoo** (fiche du 2026-09-24) · Volume concerné : (vide) → 140",
-        "- `2026-10-12 (constaté)` — **Uptoo** (fiche du 2026-09-24) · Description publique réécrite — texte non reproduit (empreinte 57f8568c5fe0b249 → 29dc4703750e3547)",
-        "- `2026-10-12` — **Alloextra** (fiche du 2026-10-12) · **entrée ajoutée**"
+        "- `2026-10-13` — **France Utilitaires** (fiche du 2026-10-12) · **entrée ajoutée**"
       ]
     }
   },
