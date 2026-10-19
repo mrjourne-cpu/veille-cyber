@@ -1,0 +1,122 @@
+{
+  "genere_le": "2026-10-19T14:00:07.512538+00:00",
+  "fenetre_jours": 3,
+  "sources": {
+    "cert_fr_avis": {
+      "flux_utilise": "https://www.cert.ssi.gouv.fr/avis/feed/",
+      "entrees": [
+        {
+          "titre": "Multiples vulnérabilités dans Moxa AIG-302 Series (16 octobre 2026)",
+          "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1327/",
+          "date": "2026-10-16T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans Moxa AIG-302 Series. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des données et un contournement de la politique de sécurité."
+        },
+        {
+          "titre": "Multiples vulnérabilités dans les produits Mattermost (16 octobre 2026)",
+          "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1328/",
+          "date": "2026-10-16T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans les produits Mattermost. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur."
+        },
+        {
+          "titre": "Multiples vulnérabilités dans Google Chrome (16 octobre 2026)",
+          "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1329/",
+          "date": "2026-10-16T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur."
+        },
+        {
+          "titre": "Multiples vulnérabilités dans Traefik (16 octobre 2026)",
+          "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1330/",
+          "date": "2026-10-16T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans Traefik. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et un contournement de la politique de sécurité."
+        },
+        {
+          "titre": "Multiples vulnérabilités dans Microsoft Office (16 octobre 2026)",
+          "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1331/",
+          "date": "2026-10-16T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans Microsoft Office. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et un contournement de la politique de sécurité."
+        },
+        {
+          "titre": "Multiples vulnérabilités dans les produits Microsoft (16 octobre 2026)",
+          "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1332/",
+          "date": "2026-10-16T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans les produits Microsoft. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance."
+        },
+        {
+          "titre": "Multiples vulnérabilités dans le noyau Linux d'Ubuntu (16 octobre 2026)",
+          "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1333/",
+          "date": "2026-10-16T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données."
+        },
+        {
+          "titre": "Multiples vulnérabilités dans le noyau Linux de Red Hat (16 octobre 2026)",
+          "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1334/",
+          "date": "2026-10-16T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance."
+        },
+        {
+          "titre": "Multiples vulnérabilités dans le noyau Linux de SUSE (16 octobre 2026)",
+          "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1335/",
+          "date": "2026-10-16T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, un déni de service à distance et une atteinte à la confidentialité des données."
+        },
+        {
+          "titre": "Multiples vulnérabilités dans les produits IBM (16 octobre 2026)",
+          "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1336/",
+          "date": "2026-10-16T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance."
+        }
+      ]
+    },
+    "cert_fr_alertes": {
+      "flux_utilise": "https://www.cert.ssi.gouv.fr/alerte/feed/",
+      "entrees": []
+    },
+    "cert_fr_cti": {
+      "flux_utilise": "https://www.cert.ssi.gouv.fr/cti/feed/",
+      "entrees": []
+    },
+    "anssi_actualites": {
+      "flux_utilise": "listing HTML (repli, flux RSS indisponible)",
+      "entrees": []
+    },
+    "cert_eu": {
+      "flux_utilise": null,
+      "entrees": []
+    },
+    "fuites_infos": {
+      "flux_utilise": "raw.githubusercontent.com REGISTRE.md",
+      "lignes_recentes": [
+        "- `2026-10-19` — **Zou ! (Région Sud)** (fiche du 2026-10-19) · **entrée ajoutée**",
+        "- `2026-10-18` — **Blissim** (fiche du 2026-10-18) · **entrée ajoutée**",
+        "- `2026-10-18` — **Axialys** (fiche du 2026-10-18) · **entrée ajoutée**",
+        "- `2026-10-17 (constaté)` — **BodySwap** (fiche du 2026-10-14) · Description publique réécrite — texte non reproduit (empreinte d92628851bb66a61 → bd7d0f6fa737be86)",
+        "- `2026-10-17` — **Société Centrale Canine** (fiche du 2026-10-17) · **entrée ajoutée**",
+        "- `2026-10-17` — **Centre hospitalier intercommunal des Alpes du Sud** (fiche du 2026-10-17) · **entrée ajoutée**",
+        "- `2026-10-17` — **Vackelys** (fiche du 2026-10-17) · **entrée ajoutée**",
+        "- `2026-10-17` — **PRREL Ambition** (fiche du 2026-10-17) · **entrée ajoutée**",
+        "- `2026-10-17` — **Malakoff Humanis (via IGA Gestion)** (fiche du 2026-10-17) · **entrée ajoutée**",
+        "- `2026-10-17` — **Grande Loge Féminine de France** (fiche du 2026-10-17) · **entrée ajoutée**",
+        "- `2026-10-17` — **Fédération Française de Tir (FFTir)** (fiche du 2026-10-17) · **entrée ajoutée**",
+        "- `2026-10-17` — **Armurerie Laudier** (fiche du 2026-10-17) · **entrée ajoutée**",
+        "- `2026-10-17` — **Armurerie Gilles** (fiche du 2026-10-17) · **entrée ajoutée**",
+        "- `2026-10-17` — **Be-in-Home** (fiche du 2026-10-17) · **entrée ajoutée**",
+        "- `2026-10-17` — **Eurofiber France** (fiche du 2026-10-17) · **entrée ajoutée**",
+        "- `2026-10-17` — **IntelFind** (fiche du 2026-10-17) · **entrée ajoutée**",
+        "- `2026-10-17` — **Alain Afflelou (via Carcy)** (fiche du 2026-10-17) · **entrée ajoutée**",
+        "- `2026-10-17` — **Adetel Group (Centum T&S)** (fiche du 2026-10-17) · **entrée ajoutée**",
+        "- `2026-10-17` — **Paroisse Saint-Urbain / Sainte-Marie** (fiche du 2026-10-17) · **entrée ajoutée**",
+        "- `2026-10-17` — **O’Tacos** (fiche du 2026-10-16) · **entrée ajoutée**",
+        "- `2026-10-17` — **Nomad Education** (fiche du 2026-10-16) · **entrée ajoutée**",
+        "- `2026-10-17` — **INTER-ETAB** (fiche du 2026-10-16) · **entrée ajoutée**",
+        "- `2026-10-16 (constaté)` — **MaQuestionMedicale** (fiche du 2026-10-13) · Description publique réécrite — texte non reproduit (empreinte 25004f5a4da24b47 → 30570115db42b0b5)",
+        "- `2026-10-16 (constaté)` — **MaQuestionMedicale** (fiche du 2026-10-13) · Nature des données : ajouté Contenu de messages, Rendez-vous, Situation familiale",
+        "- `2026-10-16` — **Vélogrimpe** (fiche du 2026-10-16) · **entrée ajoutée**",
+        "- `2026-10-16` — **Courtepaille Bayeux** (fiche du 2026-10-16) · **entrée ajoutée**"
+      ]
+    }
+  },
+  "erreurs": [
+    "anssi_actualites: aucune entrée récupérée",
+    "cert_eu: flux non trouvé — vérifier l'URL manuellement, source à faible priorité"
+  ]
+}
