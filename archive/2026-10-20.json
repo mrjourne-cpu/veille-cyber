@@ -1,0 +1,103 @@
+{
+  "genere_le": "2026-10-20T12:15:48.833830+00:00",
+  "fenetre_jours": 3,
+  "sources": {
+    "cert_fr_avis": {
+      "flux_utilise": "https://www.cert.ssi.gouv.fr/avis/feed/",
+      "entrees": [
+        {
+          "titre": "Multiples vulnérabilités dans Juniper Networks Session Smart Router (19 octobre 2026)",
+          "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1337/",
+          "date": "2026-10-19T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans Juniper Networks Session Smart Router. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur."
+        },
+        {
+          "titre": "Vulnérabilité dans Mattermost Server (19 octobre 2026)",
+          "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1338/",
+          "date": "2026-10-19T00:00:00+00:00",
+          "resume": "Une vulnérabilité a été découverte dans Mattermost Server. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur."
+        },
+        {
+          "titre": "Multiples vulnérabilités dans Stormshield Network Security (19 octobre 2026)",
+          "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1339/",
+          "date": "2026-10-19T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans Stormshield Network Security. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à l'intégrité des données, une injection de code indirecte à distance (XSS) et un contournement de la politique de sécurité."
+        },
+        {
+          "titre": "Multiples vulnérabilités dans Roundcube Webmail (19 octobre 2026)",
+          "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1340/",
+          "date": "2026-10-19T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans Roundcube Webmail. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une falsification de requêtes côté serveur (SSRF) et une injection de code indirecte à distance (XSS)."
+        },
+        {
+          "titre": "Multiples vulnérabilités dans les produits F5 (19 octobre 2026)",
+          "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1341/",
+          "date": "2026-10-19T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans les produits F5. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données."
+        },
+        {
+          "titre": "Multiples vulnérabilités dans Microsoft Edge (19 octobre 2026)",
+          "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1342/",
+          "date": "2026-10-19T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un problème de sécurité non spécifié par l'éditeur."
+        }
+      ]
+    },
+    "cert_fr_alertes": {
+      "flux_utilise": "https://www.cert.ssi.gouv.fr/alerte/feed/",
+      "entrees": []
+    },
+    "cert_fr_cti": {
+      "flux_utilise": "https://www.cert.ssi.gouv.fr/cti/feed/",
+      "entrees": [
+        {
+          "titre": "Violations de données applicatives - Retour d’expérience du CERT-FR (20 octobre 2026)",
+          "url": "https://www.cert.ssi.gouv.fr/cti/CERTFR-2026-CTI-008/",
+          "date": "2026-10-20T00:00:00+00:00",
+          "resume": "En 2025, le CERT-FR a suivi près de 200 violations de données issues d’applications web. Dans de nombreux cas, ces exfiltrations ont été permises par des actions attaquantes d’un faible niveau de complexité, sans exploitation de vulnérabilité technique. Les divulgations de données ont des impacts..."
+        }
+      ]
+    },
+    "anssi_actualites": {
+      "flux_utilise": "listing HTML (repli, flux RSS indisponible)",
+      "entrees": []
+    },
+    "cert_eu": {
+      "flux_utilise": null,
+      "entrees": []
+    },
+    "fuites_infos": {
+      "flux_utilise": "raw.githubusercontent.com REGISTRE.md",
+      "lignes_recentes": [
+        "- `2026-10-19 (constaté)` — **ISEP** (fiche du 2026-10-19) · Description publique réécrite — texte non reproduit (empreinte d61928f718368ad4 → e9ccd2937296d52a)",
+        "- `2026-10-19` — **ISEP** (fiche du 2026-10-19) · **entrée ajoutée**",
+        "- `2026-10-19` — **Zou ! (Région Sud)** (fiche du 2026-10-19) · **entrée ajoutée**",
+        "- `2026-10-18` — **Blissim** (fiche du 2026-10-18) · **entrée ajoutée**",
+        "- `2026-10-18` — **Axialys** (fiche du 2026-10-18) · **entrée ajoutée**",
+        "- `2026-10-17 (constaté)` — **BodySwap** (fiche du 2026-10-14) · Description publique réécrite — texte non reproduit (empreinte d92628851bb66a61 → bd7d0f6fa737be86)",
+        "- `2026-10-17` — **Société Centrale Canine** (fiche du 2026-10-17) · **entrée ajoutée**",
+        "- `2026-10-17` — **Centre hospitalier intercommunal des Alpes du Sud** (fiche du 2026-10-17) · **entrée ajoutée**",
+        "- `2026-10-17` — **Vackelys** (fiche du 2026-10-17) · **entrée ajoutée**",
+        "- `2026-10-17` — **PRREL Ambition** (fiche du 2026-10-17) · **entrée ajoutée**",
+        "- `2026-10-17` — **Malakoff Humanis (via IGA Gestion)** (fiche du 2026-10-17) · **entrée ajoutée**",
+        "- `2026-10-17` — **Grande Loge Féminine de France** (fiche du 2026-10-17) · **entrée ajoutée**",
+        "- `2026-10-17` — **Fédération Française de Tir (FFTir)** (fiche du 2026-10-17) · **entrée ajoutée**",
+        "- `2026-10-17` — **Armurerie Laudier** (fiche du 2026-10-17) · **entrée ajoutée**",
+        "- `2026-10-17` — **Armurerie Gilles** (fiche du 2026-10-17) · **entrée ajoutée**",
+        "- `2026-10-17` — **Be-in-Home** (fiche du 2026-10-17) · **entrée ajoutée**",
+        "- `2026-10-17` — **Eurofiber France** (fiche du 2026-10-17) · **entrée ajoutée**",
+        "- `2026-10-17` — **IntelFind** (fiche du 2026-10-17) · **entrée ajoutée**",
+        "- `2026-10-17` — **Alain Afflelou (via Carcy)** (fiche du 2026-10-17) · **entrée ajoutée**",
+        "- `2026-10-17` — **Adetel Group (Centum T&S)** (fiche du 2026-10-17) · **entrée ajoutée**",
+        "- `2026-10-17` — **Paroisse Saint-Urbain / Sainte-Marie** (fiche du 2026-10-17) · **entrée ajoutée**",
+        "- `2026-10-17` — **O’Tacos** (fiche du 2026-10-16) · **entrée ajoutée**",
+        "- `2026-10-17` — **Nomad Education** (fiche du 2026-10-16) · **entrée ajoutée**",
+        "- `2026-10-17` — **INTER-ETAB** (fiche du 2026-10-16) · **entrée ajoutée**"
+      ]
+    }
+  },
+  "erreurs": [
+    "anssi_actualites: aucune entrée récupérée",
+    "cert_eu: flux non trouvé — vérifier l'URL manuellement, source à faible priorité"
+  ]
+}

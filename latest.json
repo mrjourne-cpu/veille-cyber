@@ -1,69 +1,45 @@
 {
-  "genere_le": "2026-10-19T14:00:07.512538+00:00",
+  "genere_le": "2026-10-20T12:15:48.833830+00:00",
   "fenetre_jours": 3,
   "sources": {
     "cert_fr_avis": {
       "flux_utilise": "https://www.cert.ssi.gouv.fr/avis/feed/",
       "entrees": [
         {
-          "titre": "Multiples vulnérabilités dans Moxa AIG-302 Series (16 octobre 2026)",
-          "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1327/",
-          "date": "2026-10-16T00:00:00+00:00",
-          "resume": "De multiples vulnérabilités ont été découvertes dans Moxa AIG-302 Series. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des données et un contournement de la politique de sécurité."
+          "titre": "Multiples vulnérabilités dans Juniper Networks Session Smart Router (19 octobre 2026)",
+          "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1337/",
+          "date": "2026-10-19T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans Juniper Networks Session Smart Router. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur."
         },
         {
-          "titre": "Multiples vulnérabilités dans les produits Mattermost (16 octobre 2026)",
-          "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1328/",
-          "date": "2026-10-16T00:00:00+00:00",
-          "resume": "De multiples vulnérabilités ont été découvertes dans les produits Mattermost. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur."
+          "titre": "Vulnérabilité dans Mattermost Server (19 octobre 2026)",
+          "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1338/",
+          "date": "2026-10-19T00:00:00+00:00",
+          "resume": "Une vulnérabilité a été découverte dans Mattermost Server. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur."
         },
         {
-          "titre": "Multiples vulnérabilités dans Google Chrome (16 octobre 2026)",
-          "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1329/",
-          "date": "2026-10-16T00:00:00+00:00",
-          "resume": "De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur."
+          "titre": "Multiples vulnérabilités dans Stormshield Network Security (19 octobre 2026)",
+          "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1339/",
+          "date": "2026-10-19T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans Stormshield Network Security. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à l'intégrité des données, une injection de code indirecte à distance (XSS) et un contournement de la politique de sécurité."
         },
         {
-          "titre": "Multiples vulnérabilités dans Traefik (16 octobre 2026)",
-          "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1330/",
-          "date": "2026-10-16T00:00:00+00:00",
-          "resume": "De multiples vulnérabilités ont été découvertes dans Traefik. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et un contournement de la politique de sécurité."
+          "titre": "Multiples vulnérabilités dans Roundcube Webmail (19 octobre 2026)",
+          "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1340/",
+          "date": "2026-10-19T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans Roundcube Webmail. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une falsification de requêtes côté serveur (SSRF) et une injection de code indirecte à distance (XSS)."
         },
         {
-          "titre": "Multiples vulnérabilités dans Microsoft Office (16 octobre 2026)",
-          "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1331/",
-          "date": "2026-10-16T00:00:00+00:00",
-          "resume": "De multiples vulnérabilités ont été découvertes dans Microsoft Office. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et un contournement de la politique de sécurité."
+          "titre": "Multiples vulnérabilités dans les produits F5 (19 octobre 2026)",
+          "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1341/",
+          "date": "2026-10-19T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans les produits F5. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données."
         },
         {
-          "titre": "Multiples vulnérabilités dans les produits Microsoft (16 octobre 2026)",
-          "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1332/",
-          "date": "2026-10-16T00:00:00+00:00",
-          "resume": "De multiples vulnérabilités ont été découvertes dans les produits Microsoft. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance."
-        },
-        {
-          "titre": "Multiples vulnérabilités dans le noyau Linux d'Ubuntu (16 octobre 2026)",
-          "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1333/",
-          "date": "2026-10-16T00:00:00+00:00",
-          "resume": "De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données."
-        },
-        {
-          "titre": "Multiples vulnérabilités dans le noyau Linux de Red Hat (16 octobre 2026)",
-          "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1334/",
-          "date": "2026-10-16T00:00:00+00:00",
-          "resume": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance."
-        },
-        {
-          "titre": "Multiples vulnérabilités dans le noyau Linux de SUSE (16 octobre 2026)",
-          "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1335/",
-          "date": "2026-10-16T00:00:00+00:00",
-          "resume": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, un déni de service à distance et une atteinte à la confidentialité des données."
-        },
-        {
-          "titre": "Multiples vulnérabilités dans les produits IBM (16 octobre 2026)",
-          "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1336/",
-          "date": "2026-10-16T00:00:00+00:00",
-          "resume": "De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance."
+          "titre": "Multiples vulnérabilités dans Microsoft Edge (19 octobre 2026)",
+          "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1342/",
+          "date": "2026-10-19T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un problème de sécurité non spécifié par l'éditeur."
         }
       ]
     },
@@ -73,7 +49,14 @@
     },
     "cert_fr_cti": {
       "flux_utilise": "https://www.cert.ssi.gouv.fr/cti/feed/",
-      "entrees": []
+      "entrees": [
+        {
+          "titre": "Violations de données applicatives - Retour d’expérience du CERT-FR (20 octobre 2026)",
+          "url": "https://www.cert.ssi.gouv.fr/cti/CERTFR-2026-CTI-008/",
+          "date": "2026-10-20T00:00:00+00:00",
+          "resume": "En 2025, le CERT-FR a suivi près de 200 violations de données issues d’applications web. Dans de nombreux cas, ces exfiltrations ont été permises par des actions attaquantes d’un faible niveau de complexité, sans exploitation de vulnérabilité technique. Les divulgations de données ont des impacts..."
+        }
+      ]
     },
     "anssi_actualites": {
       "flux_utilise": "listing HTML (repli, flux RSS indisponible)",
@@ -86,6 +69,8 @@
     "fuites_infos": {
       "flux_utilise": "raw.githubusercontent.com REGISTRE.md",
       "lignes_recentes": [
+        "- `2026-10-19 (constaté)` — **ISEP** (fiche du 2026-10-19) · Description publique réécrite — texte non reproduit (empreinte d61928f718368ad4 → e9ccd2937296d52a)",
+        "- `2026-10-19` — **ISEP** (fiche du 2026-10-19) · **entrée ajoutée**",
         "- `2026-10-19` — **Zou ! (Région Sud)** (fiche du 2026-10-19) · **entrée ajoutée**",
         "- `2026-10-18` — **Blissim** (fiche du 2026-10-18) · **entrée ajoutée**",
         "- `2026-10-18` — **Axialys** (fiche du 2026-10-18) · **entrée ajoutée**",
@@ -107,11 +92,7 @@
         "- `2026-10-17` — **Paroisse Saint-Urbain / Sainte-Marie** (fiche du 2026-10-17) · **entrée ajoutée**",
         "- `2026-10-17` — **O’Tacos** (fiche du 2026-10-16) · **entrée ajoutée**",
         "- `2026-10-17` — **Nomad Education** (fiche du 2026-10-16) · **entrée ajoutée**",
-        "- `2026-10-17` — **INTER-ETAB** (fiche du 2026-10-16) · **entrée ajoutée**",
-        "- `2026-10-16 (constaté)` — **MaQuestionMedicale** (fiche du 2026-10-13) · Description publique réécrite — texte non reproduit (empreinte 25004f5a4da24b47 → 30570115db42b0b5)",
-        "- `2026-10-16 (constaté)` — **MaQuestionMedicale** (fiche du 2026-10-13) · Nature des données : ajouté Contenu de messages, Rendez-vous, Situation familiale",
-        "- `2026-10-16` — **Vélogrimpe** (fiche du 2026-10-16) · **entrée ajoutée**",
-        "- `2026-10-16` — **Courtepaille Bayeux** (fiche du 2026-10-16) · **entrée ajoutée**"
+        "- `2026-10-17` — **INTER-ETAB** (fiche du 2026-10-16) · **entrée ajoutée**"
       ]
     }
   },
