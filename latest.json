@@ -1,46 +1,10 @@
 {
-  "genere_le": "2026-10-22T12:29:59.684764+00:00",
+  "genere_le": "2026-10-23T12:10:48.089642+00:00",
   "fenetre_jours": 3,
   "sources": {
     "cert_fr_avis": {
       "flux_utilise": "https://www.cert.ssi.gouv.fr/avis/feed/",
       "entrees": [
-        {
-          "titre": "Multiples vulnérabilités dans Juniper Networks Session Smart Router (19 octobre 2026)",
-          "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1337/",
-          "date": "2026-10-19T00:00:00+00:00",
-          "resume": "De multiples vulnérabilités ont été découvertes dans Juniper Networks Session Smart Router. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur."
-        },
-        {
-          "titre": "Vulnérabilité dans Mattermost Server (19 octobre 2026)",
-          "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1338/",
-          "date": "2026-10-19T00:00:00+00:00",
-          "resume": "Une vulnérabilité a été découverte dans Mattermost Server. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur."
-        },
-        {
-          "titre": "Multiples vulnérabilités dans Stormshield Network Security (19 octobre 2026)",
-          "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1339/",
-          "date": "2026-10-19T00:00:00+00:00",
-          "resume": "De multiples vulnérabilités ont été découvertes dans Stormshield Network Security. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à l'intégrité des données, une injection de code indirecte à distance (XSS) et un contournement de la politique de sécurité."
-        },
-        {
-          "titre": "Multiples vulnérabilités dans Roundcube Webmail (19 octobre 2026)",
-          "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1340/",
-          "date": "2026-10-19T00:00:00+00:00",
-          "resume": "De multiples vulnérabilités ont été découvertes dans Roundcube Webmail. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une falsification de requêtes côté serveur (SSRF) et une injection de code indirecte à distance (XSS)."
-        },
-        {
-          "titre": "Multiples vulnérabilités dans les produits F5 (19 octobre 2026)",
-          "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1341/",
-          "date": "2026-10-19T00:00:00+00:00",
-          "resume": "De multiples vulnérabilités ont été découvertes dans les produits F5. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données."
-        },
-        {
-          "titre": "Multiples vulnérabilités dans Microsoft Edge (19 octobre 2026)",
-          "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1342/",
-          "date": "2026-10-19T00:00:00+00:00",
-          "resume": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un problème de sécurité non spécifié par l'éditeur."
-        },
         {
           "titre": "Multiples vulnérabilités dans Laravel (20 octobre 2026)",
           "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1343/",
@@ -78,6 +42,42 @@
           "resume": "De multiples vulnérabilités ont été découvertes dans Mattermost Server. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur."
         },
         {
+          "titre": "Multiples vulnérabilités dans Oracle Database Server (21 octobre 2026)",
+          "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1349/",
+          "date": "2026-10-21T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans Oracle Database Server. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données."
+        },
+        {
+          "titre": "Multiples vulnérabilités dans Oracle Java SE (21 octobre 2026)",
+          "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1350/",
+          "date": "2026-10-21T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans Oracle Java SE. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données."
+        },
+        {
+          "titre": "Multiples vulnérabilités dans Oracle MySQL (21 octobre 2026)",
+          "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1351/",
+          "date": "2026-10-21T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans Oracle MySQL. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données."
+        },
+        {
+          "titre": "Multiples vulnérabilités dans Oracle PeopleSoft (21 octobre 2026)",
+          "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1352/",
+          "date": "2026-10-21T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans Oracle PeopleSoft. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données."
+        },
+        {
+          "titre": "Multiples vulnérabilités dans Oracle Systems (21 octobre 2026)",
+          "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1353/",
+          "date": "2026-10-21T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans Oracle Systems. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données."
+        },
+        {
+          "titre": "Multiples vulnérabilités dans Oracle Virtualization (21 octobre 2026)",
+          "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1354/",
+          "date": "2026-10-21T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans Oracle Virtualization. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données."
+        },
+        {
           "titre": "Multiples vulnérabilités dans Oracle Weblogic (21 octobre 2026)",
           "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1355/",
           "date": "2026-10-21T00:00:00+00:00",
@@ -106,6 +106,48 @@
           "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1359/",
           "date": "2026-10-21T00:00:00+00:00",
           "resume": "De multiples vulnérabilités ont été découvertes dans PHP. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance."
+        },
+        {
+          "titre": "Multiples vulnérabilités dans les produits Cisco (22 octobre 2026)",
+          "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1360/",
+          "date": "2026-10-22T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans les produits Cisco. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance."
+        },
+        {
+          "titre": "Vulnérabilité dans les produits Mozilla (22 octobre 2026)",
+          "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1361/",
+          "date": "2026-10-22T00:00:00+00:00",
+          "resume": "Une vulnérabilité a été découverte dans les produits Mozilla. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur."
+        },
+        {
+          "titre": "Multiples vulnérabilités dans GitLab (22 octobre 2026)",
+          "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1363/",
+          "date": "2026-10-22T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans GitLab. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et un contournement de la politique de sécurité."
+        },
+        {
+          "titre": "Multiples vulnérabilités dans les produits SolarWinds (22 octobre 2026)",
+          "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1364/",
+          "date": "2026-10-22T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans les produits SolarWinds. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une falsification de requêtes côté serveur (SSRF) et une injection de code indirecte à distance (XSS)."
+        },
+        {
+          "titre": "Multiples vulnérabilités dans ISC BIND (22 octobre 2026)",
+          "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1365/",
+          "date": "2026-10-22T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans ISC BIND. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service à distance."
+        },
+        {
+          "titre": "Multiples vulnérabilités dans les produits Splunk (22 octobre 2026)",
+          "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1366/",
+          "date": "2026-10-22T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans les produits Splunk. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS)."
+        },
+        {
+          "titre": "Multiples vulnérabilités dans Node (22 octobre 2026)",
+          "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1367/",
+          "date": "2026-10-22T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans Node.js. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et un problème de sécurité non spécifié par l'éditeur."
         }
       ]
     },
@@ -116,7 +158,7 @@
           "titre": "[Màj] Multiples vulnérabilités dans PHP (21 octobre 2026)",
           "url": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2026-ALE-014/",
           "date": "2026-10-21T00:00:00+00:00",
-          "resume": "**[Mise à jours du 21 octobre 2026]** Les correctifs de sécurité sont disponibles sur le site de l'éditeur. PHP indique que les vulnérabilités CVE-2026-109618 et CVE-2026-109619 permettent à un attaquant de provoquer une exécution de code arbitraire à distance. **[Publication Initiale]** Le 20..."
+          "resume": "**[Mise à jour du 22 octobre 2026]** Le CERT-FR a connaissance de preuves de concept pour les vulnérabilités CVE-2026-109618 et CVE-2026-109619 pour des déploiements spécifique de PHP. **[Mise à jour du 21 octobre 2026]** Les correctifs de sécurité sont disponibles sur le site de l'éditeur. PHP..."
         }
       ]
     },
@@ -142,6 +184,13 @@
     "fuites_infos": {
       "flux_utilise": "raw.githubusercontent.com REGISTRE.md",
       "lignes_recentes": [
+        "- `2026-10-22` — **Ircantec** (fiche du 2026-10-22) · **entrée ajoutée**",
+        "- `2026-10-22 (constaté)` — **I-CAD** (fiche du 2026-10-19) · Statut : Revendiquée → Confirmée",
+        "- `2026-10-22 (constaté)` — **I-CAD** (fiche du 2026-10-19) · Description publique réécrite — texte non reproduit (empreinte c0efc3ec25fe7a04 → d1f6ddd05299e578)",
+        "- `2026-10-22 (constaté)` — **Malakoff Humanis (via IGA Gestion)** (fiche du 2026-10-17) · Description publique réécrite — texte non reproduit (empreinte 93770a7ac442b9b7 → 00942aa46ac504fe)",
+        "- `2026-10-22` — **Clin d'œil Opticiens** (fiche du 2026-10-22) · **entrée ajoutée**",
+        "- `2026-10-22` — **Printerpix** (fiche du 2026-10-22) · **entrée ajoutée**",
+        "- `2026-10-22` — **La Compagnie des Sens** (fiche du 2026-10-22) · **entrée ajoutée**",
         "- `2026-10-22` — **Fédération Française de Tir (FFTir)** (fiche du 2026-10-17) · Statut : Revendiquée → Confirmée",
         "- `2026-10-22` — **Fédération Française de Tir (FFTir)** (fiche du 2026-10-17) · Description publique réécrite — texte non reproduit (empreinte 4306ce4000298e9f → 370b58c1fb2851e2)",
         "- `2026-10-21 (constaté)` — **Portaleco** (fiche du 2026-10-20) · Statut : Revendiquée → Confirmée",
@@ -184,10 +233,7 @@
         "- `2026-10-20` — **Axialys** (fiche du 2026-10-18) · Site de l'entité : (vide) → https://www.axialys.com",
         "- `2026-10-20` — **Axialys** (fiche du 2026-10-18) · Volume concerné : (vide) → 128 404",
         "- `2026-10-20` — **Axialys** (fiche du 2026-10-18) · Description publique réécrite — texte non reproduit (empreinte e4d5652bd070dd7a → a56b0a8073353174)",
-        "- `2026-10-20` — **Axialys** (fiche du 2026-10-18) · Nature des données : ajouté Contenu de messages, Identifiant interne, Ticket de support",
-        "- `2026-10-19 (constaté)` — **ISEP** (fiche du 2026-10-19) · Description publique réécrite — texte non reproduit (empreinte d61928f718368ad4 → e9ccd2937296d52a)",
-        "- `2026-10-19` — **ISEP** (fiche du 2026-10-19) · **entrée ajoutée**",
-        "- `2026-10-19` — **Zou ! (Région Sud)** (fiche du 2026-10-19) · **entrée ajoutée**"
+        "- `2026-10-20` — **Axialys** (fiche du 2026-10-18) · Nature des données : ajouté Contenu de messages, Identifiant interne, Ticket de support"
       ]
     }
   },
