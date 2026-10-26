@@ -1,177 +1,85 @@
 {
-  "genere_le": "2026-10-23T12:10:48.089642+00:00",
+  "genere_le": "2026-10-26T13:36:20.584861+00:00",
   "fenetre_jours": 3,
   "sources": {
     "cert_fr_avis": {
       "flux_utilise": "https://www.cert.ssi.gouv.fr/avis/feed/",
       "entrees": [
         {
-          "titre": "Multiples vulnérabilités dans Laravel (20 octobre 2026)",
-          "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1343/",
-          "date": "2026-10-20T00:00:00+00:00",
-          "resume": "De multiples vulnérabilités ont été découvertes dans Laravel. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et un contournement de la politique de sécurité."
+          "titre": "Vulnérabilité dans Mattermost Server (23 octobre 2026)",
+          "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1368/",
+          "date": "2026-10-23T00:00:00+00:00",
+          "resume": "Une vulnérabilité a été découverte dans Mattermost Server. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur."
         },
         {
-          "titre": "Multiples vulnérabilités dans Mattermost Server (20 octobre 2026)",
-          "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1344/",
-          "date": "2026-10-20T00:00:00+00:00",
-          "resume": "De multiples vulnérabilités ont été découvertes dans Mattermost Server. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur."
+          "titre": "Multiples vulnérabilités dans les produits HPE Aruba Networking (23 octobre 2026)",
+          "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1369/",
+          "date": "2026-10-23T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans les produits HPE Aruba Networking. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance."
         },
         {
-          "titre": "Multiples vulnérabilités dans les produits StormShield (21 octobre 2026)",
-          "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1345/",
-          "date": "2026-10-21T00:00:00+00:00",
-          "resume": "De multiples vulnérabilités ont été découvertes dans les produits StormShield. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service à distance et une atteinte à la confidentialité des données."
+          "titre": "Multiples vulnérabilités dans les produits Tenable (23 octobre 2026)",
+          "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1370/",
+          "date": "2026-10-23T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans les produits Tenable. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance."
         },
         {
-          "titre": "Multiples vulnérabilités dans les produits Mozilla (21 octobre 2026)",
-          "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1346/",
-          "date": "2026-10-21T00:00:00+00:00",
-          "resume": "De multiples vulnérabilités ont été découvertes dans les produits Mozilla. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à la confidentialité des données et un déni de service."
+          "titre": "Multiples vulnérabilités dans Microsoft Edge (23 octobre 2026)",
+          "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1371/",
+          "date": "2026-10-23T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur."
         },
         {
-          "titre": "Vulnérabilité dans MongoDB PHP Driver (21 octobre 2026)",
-          "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1347/",
-          "date": "2026-10-21T00:00:00+00:00",
-          "resume": "Une vulnérabilité a été découverte dans MongoDB PHP Driver. Elle permet à un attaquant de provoquer un déni de service à distance."
+          "titre": "Multiples vulnérabilités dans les produits SUSE (23 octobre 2026)",
+          "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1372/",
+          "date": "2026-10-23T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans les produits SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données."
         },
         {
-          "titre": "Multiples vulnérabilités dans Mattermost Server (21 octobre 2026)",
-          "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1348/",
-          "date": "2026-10-21T00:00:00+00:00",
-          "resume": "De multiples vulnérabilités ont été découvertes dans Mattermost Server. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur."
+          "titre": "Multiples vulnérabilités dans les produits Red Hat (23 octobre 2026)",
+          "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1373/",
+          "date": "2026-10-23T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans les produits Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer un contournement de la politique de sécurité, un déni de service et un problème de sécurité non spécifié par l'éditeur."
         },
         {
-          "titre": "Multiples vulnérabilités dans Oracle Database Server (21 octobre 2026)",
-          "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1349/",
-          "date": "2026-10-21T00:00:00+00:00",
-          "resume": "De multiples vulnérabilités ont été découvertes dans Oracle Database Server. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données."
+          "titre": "Multiples vulnérabilités dans le noyau Linux de Debian (23 octobre 2026)",
+          "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1374/",
+          "date": "2026-10-23T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un déni de service."
         },
         {
-          "titre": "Multiples vulnérabilités dans Oracle Java SE (21 octobre 2026)",
-          "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1350/",
-          "date": "2026-10-21T00:00:00+00:00",
-          "resume": "De multiples vulnérabilités ont été découvertes dans Oracle Java SE. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données."
+          "titre": "Multiples vulnérabilités dans le noyau Linux de Debian LTS (23 octobre 2026)",
+          "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1375/",
+          "date": "2026-10-23T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian LTS. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un déni de service."
         },
         {
-          "titre": "Multiples vulnérabilités dans Oracle MySQL (21 octobre 2026)",
-          "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1351/",
-          "date": "2026-10-21T00:00:00+00:00",
-          "resume": "De multiples vulnérabilités ont été découvertes dans Oracle MySQL. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données."
+          "titre": "Multiples vulnérabilités dans le noyau Linux d'Ubuntu (23 octobre 2026)",
+          "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1376/",
+          "date": "2026-10-23T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance."
         },
         {
-          "titre": "Multiples vulnérabilités dans Oracle PeopleSoft (21 octobre 2026)",
-          "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1352/",
-          "date": "2026-10-21T00:00:00+00:00",
-          "resume": "De multiples vulnérabilités ont été découvertes dans Oracle PeopleSoft. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données."
+          "titre": "Multiples vulnérabilités dans les produits Papercut (23 octobre 2026)",
+          "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1377/",
+          "date": "2026-10-23T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans les produits Papercut. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS)."
         },
         {
-          "titre": "Multiples vulnérabilités dans Oracle Systems (21 octobre 2026)",
-          "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1353/",
-          "date": "2026-10-21T00:00:00+00:00",
-          "resume": "De multiples vulnérabilités ont été découvertes dans Oracle Systems. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données."
-        },
-        {
-          "titre": "Multiples vulnérabilités dans Oracle Virtualization (21 octobre 2026)",
-          "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1354/",
-          "date": "2026-10-21T00:00:00+00:00",
-          "resume": "De multiples vulnérabilités ont été découvertes dans Oracle Virtualization. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données."
-        },
-        {
-          "titre": "Multiples vulnérabilités dans Oracle Weblogic (21 octobre 2026)",
-          "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1355/",
-          "date": "2026-10-21T00:00:00+00:00",
-          "resume": "De multiples vulnérabilités ont été découvertes dans Oracle Weblogic. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données."
-        },
-        {
-          "titre": "Vulnérabilité dans Traefik (21 octobre 2026)",
-          "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1356/",
-          "date": "2026-10-21T00:00:00+00:00",
-          "resume": "Une vulnérabilité a été découverte dans Traefik. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données et un contournement de la politique de sécurité."
-        },
-        {
-          "titre": "Multiples vulnérabilités dans Google Chrome (21 octobre 2026)",
-          "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1357/",
-          "date": "2026-10-21T00:00:00+00:00",
-          "resume": "De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur."
-        },
-        {
-          "titre": "Multiples vulnérabilités dans Apache Tomcat (21 octobre 2026)",
-          "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1358/",
-          "date": "2026-10-21T00:00:00+00:00",
-          "resume": "De multiples vulnérabilités ont été découvertes dans Apache Tomcat. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, un contournement de la politique de sécurité et un problème de sécurité non spécifié par l'éditeur."
-        },
-        {
-          "titre": "Multiples vulnérabilités dans PHP (21 octobre 2026)",
-          "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1359/",
-          "date": "2026-10-21T00:00:00+00:00",
-          "resume": "De multiples vulnérabilités ont été découvertes dans PHP. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance."
-        },
-        {
-          "titre": "Multiples vulnérabilités dans les produits Cisco (22 octobre 2026)",
-          "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1360/",
-          "date": "2026-10-22T00:00:00+00:00",
-          "resume": "De multiples vulnérabilités ont été découvertes dans les produits Cisco. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance."
-        },
-        {
-          "titre": "Vulnérabilité dans les produits Mozilla (22 octobre 2026)",
-          "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1361/",
-          "date": "2026-10-22T00:00:00+00:00",
-          "resume": "Une vulnérabilité a été découverte dans les produits Mozilla. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur."
-        },
-        {
-          "titre": "Multiples vulnérabilités dans GitLab (22 octobre 2026)",
-          "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1363/",
-          "date": "2026-10-22T00:00:00+00:00",
-          "resume": "De multiples vulnérabilités ont été découvertes dans GitLab. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et un contournement de la politique de sécurité."
-        },
-        {
-          "titre": "Multiples vulnérabilités dans les produits SolarWinds (22 octobre 2026)",
-          "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1364/",
-          "date": "2026-10-22T00:00:00+00:00",
-          "resume": "De multiples vulnérabilités ont été découvertes dans les produits SolarWinds. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une falsification de requêtes côté serveur (SSRF) et une injection de code indirecte à distance (XSS)."
-        },
-        {
-          "titre": "Multiples vulnérabilités dans ISC BIND (22 octobre 2026)",
-          "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1365/",
-          "date": "2026-10-22T00:00:00+00:00",
-          "resume": "De multiples vulnérabilités ont été découvertes dans ISC BIND. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service à distance."
-        },
-        {
-          "titre": "Multiples vulnérabilités dans les produits Splunk (22 octobre 2026)",
-          "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1366/",
-          "date": "2026-10-22T00:00:00+00:00",
-          "resume": "De multiples vulnérabilités ont été découvertes dans les produits Splunk. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS)."
-        },
-        {
-          "titre": "Multiples vulnérabilités dans Node (22 octobre 2026)",
-          "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1367/",
-          "date": "2026-10-22T00:00:00+00:00",
-          "resume": "De multiples vulnérabilités ont été découvertes dans Node.js. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et un problème de sécurité non spécifié par l'éditeur."
+          "titre": "Multiples vulnérabilités dans les produits IBM (23 octobre 2026)",
+          "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1378/",
+          "date": "2026-10-23T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance."
         }
       ]
     },
     "cert_fr_alertes": {
       "flux_utilise": "https://www.cert.ssi.gouv.fr/alerte/feed/",
-      "entrees": [
-        {
-          "titre": "[Màj] Multiples vulnérabilités dans PHP (21 octobre 2026)",
-          "url": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2026-ALE-014/",
-          "date": "2026-10-21T00:00:00+00:00",
-          "resume": "**[Mise à jour du 22 octobre 2026]** Le CERT-FR a connaissance de preuves de concept pour les vulnérabilités CVE-2026-109618 et CVE-2026-109619 pour des déploiements spécifique de PHP. **[Mise à jour du 21 octobre 2026]** Les correctifs de sécurité sont disponibles sur le site de l'éditeur. PHP..."
-        }
-      ]
+      "entrees": []
     },
     "cert_fr_cti": {
       "flux_utilise": "https://www.cert.ssi.gouv.fr/cti/feed/",
-      "entrees": [
-        {
-          "titre": "Violations de données applicatives - Retour d’expérience du CERT-FR (20 octobre 2026)",
-          "url": "https://www.cert.ssi.gouv.fr/cti/CERTFR-2026-CTI-008/",
-          "date": "2026-10-20T00:00:00+00:00",
-          "resume": "En 2025, le CERT-FR a suivi près de 200 violations de données issues d’applications web. Dans de nombreux cas, ces exfiltrations ont été permises par des actions attaquantes d’un faible niveau de complexité, sans exploitation de vulnérabilité technique. Les divulgations de données ont des impacts..."
-        }
-      ]
+      "entrees": []
     },
     "anssi_actualites": {
       "flux_utilise": "listing HTML (repli, flux RSS indisponible)",
@@ -184,56 +92,40 @@
     "fuites_infos": {
       "flux_utilise": "raw.githubusercontent.com REGISTRE.md",
       "lignes_recentes": [
-        "- `2026-10-22` — **Ircantec** (fiche du 2026-10-22) · **entrée ajoutée**",
-        "- `2026-10-22 (constaté)` — **I-CAD** (fiche du 2026-10-19) · Statut : Revendiquée → Confirmée",
-        "- `2026-10-22 (constaté)` — **I-CAD** (fiche du 2026-10-19) · Description publique réécrite — texte non reproduit (empreinte c0efc3ec25fe7a04 → d1f6ddd05299e578)",
-        "- `2026-10-22 (constaté)` — **Malakoff Humanis (via IGA Gestion)** (fiche du 2026-10-17) · Description publique réécrite — texte non reproduit (empreinte 93770a7ac442b9b7 → 00942aa46ac504fe)",
-        "- `2026-10-22` — **Clin d'œil Opticiens** (fiche du 2026-10-22) · **entrée ajoutée**",
-        "- `2026-10-22` — **Printerpix** (fiche du 2026-10-22) · **entrée ajoutée**",
-        "- `2026-10-22` — **La Compagnie des Sens** (fiche du 2026-10-22) · **entrée ajoutée**",
-        "- `2026-10-22` — **Fédération Française de Tir (FFTir)** (fiche du 2026-10-17) · Statut : Revendiquée → Confirmée",
-        "- `2026-10-22` — **Fédération Française de Tir (FFTir)** (fiche du 2026-10-17) · Description publique réécrite — texte non reproduit (empreinte 4306ce4000298e9f → 370b58c1fb2851e2)",
-        "- `2026-10-21 (constaté)` — **Portaleco** (fiche du 2026-10-20) · Statut : Revendiquée → Confirmée",
-        "- `2026-10-21 (constaté)` — **Portaleco** (fiche du 2026-10-20) · Description publique réécrite — texte non reproduit (empreinte 063846839f1f949f → 7c1563725cd5aa4b)",
-        "- `2026-10-21 (constaté)` — **Valeurs actuelles** (fiche du 2026-10-20) · Statut : Revendiquée → Confirmée",
-        "- `2026-10-21 (constaté)` — **Valeurs actuelles** (fiche du 2026-10-20) · Description publique réécrite — texte non reproduit (empreinte c6b6139e19bcc11c → 29edfa18f032d7c3)",
-        "- `2026-10-21 (constaté)` — **ISEP** (fiche du 2026-10-19) · Statut : Revendiquée → Confirmée",
-        "- `2026-10-21 (constaté)` — **ISEP** (fiche du 2026-10-19) · Description publique réécrite — texte non reproduit (empreinte 0f76ff291408d9fd → da12d422524ef4df)",
-        "- `2026-10-21 (constaté)` — **ISEP** (fiche du 2026-10-19) · Nature des données : ajouté Numéro de téléphone",
-        "- `2026-10-21` — **La Poste Mobile** (fiche du 2026-10-21) · **entrée ajoutée**",
-        "- `2026-10-21` — **Buddiz** (fiche du 2026-10-20) · Statut : Revendiquée → Confirmée",
-        "- `2026-10-21` — **Buddiz** (fiche du 2026-10-20) · Volume concerné : (vide) → 2 307",
-        "- `2026-10-21` — **Buddiz** (fiche du 2026-10-20) · Description publique réécrite — texte non reproduit (empreinte 9053010e2bc8b41d → 8ec2842b4b11dced)",
-        "- `2026-10-20` — **SOLIHA** (fiche du 2026-10-20) · **entrée ajoutée**",
-        "- `2026-10-20` — **Frenchy Sushi** (fiche du 2026-10-20) · **entrée ajoutée**",
-        "- `2026-10-20` — **Buddiz** (fiche du 2026-10-20) · **entrée ajoutée**",
-        "- `2026-10-20` — **Transporteur.com** (fiche du 2026-10-20) · **entrée ajoutée**",
-        "- `2026-10-20` — **King Jouet** (fiche du 2026-10-20) · **entrée ajoutée**",
-        "- `2026-10-20` — **BilletsNantes** (fiche du 2026-10-20) · **entrée ajoutée**",
-        "- `2026-10-20` — **Portaleco** (fiche du 2026-10-20) · **entrée ajoutée**",
-        "- `2026-10-20` — **Terranota** (fiche du 2026-10-20) · **entrée ajoutée**",
-        "- `2026-10-20` — **Valeurs actuelles** (fiche du 2026-10-20) · **entrée ajoutée**",
-        "- `2026-10-20` — **Misterbooking** (fiche du 2026-10-20) · **entrée ajoutée**",
-        "- `2026-10-20` — **LOOF** (fiche du 2026-10-20) · **entrée ajoutée**",
-        "- `2026-10-20` — **I-CAD** (fiche du 2026-10-19) · **entrée ajoutée**",
-        "- `2026-10-20` — **Armurerie Centrale** (fiche du 2026-10-20) · **entrée ajoutée**",
-        "- `2026-10-20` — **Zou ! (Région Sud)** (fiche du 2026-10-19) · Site de l'entité : (vide) → https://zou.maregionsud.fr",
-        "- `2026-10-20` — **Zou ! (Région Sud)** (fiche du 2026-10-19) · Description publique réécrite — texte non reproduit (empreinte 51b14f40cb142669 → 3563e8cfa8375c77)",
-        "- `2026-10-20` — **Malakoff Humanis (via IGA Gestion)** (fiche du 2026-10-17) · Statut : Revendiquée → Confirmée",
-        "- `2026-10-20` — **Malakoff Humanis (via IGA Gestion)** (fiche du 2026-10-17) · Description publique réécrite — texte non reproduit (empreinte 0ae961f76473ecec → 93770a7ac442b9b7)",
-        "- `2026-10-20` — **ISEP** (fiche du 2026-10-19) · Site de l'entité : (vide) → https://www.isep.fr",
-        "- `2026-10-20` — **ISEP** (fiche du 2026-10-19) · Volume concerné : (vide) → 2 671",
-        "- `2026-10-20` — **ISEP** (fiche du 2026-10-19) · Description publique réécrite — texte non reproduit (empreinte e9ccd2937296d52a → 0f76ff291408d9fd)",
-        "- `2026-10-20` — **ISEP** (fiche du 2026-10-19) · Nature des données : ajouté Dossier scolaire ou étudiant",
-        "- `2026-10-20` — **Blissim** (fiche du 2026-10-18) · Site de l'entité : (vide) → https://blissim.fr",
-        "- `2026-10-20` — **Blissim** (fiche du 2026-10-18) · Volume concerné : (vide) → 228 094",
-        "- `2026-10-20` — **Blissim** (fiche du 2026-10-18) · Description publique réécrite — texte non reproduit (empreinte 294380e91469e1d2 → 3c111e23919da150)",
-        "- `2026-10-20` — **Blissim** (fiche du 2026-10-18) · Nature des données : ajouté Identifiant interne ; retiré Historique de transactions",
-        "- `2026-10-20` — **Axialys** (fiche du 2026-10-18) · Statut : Revendiquée → Confirmée",
-        "- `2026-10-20` — **Axialys** (fiche du 2026-10-18) · Site de l'entité : (vide) → https://www.axialys.com",
-        "- `2026-10-20` — **Axialys** (fiche du 2026-10-18) · Volume concerné : (vide) → 128 404",
-        "- `2026-10-20` — **Axialys** (fiche du 2026-10-18) · Description publique réécrite — texte non reproduit (empreinte e4d5652bd070dd7a → a56b0a8073353174)",
-        "- `2026-10-20` — **Axialys** (fiche du 2026-10-18) · Nature des données : ajouté Contenu de messages, Identifiant interne, Ticket de support"
+        "- `2026-10-26` — **Graphcom** (fiche du 2026-10-25) · **entrée ajoutée**",
+        "- `2026-10-26 (constaté)` — **Révision groupée** · champ « Nature des données » : 20 fiches modifiées dans le même lot (détail par fiche dans `registre.jsonl`)",
+        "- `2026-10-25 (constaté)` — **Delatad** (fiche du 2026-10-25) · Statut : Revendiquée → Confirmée",
+        "- `2026-10-25 (constaté)` — **Delatad** (fiche du 2026-10-25) · Description publique réécrite — texte non reproduit (empreinte a0647727a351af7c → 1c10b4edf8667d11)",
+        "- `2026-10-25` — **FSU (Fédération syndicale unitaire)** (fiche du 2026-10-25) · **entrée ajoutée**",
+        "- `2026-10-25` — **Delatad** (fiche du 2026-10-25) · **entrée ajoutée**",
+        "- `2026-10-25` — **Orange** (fiche du 2026-10-23) · **entrée ajoutée**",
+        "- `2026-10-25 (constaté)` — **FMG Sales and Marketing** (fiche du 2026-10-02) · Description publique réécrite — texte non reproduit (empreinte 5786989b27975396 → d39e2c142d36392e)",
+        "- `2026-10-25 (constaté)` — **Aéro-Club de l'AIA** (fiche du 2026-09-24) · Description publique réécrite — texte non reproduit (empreinte 11f3880c259e8db1 → 0010cfca6943bb26)",
+        "- `2026-10-25 (constaté)` — **FMG Sales and Marketing** (fiche du 2026-10-02) · Nature des données : ajouté Données de mineurs",
+        "- `2026-10-25 (constaté)` — **Aéro-Club de l'AIA** (fiche du 2026-09-24) · Nature des données : ajouté Données de mineurs",
+        "- `2026-10-25` — **FootballMinigames** (fiche du 2026-10-24) · **entrée ajoutée**",
+        "- `2026-10-24` — **Renaissance** (fiche du 2026-10-24) · **entrée ajoutée**",
+        "- `2026-10-24` — **DEKRA** (fiche du 2026-10-24) · **entrée ajoutée**",
+        "- `2026-10-24 (constaté)` — **Alaxione** (fiche du 2026-09-28) · Description publique réécrite — texte non reproduit (empreinte 521c3940ecc660c4 → 66505937737a75b2)",
+        "- `2026-10-24 (constaté)` — **Point Vision** (fiche du 2026-09-15) · Description publique réécrite — texte non reproduit (empreinte f0517b61dac9c891 → 7f3e937477e63fd8)",
+        "- `2026-10-24 (constaté)` — **La France insoumise** (fiche du 2026-10-24) · Description publique réécrite — texte non reproduit (empreinte 92839539353054df → 3624b1dfe5f1c75c)",
+        "- `2026-10-24` — **Alliance Police Nationale** (fiche du 2026-10-24) · **entrée ajoutée**",
+        "- `2026-10-24 (constaté)` — **Parti communiste français (PCF)** (fiche du 2026-10-23) · Description publique réécrite — texte non reproduit (empreinte b5a7a8decec31e3a → d4aec9f34c51aeba)",
+        "- `2026-10-24 (constaté)` — **Parti communiste français (PCF)** (fiche du 2026-10-23) · Nature des données : ajouté Adresse email, Adresse postale, Civilité, Code postal, Nom complet, Numéro de téléphone, Ville",
+        "- `2026-10-24 (constaté)` — **La France insoumise** (fiche du 2026-10-24) · Description publique réécrite — texte non reproduit (empreinte 7a6a95a1aaf48596 → 92839539353054df)",
+        "- `2026-10-24 (constaté)` — **La France insoumise** (fiche du 2026-10-24) · Nature des données : ajouté Nom complet",
+        "- `2026-10-24` — **La France insoumise** (fiche du 2026-10-24) · **entrée ajoutée**",
+        "- `2026-10-24` — **ADMR** (fiche du 2026-10-23) · **entrée ajoutée**",
+        "- `2026-10-23` — **ENGIE** (fiche du 2026-10-23) · **entrée ajoutée**",
+        "- `2026-10-23 (constaté)` — **Armurerie Meneux** (fiche du 2026-10-23) · Nature des données : retiré Pièce d'identité",
+        "- `2026-10-23` — **Parti communiste français (PCF)** (fiche du 2026-10-23) · **entrée ajoutée**",
+        "- `2026-10-23` — **Armurerie Meneux** (fiche du 2026-10-23) · **entrée ajoutée**",
+        "- `2026-10-23` — **Fédération Française de Voile (FFVoile)** (fiche du 2026-10-23) · **entrée ajoutée**",
+        "- `2026-10-23 (constaté)` — **Nomad Education** (fiche du 2026-10-16) · Statut : Revendiquée → Confirmée",
+        "- `2026-10-23 (constaté)` — **Nomad Education** (fiche du 2026-10-16) · Description publique réécrite — texte non reproduit (empreinte 52fe7f1b2e7edd4b → 9c85f14984884e96)",
+        "- `2026-10-23 (constaté)` — **King Jouet** (fiche du 2026-10-20) · Statut : Revendiquée → Confirmée",
+        "- `2026-10-23 (constaté)` — **King Jouet** (fiche du 2026-10-20) · Description publique réécrite — texte non reproduit (empreinte 1b53153de8718e93 → 487e937d5d8a72fc)",
+        "- `2026-10-23` — **Plenitude On The Road** (fiche du 2026-10-23) · **entrée ajoutée**"
       ]
     }
   },
