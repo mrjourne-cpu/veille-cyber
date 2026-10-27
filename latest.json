@@ -1,75 +1,57 @@
 {
-  "genere_le": "2026-10-26T13:36:20.584861+00:00",
+  "genere_le": "2026-10-27T12:42:17.714806+00:00",
   "fenetre_jours": 3,
   "sources": {
     "cert_fr_avis": {
       "flux_utilise": "https://www.cert.ssi.gouv.fr/avis/feed/",
       "entrees": [
         {
-          "titre": "Vulnérabilité dans Mattermost Server (23 octobre 2026)",
-          "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1368/",
-          "date": "2026-10-23T00:00:00+00:00",
+          "titre": "Multiples vulnérabilités dans CPython (26 octobre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1379/",
+          "date": "2026-10-26T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans CPython. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité."
+        },
+        {
+          "titre": "Vulnérabilité dans Mattermost Server (26 octobre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1380/",
+          "date": "2026-10-26T00:00:00+00:00",
           "resume": "Une vulnérabilité a été découverte dans Mattermost Server. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur."
         },
         {
-          "titre": "Multiples vulnérabilités dans les produits HPE Aruba Networking (23 octobre 2026)",
-          "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1369/",
-          "date": "2026-10-23T00:00:00+00:00",
-          "resume": "De multiples vulnérabilités ont été découvertes dans les produits HPE Aruba Networking. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance."
-        },
-        {
-          "titre": "Multiples vulnérabilités dans les produits Tenable (23 octobre 2026)",
-          "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1370/",
-          "date": "2026-10-23T00:00:00+00:00",
+          "titre": "Multiples vulnérabilités dans les produits Tenable (26 octobre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1381/",
+          "date": "2026-10-26T00:00:00+00:00",
           "resume": "De multiples vulnérabilités ont été découvertes dans les produits Tenable. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance."
         },
         {
-          "titre": "Multiples vulnérabilités dans Microsoft Edge (23 octobre 2026)",
-          "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1371/",
-          "date": "2026-10-23T00:00:00+00:00",
-          "resume": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur."
+          "titre": "Multiples vulnérabilités dans Microsoft .Net (26 octobre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1382/",
+          "date": "2026-10-26T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans Microsoft .Net. Elles permettent à un attaquant de provoquer une élévation de privilèges."
         },
         {
-          "titre": "Multiples vulnérabilités dans les produits SUSE (23 octobre 2026)",
-          "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1372/",
-          "date": "2026-10-23T00:00:00+00:00",
-          "resume": "De multiples vulnérabilités ont été découvertes dans les produits SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données."
+          "titre": "Vulnérabilité dans les produits Microsoft (26 octobre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1383/",
+          "date": "2026-10-26T00:00:00+00:00",
+          "resume": "Une vulnérabilité a été découverte dans les produits Microsoft. Elle permet à un attaquant de provoquer une élévation de privilèges."
         },
         {
-          "titre": "Multiples vulnérabilités dans les produits Red Hat (23 octobre 2026)",
-          "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1373/",
-          "date": "2026-10-23T00:00:00+00:00",
-          "resume": "De multiples vulnérabilités ont été découvertes dans les produits Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer un contournement de la politique de sécurité, un déni de service et un problème de sécurité non spécifié par l'éditeur."
+          "titre": "Vulnérabilité dans Citrix XenServer (26 octobre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1384/",
+          "date": "2026-10-26T00:00:00+00:00",
+          "resume": "Une vulnérabilité a été découverte dans Citrix XenServer. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité."
         },
         {
-          "titre": "Multiples vulnérabilités dans le noyau Linux de Debian (23 octobre 2026)",
-          "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1374/",
-          "date": "2026-10-23T00:00:00+00:00",
-          "resume": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un déni de service."
+          "titre": "Multiples vulnérabilités dans les produits VMware (26 octobre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1385/",
+          "date": "2026-10-26T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans les produits VMware. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur."
         },
         {
-          "titre": "Multiples vulnérabilités dans le noyau Linux de Debian LTS (23 octobre 2026)",
-          "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1375/",
-          "date": "2026-10-23T00:00:00+00:00",
-          "resume": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian LTS. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un déni de service."
-        },
-        {
-          "titre": "Multiples vulnérabilités dans le noyau Linux d'Ubuntu (23 octobre 2026)",
-          "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1376/",
-          "date": "2026-10-23T00:00:00+00:00",
-          "resume": "De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance."
-        },
-        {
-          "titre": "Multiples vulnérabilités dans les produits Papercut (23 octobre 2026)",
-          "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1377/",
-          "date": "2026-10-23T00:00:00+00:00",
-          "resume": "De multiples vulnérabilités ont été découvertes dans les produits Papercut. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS)."
-        },
-        {
-          "titre": "Multiples vulnérabilités dans les produits IBM (23 octobre 2026)",
-          "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1378/",
-          "date": "2026-10-23T00:00:00+00:00",
-          "resume": "De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance."
+          "titre": "Multiples vulnérabilités dans les produits MongoDB (26 octobre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1386/",
+          "date": "2026-10-26T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans les produits MongoDB. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données."
         }
       ]
     },
@@ -92,6 +74,13 @@
     "fuites_infos": {
       "flux_utilise": "raw.githubusercontent.com REGISTRE.md",
       "lignes_recentes": [
+        "- `2026-10-26` — **Le Closet** (fiche du 2026-10-26) · **entrée ajoutée**",
+        "- `2026-10-26` — **Actil** (fiche du 2026-10-26) · **entrée ajoutée**",
+        "- `2026-10-26 (constaté)` — **Blissim** (fiche du 2026-10-18) · Statut : Revendiquée → Confirmée",
+        "- `2026-10-26 (constaté)` — **Blissim** (fiche du 2026-10-18) · Description publique réécrite — texte non reproduit (empreinte 3c111e23919da150 → 6e23fbb2a979dffa)",
+        "- `2026-10-26 (constaté)` — **FSU (Fédération syndicale unitaire)** (fiche du 2026-10-25) · Statut : Revendiquée → Confirmée",
+        "- `2026-10-26 (constaté)` — **FSU (Fédération syndicale unitaire)** (fiche du 2026-10-25) · Description publique réécrite — texte non reproduit (empreinte 3ce1782a61d6c9df → 0dc36b78b92fcd5f)",
+        "- `2026-10-26 (constaté)` — **FSU (Fédération syndicale unitaire)** (fiche du 2026-10-25) · Nature des données : ajouté Données sensibles",
         "- `2026-10-26` — **Graphcom** (fiche du 2026-10-25) · **entrée ajoutée**",
         "- `2026-10-26 (constaté)` — **Révision groupée** · champ « Nature des données » : 20 fiches modifiées dans le même lot (détail par fiche dans `registre.jsonl`)",
         "- `2026-10-25 (constaté)` — **Delatad** (fiche du 2026-10-25) · Statut : Revendiquée → Confirmée",
@@ -115,17 +104,7 @@
         "- `2026-10-24 (constaté)` — **La France insoumise** (fiche du 2026-10-24) · Description publique réécrite — texte non reproduit (empreinte 7a6a95a1aaf48596 → 92839539353054df)",
         "- `2026-10-24 (constaté)` — **La France insoumise** (fiche du 2026-10-24) · Nature des données : ajouté Nom complet",
         "- `2026-10-24` — **La France insoumise** (fiche du 2026-10-24) · **entrée ajoutée**",
-        "- `2026-10-24` — **ADMR** (fiche du 2026-10-23) · **entrée ajoutée**",
-        "- `2026-10-23` — **ENGIE** (fiche du 2026-10-23) · **entrée ajoutée**",
-        "- `2026-10-23 (constaté)` — **Armurerie Meneux** (fiche du 2026-10-23) · Nature des données : retiré Pièce d'identité",
-        "- `2026-10-23` — **Parti communiste français (PCF)** (fiche du 2026-10-23) · **entrée ajoutée**",
-        "- `2026-10-23` — **Armurerie Meneux** (fiche du 2026-10-23) · **entrée ajoutée**",
-        "- `2026-10-23` — **Fédération Française de Voile (FFVoile)** (fiche du 2026-10-23) · **entrée ajoutée**",
-        "- `2026-10-23 (constaté)` — **Nomad Education** (fiche du 2026-10-16) · Statut : Revendiquée → Confirmée",
-        "- `2026-10-23 (constaté)` — **Nomad Education** (fiche du 2026-10-16) · Description publique réécrite — texte non reproduit (empreinte 52fe7f1b2e7edd4b → 9c85f14984884e96)",
-        "- `2026-10-23 (constaté)` — **King Jouet** (fiche du 2026-10-20) · Statut : Revendiquée → Confirmée",
-        "- `2026-10-23 (constaté)` — **King Jouet** (fiche du 2026-10-20) · Description publique réécrite — texte non reproduit (empreinte 1b53153de8718e93 → 487e937d5d8a72fc)",
-        "- `2026-10-23` — **Plenitude On The Road** (fiche du 2026-10-23) · **entrée ajoutée**"
+        "- `2026-10-24` — **ADMR** (fiche du 2026-10-23) · **entrée ajoutée**"
       ]
     }
   },
