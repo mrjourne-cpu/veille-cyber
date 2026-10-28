@@ -1,0 +1,170 @@
+{
+  "genere_le": "2026-10-28T13:34:09.973369+00:00",
+  "fenetre_jours": 3,
+  "sources": {
+    "cert_fr_avis": {
+      "flux_utilise": "https://www.cert.ssi.gouv.fr/avis/feed/",
+      "entrees": [
+        {
+          "titre": "Multiples vulnérabilités dans CPython (26 octobre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1379/",
+          "date": "2026-10-26T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans CPython. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité."
+        },
+        {
+          "titre": "Vulnérabilité dans Mattermost Server (26 octobre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1380/",
+          "date": "2026-10-26T00:00:00+00:00",
+          "resume": "Une vulnérabilité a été découverte dans Mattermost Server. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur."
+        },
+        {
+          "titre": "Multiples vulnérabilités dans les produits Tenable (26 octobre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1381/",
+          "date": "2026-10-26T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans les produits Tenable. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance."
+        },
+        {
+          "titre": "Multiples vulnérabilités dans Microsoft .Net (26 octobre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1382/",
+          "date": "2026-10-26T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans Microsoft .Net. Elles permettent à un attaquant de provoquer une élévation de privilèges."
+        },
+        {
+          "titre": "Vulnérabilité dans les produits Microsoft (26 octobre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1383/",
+          "date": "2026-10-26T00:00:00+00:00",
+          "resume": "Une vulnérabilité a été découverte dans les produits Microsoft. Elle permet à un attaquant de provoquer une élévation de privilèges."
+        },
+        {
+          "titre": "Vulnérabilité dans Citrix XenServer (26 octobre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1384/",
+          "date": "2026-10-26T00:00:00+00:00",
+          "resume": "Une vulnérabilité a été découverte dans Citrix XenServer. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité."
+        },
+        {
+          "titre": "Multiples vulnérabilités dans les produits VMware (26 octobre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1385/",
+          "date": "2026-10-26T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans les produits VMware. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur."
+        },
+        {
+          "titre": "Multiples vulnérabilités dans les produits MongoDB (26 octobre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1386/",
+          "date": "2026-10-26T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans les produits MongoDB. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données."
+        },
+        {
+          "titre": "Multiples vulnérabilités dans les produits Apple (27 octobre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1387/",
+          "date": "2026-10-27T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans les produits Apple. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et une atteinte à la confidentialité des données. Apple indique que la vulnérabilité CVE-2026-86950..."
+        },
+        {
+          "titre": "Vulnérabilité dans Mattermost Server (27 octobre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1388/",
+          "date": "2026-10-27T00:00:00+00:00",
+          "resume": "Une vulnérabilité a été découverte dans Mattermost Server. Elle permet à un attaquant de provoquer un déni de service à distance."
+        },
+        {
+          "titre": "Multiples vulnérabilités dans GLPI (27 octobre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1389/",
+          "date": "2026-10-27T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans GLPI. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à l'intégrité des données, une injection SQL (SQLi) et une injection de code indirecte à distance (XSS)."
+        },
+        {
+          "titre": "Multiples vulnérabilités dans Tenable Network Monitor (27 octobre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1390/",
+          "date": "2026-10-27T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans Tenable Network Monitor. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données."
+        },
+        {
+          "titre": "Multiples vulnérabilités dans Mozilla Firefox (27 octobre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1391/",
+          "date": "2026-10-27T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans Mozilla Firefox. Elles permettent à un attaquant de provoquer une atteinte à l'intégrité des données et un contournement de la politique de sécurité."
+        },
+        {
+          "titre": "Multiples vulnérabilités dans les produits Nextcloud (27 octobre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1392/",
+          "date": "2026-10-27T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans les produits Nextcloud. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et un contournement de la politique de sécurité."
+        },
+        {
+          "titre": "Multiples vulnérabilités dans les produits Moxa (27 octobre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1393/",
+          "date": "2026-10-27T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans les produits Moxa. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service à distance et une atteinte à la confidentialité des données."
+        },
+        {
+          "titre": "Multiples vulnérabilités dans Citrix NetScaler ADC et Gateway (27 octobre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1394/",
+          "date": "2026-10-27T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans Citrix NetScaler ADC et Gateway. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance."
+        },
+        {
+          "titre": "Multiples vulnérabilités dans Microsoft Edge (27 octobre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1395/",
+          "date": "2026-10-27T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données."
+        },
+        {
+          "titre": "Vulnérabilité dans les produits Palo Alto Networks (27 octobre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1396/",
+          "date": "2026-10-27T00:00:00+00:00",
+          "resume": "Une vulnérabilité a été découverte dans les produits Palo Alto Networks. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données."
+        }
+      ]
+    },
+    "cert_fr_alertes": {
+      "flux_utilise": "https://www.cert.ssi.gouv.fr/alerte/feed/",
+      "entrees": []
+    },
+    "cert_fr_cti": {
+      "flux_utilise": "https://www.cert.ssi.gouv.fr/cti/feed/",
+      "entrees": []
+    },
+    "anssi_actualites": {
+      "flux_utilise": "listing HTML (repli, flux RSS indisponible)",
+      "entrees": []
+    },
+    "cert_eu": {
+      "flux_utilise": null,
+      "entrees": []
+    },
+    "fuites_infos": {
+      "flux_utilise": "raw.githubusercontent.com REGISTRE.md",
+      "lignes_recentes": [
+        "- `2026-10-28` — **Fédération Française Handisport** (fiche du 2026-10-28) · **entrée ajoutée**",
+        "- `2026-10-28` — **Cave Coste** (fiche du 2026-10-03) · **entrée ajoutée**",
+        "- `2026-10-27` — **ACF Assurances** (fiche du 2026-10-27) · **entrée ajoutée**",
+        "- `2026-10-27` — **Quorum Groupe** (fiche du 2026-10-25) · **entrée ajoutée**",
+        "- `2026-10-27` — **La Mutuelle Communale** (fiche du 2026-10-26) · **entrée ajoutée**",
+        "- `2026-10-27` — **Fédération Sportive et Culturelle de France** (fiche du 2026-10-26) · **entrée ajoutée**",
+        "- `2026-10-27` — **elloha** (fiche du 2026-10-27) · **entrée ajoutée**",
+        "- `2026-10-26` — **Le Closet** (fiche du 2026-10-26) · **entrée ajoutée**",
+        "- `2026-10-26` — **Actil** (fiche du 2026-10-26) · **entrée ajoutée**",
+        "- `2026-10-26 (constaté)` — **Blissim** (fiche du 2026-10-18) · Statut : Revendiquée → Confirmée",
+        "- `2026-10-26 (constaté)` — **Blissim** (fiche du 2026-10-18) · Description publique réécrite — texte non reproduit (empreinte 3c111e23919da150 → 6e23fbb2a979dffa)",
+        "- `2026-10-26 (constaté)` — **FSU (Fédération syndicale unitaire)** (fiche du 2026-10-25) · Statut : Revendiquée → Confirmée",
+        "- `2026-10-26 (constaté)` — **FSU (Fédération syndicale unitaire)** (fiche du 2026-10-25) · Description publique réécrite — texte non reproduit (empreinte 3ce1782a61d6c9df → 0dc36b78b92fcd5f)",
+        "- `2026-10-26 (constaté)` — **FSU (Fédération syndicale unitaire)** (fiche du 2026-10-25) · Nature des données : ajouté Données sensibles",
+        "- `2026-10-26` — **Graphcom** (fiche du 2026-10-25) · **entrée ajoutée**",
+        "- `2026-10-26 (constaté)` — **Révision groupée** · champ « Nature des données » : 20 fiches modifiées dans le même lot (détail par fiche dans `registre.jsonl`)",
+        "- `2026-10-25 (constaté)` — **Delatad** (fiche du 2026-10-25) · Statut : Revendiquée → Confirmée",
+        "- `2026-10-25 (constaté)` — **Delatad** (fiche du 2026-10-25) · Description publique réécrite — texte non reproduit (empreinte a0647727a351af7c → 1c10b4edf8667d11)",
+        "- `2026-10-25` — **FSU (Fédération syndicale unitaire)** (fiche du 2026-10-25) · **entrée ajoutée**",
+        "- `2026-10-25` — **Delatad** (fiche du 2026-10-25) · **entrée ajoutée**",
+        "- `2026-10-25` — **Orange** (fiche du 2026-10-23) · **entrée ajoutée**",
+        "- `2026-10-25 (constaté)` — **FMG Sales and Marketing** (fiche du 2026-10-02) · Description publique réécrite — texte non reproduit (empreinte 5786989b27975396 → d39e2c142d36392e)",
+        "- `2026-10-25 (constaté)` — **Aéro-Club de l'AIA** (fiche du 2026-09-24) · Description publique réécrite — texte non reproduit (empreinte 11f3880c259e8db1 → 0010cfca6943bb26)",
+        "- `2026-10-25 (constaté)` — **FMG Sales and Marketing** (fiche du 2026-10-02) · Nature des données : ajouté Données de mineurs",
+        "- `2026-10-25 (constaté)` — **Aéro-Club de l'AIA** (fiche du 2026-09-24) · Nature des données : ajouté Données de mineurs",
+        "- `2026-10-25` — **FootballMinigames** (fiche du 2026-10-24) · **entrée ajoutée**"
+      ]
+    }
+  },
+  "erreurs": [
+    "anssi_actualites: aucune entrée récupérée",
+    "cert_eu: flux non trouvé — vérifier l'URL manuellement, source à faible priorité"
+  ]
+}
