@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-10-28T13:34:09.973369+00:00",
+  "genere_le": "2026-10-29T13:45:03.037910+00:00",
   "fenetre_jours": 3,
   "sources": {
     "cert_fr_avis": {
@@ -112,6 +112,78 @@
           "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1396/",
           "date": "2026-10-27T00:00:00+00:00",
           "resume": "Une vulnérabilité a été découverte dans les produits Palo Alto Networks. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données."
+        },
+        {
+          "titre": "Vulnérabilité dans CPython (28 octobre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1397/",
+          "date": "2026-10-28T00:00:00+00:00",
+          "resume": "Une vulnérabilité a été découverte dans CPython. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité."
+        },
+        {
+          "titre": "Multiples vulnérabilités dans Google Chrome (28 octobre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1398/",
+          "date": "2026-10-28T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur."
+        },
+        {
+          "titre": "Multiples vulnérabilités dans les produits Veeam (28 octobre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1399/",
+          "date": "2026-10-28T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans les produits Veeam. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données."
+        },
+        {
+          "titre": "Vulnérabilité dans Samba (28 octobre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1400/",
+          "date": "2026-10-28T00:00:00+00:00",
+          "resume": "Une vulnérabilité a été découverte dans Samba. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des données et un contournement de la politique de sécurité."
+        },
+        {
+          "titre": "Multiples vulnérabilités dans Docker Desktop (28 octobre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1401/",
+          "date": "2026-10-28T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans Docker Desktop. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et un contournement de la politique de sécurité."
+        },
+        {
+          "titre": "Multiples vulnérabilités dans Palo Alto Networks PAN-OS (28 octobre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1402/",
+          "date": "2026-10-28T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans Palo Alto Networks PAN-OS. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance. Palo Alto Networks indique que les vulnérabilités CVE-2026-109618 et CVE-2026-109619 sont activement exploitées."
+        },
+        {
+          "titre": "Multiples vulnérabilités dans Metabase (28 octobre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1403/",
+          "date": "2026-10-28T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans Metabase. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur."
+        },
+        {
+          "titre": "Multiples vulnérabilités dans Mitel OpenScape Endpoint Management (28 octobre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1404/",
+          "date": "2026-10-28T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans Mitel OpenScape Endpoint Management. Elles permettent à un attaquant de provoquer une élévation de privilèges et un contournement de la politique de sécurité."
+        },
+        {
+          "titre": "Multiples vulnérabilités dans Microsoft Edge (28 octobre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1405/",
+          "date": "2026-10-28T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de sécurité."
+        },
+        {
+          "titre": "Multiples vulnérabilités dans les produits Mozilla (28 octobre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1406/",
+          "date": "2026-10-28T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans les produits Mozilla. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance."
+        },
+        {
+          "titre": "Vulnérabilité dans les produits Belden (28 octobre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1407/",
+          "date": "2026-10-28T00:00:00+00:00",
+          "resume": "Une vulnérabilité a été découverte dans les produits Belden. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité."
+        },
+        {
+          "titre": "Vulnérabilité dans Axis Camera Station Pro (28 octobre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1408/",
+          "date": "2026-10-28T00:00:00+00:00",
+          "resume": "Une vulnérabilité a été découverte dans Axis Camera Station Pro. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données."
         }
       ]
     },
@@ -134,6 +206,13 @@
     "fuites_infos": {
       "flux_utilise": "raw.githubusercontent.com REGISTRE.md",
       "lignes_recentes": [
+        "- `2026-10-29 (constaté)` — **Actil** (fiche du 2026-10-26) · Statut : Revendiquée → Confirmée",
+        "- `2026-10-29 (constaté)` — **Actil** (fiche du 2026-10-26) · Description publique réécrite — texte non reproduit (empreinte ee51d5df829ee92b → f4adbd806c4cc74a)",
+        "- `2026-10-29` — **AGSI Computer** (fiche du 2026-10-29) · **entrée ajoutée**",
+        "- `2026-10-28` — **Le Crestois** (fiche du 2026-10-28) · **entrée ajoutée**",
+        "- `2026-10-28` — **Compagnie des Transports Strasbourgeois (CTS)** (fiche du 2026-10-28) · **entrée ajoutée**",
+        "- `2026-10-28` — **Cybertek** (fiche du 2026-10-28) · **entrée ajoutée**",
+        "- `2026-10-28` — **Communauté de communes des Portes du Berry** (fiche du 2026-10-28) · **entrée ajoutée**",
         "- `2026-10-28` — **Fédération Française Handisport** (fiche du 2026-10-28) · **entrée ajoutée**",
         "- `2026-10-28` — **Cave Coste** (fiche du 2026-10-03) · **entrée ajoutée**",
         "- `2026-10-27` — **ACF Assurances** (fiche du 2026-10-27) · **entrée ajoutée**",
@@ -149,17 +228,7 @@
         "- `2026-10-26 (constaté)` — **FSU (Fédération syndicale unitaire)** (fiche du 2026-10-25) · Description publique réécrite — texte non reproduit (empreinte 3ce1782a61d6c9df → 0dc36b78b92fcd5f)",
         "- `2026-10-26 (constaté)` — **FSU (Fédération syndicale unitaire)** (fiche du 2026-10-25) · Nature des données : ajouté Données sensibles",
         "- `2026-10-26` — **Graphcom** (fiche du 2026-10-25) · **entrée ajoutée**",
-        "- `2026-10-26 (constaté)` — **Révision groupée** · champ « Nature des données » : 20 fiches modifiées dans le même lot (détail par fiche dans `registre.jsonl`)",
-        "- `2026-10-25 (constaté)` — **Delatad** (fiche du 2026-10-25) · Statut : Revendiquée → Confirmée",
-        "- `2026-10-25 (constaté)` — **Delatad** (fiche du 2026-10-25) · Description publique réécrite — texte non reproduit (empreinte a0647727a351af7c → 1c10b4edf8667d11)",
-        "- `2026-10-25` — **FSU (Fédération syndicale unitaire)** (fiche du 2026-10-25) · **entrée ajoutée**",
-        "- `2026-10-25` — **Delatad** (fiche du 2026-10-25) · **entrée ajoutée**",
-        "- `2026-10-25` — **Orange** (fiche du 2026-10-23) · **entrée ajoutée**",
-        "- `2026-10-25 (constaté)` — **FMG Sales and Marketing** (fiche du 2026-10-02) · Description publique réécrite — texte non reproduit (empreinte 5786989b27975396 → d39e2c142d36392e)",
-        "- `2026-10-25 (constaté)` — **Aéro-Club de l'AIA** (fiche du 2026-09-24) · Description publique réécrite — texte non reproduit (empreinte 11f3880c259e8db1 → 0010cfca6943bb26)",
-        "- `2026-10-25 (constaté)` — **FMG Sales and Marketing** (fiche du 2026-10-02) · Nature des données : ajouté Données de mineurs",
-        "- `2026-10-25 (constaté)` — **Aéro-Club de l'AIA** (fiche du 2026-09-24) · Nature des données : ajouté Données de mineurs",
-        "- `2026-10-25` — **FootballMinigames** (fiche du 2026-10-24) · **entrée ajoutée**"
+        "- `2026-10-26 (constaté)` — **Révision groupée** · champ « Nature des données » : 20 fiches modifiées dans le même lot (détail par fiche dans `registre.jsonl`)"
       ]
     }
   },
