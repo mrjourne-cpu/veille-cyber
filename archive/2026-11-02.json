@@ -1,0 +1,201 @@
+{
+  "genere_le": "2026-11-02T16:35:04.294001+00:00",
+  "fenetre_jours": 3,
+  "sources": {
+    "cert_fr_avis": {
+      "flux_utilise": "https://www.cert.ssi.gouv.fr/avis/feed/",
+      "entrees": [
+        {
+          "titre": "Multiples vulnérabilités dans les produits Apple (30 octobre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1421/",
+          "date": "2026-10-30T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans les produits Apple. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données."
+        },
+        {
+          "titre": "Multiples vulnérabilités dans Google Chrome (30 octobre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1422/",
+          "date": "2026-10-30T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur."
+        },
+        {
+          "titre": "Vulnérabilité dans CPython (30 octobre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1423/",
+          "date": "2026-10-30T00:00:00+00:00",
+          "resume": "Une vulnérabilité a été découverte dans CPython. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur."
+        },
+        {
+          "titre": "Vulnérabilité dans Ruby on Rails trilogy (30 octobre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1424/",
+          "date": "2026-10-30T00:00:00+00:00",
+          "resume": "Une vulnérabilité a été découverte dans Ruby on Rails trilogy. Elle permet à un attaquant de provoquer une injection SQL (SQLi)."
+        },
+        {
+          "titre": "Vulnérabilité dans Tenable Nessus Plugin (30 octobre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1425/",
+          "date": "2026-10-30T00:00:00+00:00",
+          "resume": "Une vulnérabilité a été découverte dans Tenable Nessus Plugin. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données."
+        },
+        {
+          "titre": "Multiples vulnérabilités dans Veeam Management Pack (30 octobre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1426/",
+          "date": "2026-10-30T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans Veeam Management Pack. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance."
+        },
+        {
+          "titre": "Vulnérabilité dans GitLab (30 octobre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1427/",
+          "date": "2026-10-30T00:00:00+00:00",
+          "resume": "Une vulnérabilité a été découverte dans les produits GitLab. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité."
+        },
+        {
+          "titre": "Multiples vulnérabilités dans Suricata (30 octobre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1428/",
+          "date": "2026-10-30T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans Suricata. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur."
+        },
+        {
+          "titre": "Vulnérabilité dans Stormshield Management Center (30 octobre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1429/",
+          "date": "2026-10-30T00:00:00+00:00",
+          "resume": "Une vulnérabilité a été découverte dans Stormshield Management Center. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance."
+        },
+        {
+          "titre": "Multiples vulnérabilités dans les produits MongoDB (30 octobre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1430/",
+          "date": "2026-10-30T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans les produits MongoDB. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à l'intégrité des données, une injection SQL (SQLi) et un contournement de la politique de sécurité."
+        },
+        {
+          "titre": "Multiples vulnérabilités dans le noyau Linux de Red Hat (30 octobre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1431/",
+          "date": "2026-10-30T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance."
+        },
+        {
+          "titre": "Multiples vulnérabilités dans le noyau Linux de SUSE (30 octobre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1432/",
+          "date": "2026-10-30T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, un contournement de la politique de sécurité et un déni de service."
+        },
+        {
+          "titre": "Multiples vulnérabilités dans les produits IBM (30 octobre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1433/",
+          "date": "2026-10-30T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données."
+        },
+        {
+          "titre": "Multiples vulnérabilités dans Redmine (02 novembre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1434/",
+          "date": "2026-11-02T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans Redmine. Certaines d'entre elles permettent à un attaquant de provoquer une injection de code indirecte à distance (XSS), un contournement de la politique de sécurité et un déni de service."
+        },
+        {
+          "titre": "Multiples vulnérabilités dans les produits Synology (02 novembre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1435/",
+          "date": "2026-11-02T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans les produits Synology. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance."
+        },
+        {
+          "titre": "Multiples vulnérabilités dans Tenable Identity Exposure (02 novembre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1436/",
+          "date": "2026-11-02T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans Tenable Identity Exposure. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données."
+        },
+        {
+          "titre": "Multiples vulnérabilités dans Qnap QNE (02 novembre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1437/",
+          "date": "2026-11-02T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans Qnap QNE. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance."
+        },
+        {
+          "titre": "Multiples vulnérabilités dans macmon et NRSW (02 novembre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1438/",
+          "date": "2026-11-02T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans Belden macmon et NRSW. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance."
+        },
+        {
+          "titre": "Vulnérabilité dans Traefik (02 novembre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1439/",
+          "date": "2026-11-02T00:00:00+00:00",
+          "resume": "Une vulnérabilité a été découverte dans Traefik. Elle permet à un attaquant de provoquer un déni de service à distance."
+        },
+        {
+          "titre": "Multiples vulnérabilités dans Microsoft Edge (02 novembre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1440/",
+          "date": "2026-11-02T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur."
+        },
+        {
+          "titre": "Vulnérabilité dans Microsoft Visual Studio (02 novembre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1441/",
+          "date": "2026-11-02T00:00:00+00:00",
+          "resume": "Une vulnérabilité a été découverte dans Microsoft Visual Studio. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité."
+        },
+        {
+          "titre": "Multiples vulnérabilités dans Ivanti Connect Secure (02 novembre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1442/",
+          "date": "2026-11-02T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans Ivanti Connect Secure. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un contournement de la politique de sécurité. Ivanti indique que les vulnérabilités CVE-2026-104935,..."
+        }
+      ]
+    },
+    "cert_fr_alertes": {
+      "flux_utilise": "https://www.cert.ssi.gouv.fr/alerte/feed/",
+      "entrees": []
+    },
+    "cert_fr_cti": {
+      "flux_utilise": "https://www.cert.ssi.gouv.fr/cti/feed/",
+      "entrees": []
+    },
+    "anssi_actualites": {
+      "flux_utilise": "listing HTML (repli, flux RSS indisponible)",
+      "entrees": []
+    },
+    "cert_eu": {
+      "flux_utilise": null,
+      "entrees": []
+    },
+    "fuites_infos": {
+      "flux_utilise": "raw.githubusercontent.com REGISTRE.md",
+      "lignes_recentes": [
+        "- `2026-11-02` — **Alaxione** (fiche du 2026-11-02) · **entrée ajoutée**",
+        "- `2026-11-02` — **Auto-Planning** (fiche du 2026-10-28) · **entrée ajoutée**",
+        "- `2026-11-02` — **DEKRA Automotive** (fiche du 2026-11-02) · **entrée ajoutée**",
+        "- `2026-11-02` — **AMSAM** (fiche du 2026-10-23) · **entrée ajoutée**",
+        "- `2026-11-01` — **HelloDepann** (fiche du 2026-11-01) · **entrée ajoutée**",
+        "- `2026-11-01` — **Bien'ici** (fiche du 2026-11-01) · **entrée ajoutée**",
+        "- `2026-11-01` — **Autosur** (fiche du 2026-10-31) · Statut : Revendiquée → Confirmée",
+        "- `2026-11-01` — **Autosur** (fiche du 2026-10-31) · Description publique réécrite — texte non reproduit (empreinte dc4abb8cc7bd2b14 → 164bd9728e4b3739)",
+        "- `2026-11-01` — **Groupe MPA** (fiche du 2026-11-01) · **entrée ajoutée**",
+        "- `2026-11-01` — **Grande Pharmacie Bailly** (fiche du 2026-11-01) · **entrée ajoutée**",
+        "- `2026-10-31` — **Autosur** (fiche du 2026-10-31) · **entrée ajoutée**",
+        "- `2026-10-31` — **Terre de Son** (fiche du 2026-10-31) · **entrée ajoutée**",
+        "- `2026-10-31` — **Ma Déco de Fête** (fiche du 2026-10-31) · **entrée ajoutée**",
+        "- `2026-10-31 (constaté)` — **Pharmacie des Congrès** (fiche du 2026-10-31) · Description publique réécrite — texte non reproduit (empreinte 47cbef213b5e248b → 8885e6607158c693)",
+        "- `2026-10-31` — **Pharmacie de la Cigogne** (fiche du 2026-10-31) · **entrée ajoutée**",
+        "- `2026-10-31` — **Fédération Nationale des Chasseurs (FNC)** (fiche du 2026-10-31) · **entrée ajoutée**",
+        "- `2026-10-31` — **Pharmacie des Congrès** (fiche du 2026-10-31) · **entrée ajoutée**",
+        "- `2026-10-31` — **Les Écologistes** (fiche du 2026-10-31) · **entrée ajoutée**",
+        "- `2026-10-31` — **Assoclub** (fiche du 2026-10-31) · **entrée ajoutée**",
+        "- `2026-10-31` — **Rassemblement National** (fiche du 2026-10-31) · **entrée ajoutée**",
+        "- `2026-10-31` — **Careco** (fiche du 2026-10-30) · **entrée ajoutée**",
+        "- `2026-10-31` — **Fédération française de la montagne et de l’escalade (FFME)** (fiche du 2026-10-30) · **entrée ajoutée**",
+        "- `2026-10-31` — **Epitech** (fiche du 2026-10-30) · **entrée ajoutée**",
+        "- `2026-10-30 (constaté)` — **Agence de Services et de Paiement** (fiche du 2026-09-24) · Description publique réécrite — texte non reproduit (empreinte f8c8cc241dba23e0 → b6d1ba3dbe9922dc)",
+        "- `2026-10-30 (constaté)` — **Agence de Services et de Paiement** (fiche du 2026-09-24) · Nature des données : ajouté Civilité",
+        "- `2026-10-30` — **Cherry Rocher** (fiche du 2026-10-30) · **entrée ajoutée**",
+        "- `2026-10-30` — **La Halle au Sommeil** (fiche du 2026-10-30) · **entrée ajoutée**",
+        "- `2026-10-30` — **Incognito** (fiche du 2026-10-30) · **entrée ajoutée**",
+        "- `2026-10-30` — **Fédération française des échecs** (fiche du 2026-10-30) · **entrée ajoutée**",
+        "- `2026-10-30` — **My Sexshop.fr** (fiche du 2026-10-30) · **entrée ajoutée**",
+        "- `2026-10-30` — **Parti radical de gauche** (fiche du 2026-10-30) · **entrée ajoutée**",
+        "- `2026-10-30` — **Bourse Direct** (fiche du 2026-10-30) · **entrée ajoutée**",
+        "- `2026-10-30` — **Kookabarra** (fiche du 2026-10-29) · **entrée ajoutée**"
+      ]
+    }
+  },
+  "erreurs": [
+    "anssi_actualites: aucune entrée récupérée",
+    "cert_eu: flux non trouvé — vérifier l'URL manuellement, source à faible priorité"
+  ]
+}
