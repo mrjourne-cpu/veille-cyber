@@ -1,0 +1,167 @@
+{
+  "genere_le": "2026-11-03T14:41:14.005020+00:00",
+  "fenetre_jours": 3,
+  "sources": {
+    "cert_fr_avis": {
+      "flux_utilise": "https://www.cert.ssi.gouv.fr/avis/feed/",
+      "entrees": [
+        {
+          "titre": "Multiples vulnérabilités dans Redmine (02 novembre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1434/",
+          "date": "2026-11-02T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans Redmine. Certaines d'entre elles permettent à un attaquant de provoquer une injection de code indirecte à distance (XSS), un contournement de la politique de sécurité et un déni de service."
+        },
+        {
+          "titre": "Multiples vulnérabilités dans les produits Synology (02 novembre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1435/",
+          "date": "2026-11-02T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans les produits Synology. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance."
+        },
+        {
+          "titre": "Multiples vulnérabilités dans Tenable Identity Exposure (02 novembre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1436/",
+          "date": "2026-11-02T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans Tenable Identity Exposure. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données."
+        },
+        {
+          "titre": "Multiples vulnérabilités dans Qnap QNE (02 novembre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1437/",
+          "date": "2026-11-02T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans Qnap QNE. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance."
+        },
+        {
+          "titre": "Multiples vulnérabilités dans macmon et NRSW (02 novembre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1438/",
+          "date": "2026-11-02T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans Belden macmon et NRSW. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance."
+        },
+        {
+          "titre": "Vulnérabilité dans Traefik (02 novembre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1439/",
+          "date": "2026-11-02T00:00:00+00:00",
+          "resume": "Une vulnérabilité a été découverte dans Traefik. Elle permet à un attaquant de provoquer un déni de service à distance."
+        },
+        {
+          "titre": "Multiples vulnérabilités dans Microsoft Edge (02 novembre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1440/",
+          "date": "2026-11-02T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur."
+        },
+        {
+          "titre": "Vulnérabilité dans Microsoft Visual Studio (02 novembre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1441/",
+          "date": "2026-11-02T00:00:00+00:00",
+          "resume": "Une vulnérabilité a été découverte dans Microsoft Visual Studio. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité."
+        },
+        {
+          "titre": "Multiples vulnérabilités dans Ivanti Connect Secure (02 novembre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1442/",
+          "date": "2026-11-02T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans Ivanti Connect Secure. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un contournement de la politique de sécurité. Ivanti indique que les vulnérabilités CVE-2026-104935,..."
+        },
+        {
+          "titre": "Multiples vulnérabilités dans Google Android (03 novembre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1443/",
+          "date": "2026-11-03T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans Google Android. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données."
+        },
+        {
+          "titre": "Multiples vulnérabilités dans GLPI (03 novembre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1444/",
+          "date": "2026-11-03T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans GLPI. Elles permettent à un attaquant de provoquer une élévation de privilèges, une injection de code indirecte à distance (XSS) et un contournement de la politique de sécurité."
+        },
+        {
+          "titre": "Multiples vulnérabilités dans PostgreSQL (03 novembre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1445/",
+          "date": "2026-11-03T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans PostgreSQL. Elles permettent à un attaquant de provoquer une injection SQL (SQLi), un contournement de la politique de sécurité et un problème de sécurité non spécifié par l'éditeur."
+        },
+        {
+          "titre": "Multiples vulnérabilités dans NetApp ONTAP 9 (03 novembre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1446/",
+          "date": "2026-11-03T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans NetApp ONTAP 9. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance."
+        },
+        {
+          "titre": "Multiples vulnérabilités dans Xen (03 novembre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1447/",
+          "date": "2026-11-03T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans Xen. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et une atteinte à l'intégrité des données."
+        }
+      ]
+    },
+    "cert_fr_alertes": {
+      "flux_utilise": "https://www.cert.ssi.gouv.fr/alerte/feed/",
+      "entrees": []
+    },
+    "cert_fr_cti": {
+      "flux_utilise": "https://www.cert.ssi.gouv.fr/cti/feed/",
+      "entrees": []
+    },
+    "anssi_actualites": {
+      "flux_utilise": "listing HTML (repli, flux RSS indisponible)",
+      "entrees": []
+    },
+    "cert_eu": {
+      "flux_utilise": null,
+      "entrees": []
+    },
+    "fuites_infos": {
+      "flux_utilise": "raw.githubusercontent.com REGISTRE.md",
+      "lignes_recentes": [
+        "- `2026-11-02` — **Office de tourisme de Strasbourg** (fiche du 2026-11-02) · **entrée ajoutée**",
+        "- `2026-11-02` — **Brico Dépôt** (fiche du 2026-11-02) · **entrée ajoutée**",
+        "- `2026-11-02 (constaté)` — **Leroy Merlin** (fiche du 2025-12-02) · Description publique réécrite — texte non reproduit (empreinte fced2dcec23e39ac → d9c1aabaf6faca41)",
+        "- `2026-11-02 (constaté)` — **Leroy Merlin** (fiche du 2025-12-02) · Nature des données : ajouté Date de naissance, Situation familiale",
+        "- `2026-11-02` — **Love and Vibes** (fiche du 2026-11-02) · **entrée ajoutée**",
+        "- `2026-11-02 (constaté)` — **Zéro Logement Vacant** (fiche du 2026-08-28) · Statut : Revendiquée → Confirmée",
+        "- `2026-11-02 (constaté)` — **Zéro Logement Vacant** (fiche du 2026-08-28) · Description publique réécrite — texte non reproduit (empreinte 5a55b93f5264a656 → 6d4f3244110b0d9a)",
+        "- `2026-11-02 (constaté)` — **Armurerie Lavaux** (fiche du 2026-09-18) · Statut : Revendiquée → Confirmée",
+        "- `2026-11-02 (constaté)` — **Armurerie Lavaux** (fiche du 2026-09-18) · Description publique réécrite — texte non reproduit (empreinte a3d983d322f2b0c9 → f8c75b4deedbd694)",
+        "- `2026-11-02 (constaté)` — **Renaissance** (fiche du 2026-10-24) · Description publique réécrite — texte non reproduit (empreinte 2993db05ba92bacd → 8841733b4c01fb22)",
+        "- `2026-11-02 (constaté)` — **Rassemblement National** (fiche du 2026-10-31) · Description publique réécrite — texte non reproduit (empreinte caf507ed03839102 → 000811e1d4d6a6c3)",
+        "- `2026-11-02 (constaté)` — **Pierres et Mer** (fiche du 2026-10-29) · Description publique réécrite — texte non reproduit (empreinte e8c6c318abf85ec3 → 24b4f36df6d887d7)",
+        "- `2026-11-02 (constaté)` — **Pharmacie des Congrès** (fiche du 2026-10-31) · Description publique réécrite — texte non reproduit (empreinte 8885e6607158c693 → c31a26df9464d169)",
+        "- `2026-11-02 (constaté)` — **Pharmacie de la Cigogne** (fiche du 2026-10-31) · Description publique réécrite — texte non reproduit (empreinte 242f0aead810dfe6 → c7cb61657286fa17)",
+        "- `2026-11-02 (constaté)` — **Orange** (fiche du 2026-10-23) · Description publique réécrite — texte non reproduit (empreinte ac8a8c4c7f0b4fd6 → 3ca8a651bb097f78)",
+        "- `2026-11-02 (constaté)` — **La Halle au Sommeil** (fiche du 2026-10-30) · Description publique réécrite — texte non reproduit (empreinte af08262ad6384cff → 82ec7f77c9855a7b)",
+        "- `2026-11-02 (constaté)` — **Kookabarra** (fiche du 2026-10-29) · Description publique réécrite — texte non reproduit (empreinte 5ec4a912cc4e84d3 → a892aff1dd81a63b)",
+        "- `2026-11-02 (constaté)` — **Groupe MPA** (fiche du 2026-11-01) · Description publique réécrite — texte non reproduit (empreinte 35902abb18547ca0 → b8ed1ee28ea683ef)",
+        "- `2026-11-02 (constaté)` — **Fédération française des échecs** (fiche du 2026-10-30) · Description publique réécrite — texte non reproduit (empreinte 36c64c5c225475ff → 66958d3b77064d61)",
+        "- `2026-11-02 (constaté)` — **Fédération Sportive et Culturelle de France** (fiche du 2026-10-26) · Description publique réécrite — texte non reproduit (empreinte bd90073bc7f5d1fe → 39571b64f5678e4f)",
+        "- `2026-11-02 (constaté)` — **Compagnie des Transports Strasbourgeois (CTS)** (fiche du 2026-10-28) · Description publique réécrite — texte non reproduit (empreinte 4918f53db04b108e → 70333f68c979446d)",
+        "- `2026-11-02 (constaté)` — **Bien'ici** (fiche du 2026-11-01) · Description publique réécrite — texte non reproduit (empreinte a0448b1f3d055296 → 8b4ca6a945996f1c)",
+        "- `2026-11-02 (constaté)` — **AMSAM** (fiche du 2026-10-23) · Description publique réécrite — texte non reproduit (empreinte 3fb980af5713d020 → cae4233e3155092a)",
+        "- `2026-11-02 (constaté)` — **Révision groupée** · champ « Description publique » : 21 fiches modifiées dans le même lot (détail par fiche dans `registre.jsonl`)",
+        "- `2026-11-02` — **Alaxione** (fiche du 2026-11-02) · **entrée ajoutée**",
+        "- `2026-11-02` — **Auto-Planning** (fiche du 2026-10-28) · **entrée ajoutée**",
+        "- `2026-11-02` — **DEKRA Automotive** (fiche du 2026-11-02) · **entrée ajoutée**",
+        "- `2026-11-02` — **AMSAM** (fiche du 2026-10-23) · **entrée ajoutée**",
+        "- `2026-11-01` — **HelloDepann** (fiche du 2026-11-01) · **entrée ajoutée**",
+        "- `2026-11-01` — **Bien'ici** (fiche du 2026-11-01) · **entrée ajoutée**",
+        "- `2026-11-01` — **Autosur** (fiche du 2026-10-31) · Statut : Revendiquée → Confirmée",
+        "- `2026-11-01` — **Autosur** (fiche du 2026-10-31) · Description publique réécrite — texte non reproduit (empreinte dc4abb8cc7bd2b14 → 164bd9728e4b3739)",
+        "- `2026-11-01` — **Groupe MPA** (fiche du 2026-11-01) · **entrée ajoutée**",
+        "- `2026-11-01` — **Grande Pharmacie Bailly** (fiche du 2026-11-01) · **entrée ajoutée**",
+        "- `2026-10-31` — **Autosur** (fiche du 2026-10-31) · **entrée ajoutée**",
+        "- `2026-10-31` — **Terre de Son** (fiche du 2026-10-31) · **entrée ajoutée**",
+        "- `2026-10-31` — **Ma Déco de Fête** (fiche du 2026-10-31) · **entrée ajoutée**",
+        "- `2026-10-31 (constaté)` — **Pharmacie des Congrès** (fiche du 2026-10-31) · Description publique réécrite — texte non reproduit (empreinte 47cbef213b5e248b → 8885e6607158c693)",
+        "- `2026-10-31` — **Pharmacie de la Cigogne** (fiche du 2026-10-31) · **entrée ajoutée**",
+        "- `2026-10-31` — **Fédération Nationale des Chasseurs (FNC)** (fiche du 2026-10-31) · **entrée ajoutée**",
+        "- `2026-10-31` — **Pharmacie des Congrès** (fiche du 2026-10-31) · **entrée ajoutée**",
+        "- `2026-10-31` — **Les Écologistes** (fiche du 2026-10-31) · **entrée ajoutée**",
+        "- `2026-10-31` — **Assoclub** (fiche du 2026-10-31) · **entrée ajoutée**",
+        "- `2026-10-31` — **Rassemblement National** (fiche du 2026-10-31) · **entrée ajoutée**",
+        "- `2026-10-31` — **Careco** (fiche du 2026-10-30) · **entrée ajoutée**",
+        "- `2026-10-31` — **Fédération française de la montagne et de l’escalade (FFME)** (fiche du 2026-10-30) · **entrée ajoutée**",
+        "- `2026-10-31` — **Epitech** (fiche du 2026-10-30) · **entrée ajoutée**"
+      ]
+    }
+  },
+  "erreurs": [
+    "anssi_actualites: aucune entrée récupérée",
+    "cert_eu: flux non trouvé — vérifier l'URL manuellement, source à faible priorité"
+  ]
+}
