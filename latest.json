@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-11-03T14:41:14.005020+00:00",
+  "genere_le": "2026-11-04T14:53:29.942115+00:00",
   "fenetre_jours": 3,
   "sources": {
     "cert_fr_avis": {
@@ -110,6 +110,12 @@
     "fuites_infos": {
       "flux_utilise": "raw.githubusercontent.com REGISTRE.md",
       "lignes_recentes": [
+        "- `2026-11-04 (constaté)` — **Beauty Success** (fiche du 2026-08-21) · Statut : Revendiquée → Confirmée",
+        "- `2026-11-04 (constaté)` — **Beauty Success** (fiche du 2026-08-21) · Description publique réécrite — texte non reproduit (empreinte 8e5e9ef4c5429d53 → 8257053bae18d8d5)",
+        "- `2026-11-04 (constaté)` — **Beauty Success** (fiche du 2026-08-21) · Nature des données : ajouté Adresse postale, Numéro de téléphone",
+        "- `2026-11-04` — **INRAE** (fiche du 2026-11-03) · **entrée ajoutée**",
+        "- `2026-11-03` — **JASP K9** (fiche du 2026-11-03) · **entrée ajoutée**",
+        "- `2026-11-03` — **AFIB** (fiche du 2026-11-03) · **entrée ajoutée**",
         "- `2026-11-02` — **Office de tourisme de Strasbourg** (fiche du 2026-11-02) · **entrée ajoutée**",
         "- `2026-11-02` — **Brico Dépôt** (fiche du 2026-11-02) · **entrée ajoutée**",
         "- `2026-11-02 (constaté)` — **Leroy Merlin** (fiche du 2025-12-02) · Description publique réécrite — texte non reproduit (empreinte fced2dcec23e39ac → d9c1aabaf6faca41)",
@@ -143,20 +149,7 @@
         "- `2026-11-01` — **Autosur** (fiche du 2026-10-31) · Statut : Revendiquée → Confirmée",
         "- `2026-11-01` — **Autosur** (fiche du 2026-10-31) · Description publique réécrite — texte non reproduit (empreinte dc4abb8cc7bd2b14 → 164bd9728e4b3739)",
         "- `2026-11-01` — **Groupe MPA** (fiche du 2026-11-01) · **entrée ajoutée**",
-        "- `2026-11-01` — **Grande Pharmacie Bailly** (fiche du 2026-11-01) · **entrée ajoutée**",
-        "- `2026-10-31` — **Autosur** (fiche du 2026-10-31) · **entrée ajoutée**",
-        "- `2026-10-31` — **Terre de Son** (fiche du 2026-10-31) · **entrée ajoutée**",
-        "- `2026-10-31` — **Ma Déco de Fête** (fiche du 2026-10-31) · **entrée ajoutée**",
-        "- `2026-10-31 (constaté)` — **Pharmacie des Congrès** (fiche du 2026-10-31) · Description publique réécrite — texte non reproduit (empreinte 47cbef213b5e248b → 8885e6607158c693)",
-        "- `2026-10-31` — **Pharmacie de la Cigogne** (fiche du 2026-10-31) · **entrée ajoutée**",
-        "- `2026-10-31` — **Fédération Nationale des Chasseurs (FNC)** (fiche du 2026-10-31) · **entrée ajoutée**",
-        "- `2026-10-31` — **Pharmacie des Congrès** (fiche du 2026-10-31) · **entrée ajoutée**",
-        "- `2026-10-31` — **Les Écologistes** (fiche du 2026-10-31) · **entrée ajoutée**",
-        "- `2026-10-31` — **Assoclub** (fiche du 2026-10-31) · **entrée ajoutée**",
-        "- `2026-10-31` — **Rassemblement National** (fiche du 2026-10-31) · **entrée ajoutée**",
-        "- `2026-10-31` — **Careco** (fiche du 2026-10-30) · **entrée ajoutée**",
-        "- `2026-10-31` — **Fédération française de la montagne et de l’escalade (FFME)** (fiche du 2026-10-30) · **entrée ajoutée**",
-        "- `2026-10-31` — **Epitech** (fiche du 2026-10-30) · **entrée ajoutée**"
+        "- `2026-11-01` — **Grande Pharmacie Bailly** (fiche du 2026-11-01) · **entrée ajoutée**"
       ]
     }
   },
