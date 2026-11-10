@@ -1,0 +1,125 @@
+{
+  "genere_le": "2026-11-10T15:15:07.126253+00:00",
+  "fenetre_jours": 3,
+  "sources": {
+    "cert_fr_avis": {
+      "flux_utilise": "https://www.cert.ssi.gouv.fr/avis/feed/",
+      "entrees": [
+        {
+          "titre": "Vulnérabilité dans Moodle (09 novembre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1481/",
+          "date": "2026-11-09T00:00:00+00:00",
+          "resume": "Une vulnérabilité a été découverte dans Moodle. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité."
+        },
+        {
+          "titre": "Multiples vulnérabilités dans les produits Synology (09 novembre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1482/",
+          "date": "2026-11-09T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans les produits Synology. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données."
+        },
+        {
+          "titre": "Multiples vulnérabilités dans Sonicwall SonicOS (09 novembre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1483/",
+          "date": "2026-11-09T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans Sonicwall SonicOS. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et un contournement de la politique de sécurité. Sonicwall indique que la..."
+        },
+        {
+          "titre": "Multiples vulnérabilités dans Apache HTTP Server (09 novembre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1484/",
+          "date": "2026-11-09T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans Apache HTTP Server. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur."
+        },
+        {
+          "titre": "Multiples vulnérabilités dans Xen (09 novembre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1485/",
+          "date": "2026-11-09T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans Xen. Elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un déni de service."
+        },
+        {
+          "titre": "Multiples vulnérabilités dans les produits VMware (09 novembre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1486/",
+          "date": "2026-11-09T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans les produits VMware. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur."
+        }
+      ]
+    },
+    "cert_fr_alertes": {
+      "flux_utilise": "https://www.cert.ssi.gouv.fr/alerte/feed/",
+      "entrees": []
+    },
+    "cert_fr_cti": {
+      "flux_utilise": "https://www.cert.ssi.gouv.fr/cti/feed/",
+      "entrees": [
+        {
+          "titre": "Activités cyber offensives ciblant la France menées par des acteurs iraniens liés au CGRI (09 novembre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/cti/CERTFR-2026-CTI-009/",
+          "date": "2026-11-09T00:00:00+00:00",
+          "resume": "Les membres du **Centre de Coordination des Crises Cyber (C4)** \\* ont observé plusieurs attaques à but de déstabilisation menées à l’encontre des intérêts français, qu’ils sont en mesure d’imputer **aux unités cyber-offensives Shahid Shoostari et Shahid Kaveh, opérant au sein du Centre..."
+        }
+      ]
+    },
+    "anssi_actualites": {
+      "flux_utilise": "listing HTML (repli, flux RSS indisponible)",
+      "entrees": []
+    },
+    "cert_eu": {
+      "flux_utilise": null,
+      "entrees": []
+    },
+    "fuites_infos": {
+      "flux_utilise": "raw.githubusercontent.com REGISTRE.md",
+      "lignes_recentes": [
+        "- `2026-11-10` — **SOS Oxygène** (fiche du 2026-11-10) · **entrée ajoutée**",
+        "- `2026-11-10` — **ColorBox** (fiche du 2026-11-09) · Nature des données : retiré IBAN",
+        "- `2026-11-09` — **ColorBox** (fiche du 2026-11-09) · **entrée ajoutée**",
+        "- `2026-11-09` — **ADEMS** (fiche du 2026-11-09) · **entrée ajoutée**",
+        "- `2026-11-09` — **Garanka** (fiche du 2026-11-09) · **entrée ajoutée**",
+        "- `2026-11-09 (constaté)` — **Nature & Découvertes** (fiche du 2026-09-14) · Description publique réécrite — texte non reproduit (empreinte 013795bc63def1cf → 4b802b3ef4ff3a70)",
+        "- `2026-11-09 (constaté)` — **Nature & Découvertes** (fiche du 2026-09-14) · Nature des données : ajouté Civilité",
+        "- `2026-11-09` — **Fédération Française de Tennis de Table** (fiche du 2026-11-05) · Statut : Revendiquée → Confirmée",
+        "- `2026-11-09` — **Fédération Française de Tennis de Table** (fiche du 2026-11-05) · Description publique réécrite — texte non reproduit (empreinte 92e17ad71f95cab4 → 7de311c6d5c74872)",
+        "- `2026-11-08` — **MBS Design** (fiche du 2026-11-08) · **entrée ajoutée**",
+        "- `2026-11-08` — **InOutlet** (fiche du 2026-11-08) · **entrée ajoutée**",
+        "- `2026-11-08` — **Pharmatomic** (fiche du 2026-11-08) · **entrée ajoutée**",
+        "- `2026-11-08 (constaté)` — **École Nationale de la Sécurité (E.N.S.)** (fiche du 2025-02-28) · Statut : Confirmée → Revendiquée",
+        "- `2026-11-08 (constaté)` — **École Nationale de la Sécurité (E.N.S.)** (fiche du 2025-02-28) · Description publique réécrite — texte non reproduit (empreinte 472a431de941af5a → aa083788d388ecce)",
+        "- `2026-11-08 (constaté)` — **Éclaireuses et Éclaireurs de France (EEDF)** (fiche du 2025-03-20) · Statut : Confirmée → Revendiquée",
+        "- `2026-11-08 (constaté)` — **Éclaireuses et Éclaireurs de France (EEDF)** (fiche du 2025-03-20) · Description publique réécrite — texte non reproduit (empreinte 90732b635fb847aa → 6522a66c97316e23)",
+        "- `2026-11-08 (constaté)` — **Techni-Contact** (fiche du 2026-01-27) · Statut : Confirmée → Revendiquée",
+        "- `2026-11-08 (constaté)` — **Techni-Contact** (fiche du 2026-01-27) · Description publique réécrite — texte non reproduit (empreinte a9a1535745d2544f → 6ba143315cad0675)",
+        "- `2026-11-08 (constaté)` — **Stych** (fiche du 2026-03-08) · Volume concerné : 1 268 460 → (vide)",
+        "- `2026-11-08 (constaté)` — **Solimut Mutuelle de France** (fiche du 2026-08-23) · Volume concerné : 1 382 878 → (vide)",
+        "- `2026-11-08 (constaté)` — **O’Tacos** (fiche du 2026-01-27) · Statut : Confirmée → Revendiquée",
+        "- `2026-11-08 (constaté)` — **O’Tacos** (fiche du 2026-01-27) · Description publique réécrite — texte non reproduit (empreinte d2b4b24b6cf9e33c → a1f1b8b20847835b)",
+        "- `2026-11-08 (constaté)` — **On Air Fitness** (fiche du 2026-02-18) · Statut : Confirmée → Revendiquée",
+        "- `2026-11-08 (constaté)` — **On Air Fitness** (fiche du 2026-02-18) · Description publique réécrite — texte non reproduit (empreinte 165aeb62b1a01530 → 33ec7441163742d9)",
+        "- `2026-11-08 (constaté)` — **MyConnect** (fiche du 2026-02-25) · Volume concerné : 125 000 → (vide)",
+        "- `2026-11-08 (constaté)` — **Made in Bébé** (fiche du 2026-08-21) · Volume concerné : 700 000 → (vide)",
+        "- `2026-11-08 (constaté)` — **Intersport Rent** (fiche du 2026-03-11) · Volume concerné : 476 282 → (vide)",
+        "- `2026-11-08 (constaté)` — **Compilation d'adresses d'agents de l'Intérieur et des Armées** (fiche du 2026-02-20) · Volume concerné : 8 861 → (vide)",
+        "- `2026-11-08 (constaté)` — **CFDT** (fiche du 2026-02-18) · Volume concerné : 1 431 906 → (vide)",
+        "- `2026-11-08 (constaté)` — **Auchan** (fiche du 2025-08-21) · Volume concerné : 500 000 → (vide)",
+        "- `2026-11-08 (constaté)` — **Auchan** (fiche du 2025-08-21) · Description publique réécrite — texte non reproduit (empreinte 18544bcdca9710ed → 2ad6714e03b7a702)",
+        "- `2026-11-08 (constaté)` — **Auchan** (fiche du 2025-08-21) · Nature des données : retiré Carte de paiement",
+        "- `2026-11-08 (constaté)` — **Allobébé** (fiche du 2026-08-21) · Volume concerné : 1 136 058 → (vide)",
+        "- `2026-11-08 (constaté)` — **Allegro Musique** (fiche du 2025-12-28) · Statut : Confirmée → Revendiquée",
+        "- `2026-11-08 (constaté)` — **Allegro Musique** (fiche du 2025-12-28) · Description publique réécrite — texte non reproduit (empreinte 049dffc84efae515 → 0d1bb693575d9e0d)",
+        "- `2026-11-08 (constaté)` — **Adecco France** (fiche du 2025-12-24) · Statut : Confirmée → Revendiquée",
+        "- `2026-11-08` — **SGS** (fiche du 2026-11-08) · **entrée ajoutée**",
+        "- `2026-11-08` — **Arromanches Militaria** (fiche du 2026-11-07) · **entrée ajoutée**",
+        "- `2026-11-07 (constaté)` — **Auto-Planning** (fiche du 2026-10-28) · Description publique réécrite — texte non reproduit (empreinte 415a11e0ed07e31a → f3a1a493d8e053a7)",
+        "- `2026-11-07 (constaté)` — **Auto-Planning** (fiche du 2026-10-28) · Nature des données : ajouté Adresse postale, Contenu de messages, Date de naissance, Données professionnelles, Historique de transactions, Jeton d'authentification, Mot de passe (haché), Ticket de support",
+        "- `2026-11-07 (constaté)` — **Smartbox** (fiche du 2026-11-07) · Description publique réécrite — texte non reproduit (empreinte 7a8a8bf9fd99dc49 → 04cff049755ef592)",
+        "- `2026-11-07` — **Burda Style** (fiche du 2026-11-07) · **entrée ajoutée**",
+        "- `2026-11-07 (constaté)` — **Beauty Success** (fiche du 2026-08-21) · Description publique réécrite — texte non reproduit (empreinte 4f46970d0accc24c → 1528fadec8e9efab)",
+        "- `2026-11-07` — **Smartbox** (fiche du 2026-11-07) · **entrée ajoutée**",
+        "- `2026-11-07` — **Caverne des Jouets** (fiche du 2026-11-07) · **entrée ajoutée**",
+        "- `2026-11-07` — **Aréas Assurances** (fiche du 2026-11-07) · **entrée ajoutée**"
+      ]
+    }
+  },
+  "erreurs": [
+    "anssi_actualites: aucune entrée récupérée",
+    "cert_eu: flux non trouvé — vérifier l'URL manuellement, source à faible priorité"
+  ]
+}
