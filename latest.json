@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-11-10T15:15:07.126253+00:00",
+  "genere_le": "2026-11-11T14:43:43.322596+00:00",
   "fenetre_jours": 3,
   "sources": {
     "cert_fr_avis": {
@@ -40,6 +40,72 @@
           "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1486/",
           "date": "2026-11-09T00:00:00+00:00",
           "resume": "De multiples vulnérabilités ont été découvertes dans les produits VMware. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur."
+        },
+        {
+          "titre": "Multiples vulnérabilités dans les produits Apple (10 novembre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1487/",
+          "date": "2026-11-10T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans les produits Apple. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des données et un contournement de la politique de sécurité."
+        },
+        {
+          "titre": "Multiples vulnérabilités dans Google Chrome (10 novembre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1488/",
+          "date": "2026-11-10T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur. Google indique que la vulnérabilité CVE-2026-125350 est activement exploitée."
+        },
+        {
+          "titre": "Multiples vulnérabilités dans Roundcube (10 novembre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1489/",
+          "date": "2026-11-10T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans Roundcube. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une falsification de requêtes côté serveur (SSRF) et une injection de requêtes illégitimes par rebond (CSRF)."
+        },
+        {
+          "titre": "Multiples vulnérabilités dans Mozilla Firefox (10 novembre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1490/",
+          "date": "2026-11-10T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans Mozilla Firefox. Elles permettent à un attaquant de provoquer une élévation de privilèges et un problème de sécurité non spécifié par l'éditeur."
+        },
+        {
+          "titre": "Multiples vulnérabilités dans le greffon OpenID Connect OpenID Provider (OIDC OP) pour Shibboleth (10 novembre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1491/",
+          "date": "2026-11-10T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans le greffon OpenID Connect OpenID Provider (OIDC OP) pour Shibboleth. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité."
+        },
+        {
+          "titre": "Vulnérabilité dans Atlassian Confluence Data Center (10 novembre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1492/",
+          "date": "2026-11-10T00:00:00+00:00",
+          "resume": "Une vulnérabilité a été découverte dans Atlassian Confluence Data Center. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance."
+        },
+        {
+          "titre": "Multiples vulnérabilités dans Synology DSM (10 novembre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1493/",
+          "date": "2026-11-10T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans Synology DSM. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une falsification de requêtes côté serveur (SSRF)."
+        },
+        {
+          "titre": "Vulnérabilité dans Schneider Electric EcoStruxure (10 novembre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1494/",
+          "date": "2026-11-10T00:00:00+00:00",
+          "resume": "Une vulnérabilité a été découverte dans Schneider Electric EcoStruxure. Elle permet à un attaquant de provoquer une exécution de code arbitraire."
+        },
+        {
+          "titre": "Multiples vulnérabilités dans Siemens SIMATIC (10 novembre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1495/",
+          "date": "2026-11-10T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans Siemens SIMATIC. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de sécurité."
+        },
+        {
+          "titre": "Multiples vulnérabilités dans OpenSSL (10 novembre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1496/",
+          "date": "2026-11-10T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans OpenSSL. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et un contournement de la politique de sécurité."
+        },
+        {
+          "titre": "Multiples vulnérabilités dans les produits SAP (10 novembre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1497/",
+          "date": "2026-11-10T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans les produits SAP. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données."
         }
       ]
     },
@@ -69,6 +135,16 @@
     "fuites_infos": {
       "flux_utilise": "raw.githubusercontent.com REGISTRE.md",
       "lignes_recentes": [
+        "- `2026-11-11` — **Monceau Fleurs** (fiche du 2026-11-11) · **entrée ajoutée**",
+        "- `2026-11-11 (constaté)` — **Mistertemp' group** (fiche du 2026-08-26) · Description publique réécrite — texte non reproduit (empreinte 1a0db5ba8f526cb2 → 049e867f9a6dbb82)",
+        "- `2026-11-11 (constaté)` — **Mistertemp' group** (fiche du 2026-08-26) · Nature des données : ajouté Adresse email, Nationalité, Nom, Numéro de téléphone, Prénom",
+        "- `2026-11-11` — **Effy** (fiche du 2026-11-11) · **entrée ajoutée**",
+        "- `2026-11-11 (constaté)` — **Révision groupée** · champ « Description publique » : 100 fiches modifiées dans le même lot (détail par fiche dans `registre.jsonl`)",
+        "- `2026-11-10` — **Geofixe** (fiche du 2026-11-10) · **entrée ajoutée**",
+        "- `2026-11-10` — **EduGroupe** (fiche du 2026-11-10) · **entrée ajoutée**",
+        "- `2026-11-10 (constaté)` — **Brico Dépôt** (fiche du 2026-11-02) · Statut : Revendiquée → Confirmée",
+        "- `2026-11-10 (constaté)` — **Brico Dépôt** (fiche du 2026-11-02) · Description publique réécrite — texte non reproduit (empreinte f6a8115df3734fb4 → 16dbb340de87a44a)",
+        "- `2026-11-10` — **Altéal** (fiche du 2026-11-09) · **entrée ajoutée**",
         "- `2026-11-10` — **SOS Oxygène** (fiche du 2026-11-10) · **entrée ajoutée**",
         "- `2026-11-10` — **ColorBox** (fiche du 2026-11-09) · Nature des données : retiré IBAN",
         "- `2026-11-09` — **ColorBox** (fiche du 2026-11-09) · **entrée ajoutée**",
@@ -106,15 +182,7 @@
         "- `2026-11-08 (constaté)` — **Allegro Musique** (fiche du 2025-12-28) · Description publique réécrite — texte non reproduit (empreinte 049dffc84efae515 → 0d1bb693575d9e0d)",
         "- `2026-11-08 (constaté)` — **Adecco France** (fiche du 2025-12-24) · Statut : Confirmée → Revendiquée",
         "- `2026-11-08` — **SGS** (fiche du 2026-11-08) · **entrée ajoutée**",
-        "- `2026-11-08` — **Arromanches Militaria** (fiche du 2026-11-07) · **entrée ajoutée**",
-        "- `2026-11-07 (constaté)` — **Auto-Planning** (fiche du 2026-10-28) · Description publique réécrite — texte non reproduit (empreinte 415a11e0ed07e31a → f3a1a493d8e053a7)",
-        "- `2026-11-07 (constaté)` — **Auto-Planning** (fiche du 2026-10-28) · Nature des données : ajouté Adresse postale, Contenu de messages, Date de naissance, Données professionnelles, Historique de transactions, Jeton d'authentification, Mot de passe (haché), Ticket de support",
-        "- `2026-11-07 (constaté)` — **Smartbox** (fiche du 2026-11-07) · Description publique réécrite — texte non reproduit (empreinte 7a8a8bf9fd99dc49 → 04cff049755ef592)",
-        "- `2026-11-07` — **Burda Style** (fiche du 2026-11-07) · **entrée ajoutée**",
-        "- `2026-11-07 (constaté)` — **Beauty Success** (fiche du 2026-08-21) · Description publique réécrite — texte non reproduit (empreinte 4f46970d0accc24c → 1528fadec8e9efab)",
-        "- `2026-11-07` — **Smartbox** (fiche du 2026-11-07) · **entrée ajoutée**",
-        "- `2026-11-07` — **Caverne des Jouets** (fiche du 2026-11-07) · **entrée ajoutée**",
-        "- `2026-11-07` — **Aréas Assurances** (fiche du 2026-11-07) · **entrée ajoutée**"
+        "- `2026-11-08` — **Arromanches Militaria** (fiche du 2026-11-07) · **entrée ajoutée**"
       ]
     }
   },
