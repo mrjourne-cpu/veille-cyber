@@ -1,0 +1,171 @@
+{
+  "genere_le": "2026-11-17T16:29:53.504676+00:00",
+  "fenetre_jours": 3,
+  "sources": {
+    "cert_fr_avis": {
+      "flux_utilise": "https://www.cert.ssi.gouv.fr/avis/feed/",
+      "entrees": [
+        {
+          "titre": "Multiples vulnérabilités dans Kerberos (16 novembre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1540/",
+          "date": "2026-11-16T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans Kerberos. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données."
+        },
+        {
+          "titre": "Vulnérabilité dans Git (16 novembre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1541/",
+          "date": "2026-11-16T00:00:00+00:00",
+          "resume": "Une vulnérabilité a été découverte dans Git. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance."
+        },
+        {
+          "titre": "Multiples vulnérabilités dans les produits Trend Micro (16 novembre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1542/",
+          "date": "2026-11-16T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans les produits Trend Micro. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données."
+        },
+        {
+          "titre": "Vulnérabilité dans VMware Tanzu (16 novembre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1543/",
+          "date": "2026-11-16T00:00:00+00:00",
+          "resume": "Une vulnérabilité a été découverte dans VMware Tanzu. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance."
+        },
+        {
+          "titre": "Multiples vulnérabilités dans MongoDB (16 novembre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1544/",
+          "date": "2026-11-16T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans MongoDB. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et un contournement de la politique de sécurité."
+        },
+        {
+          "titre": "Vulnérabilité dans Citrix App Layering (16 novembre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1545/",
+          "date": "2026-11-16T00:00:00+00:00",
+          "resume": "Une vulnérabilité a été découverte dans Citrix App Layering. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité."
+        },
+        {
+          "titre": "Multiples vulnérabilités dans Microsoft Edge (16 novembre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1546/",
+          "date": "2026-11-16T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur."
+        },
+        {
+          "titre": "Multiples vulnérabilités dans Mitel MiCollab (17 novembre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1547/",
+          "date": "2026-11-17T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans Mitel MiCollab. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données."
+        },
+        {
+          "titre": "Vulnérabilité dans GLPI (17 novembre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1548/",
+          "date": "2026-11-17T00:00:00+00:00",
+          "resume": "Une vulnérabilité a été découverte dans GLPI. Elle permet à un attaquant de provoquer une atteinte à l'intégrité des données."
+        },
+        {
+          "titre": "Vulnérabilité dans Axis OS (17 novembre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1549/",
+          "date": "2026-11-17T00:00:00+00:00",
+          "resume": "Une vulnérabilité a été découverte dans Axis OS. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance."
+        },
+        {
+          "titre": "Multiples vulnérabilités dans Tenable Identity Exposure (17 novembre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1550/",
+          "date": "2026-11-17T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans Tenable Identity Exposure. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur."
+        },
+        {
+          "titre": "Vulnérabilité dans Juniper Networks Junos OS Evolved (17 novembre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1551/",
+          "date": "2026-11-17T00:00:00+00:00",
+          "resume": "Une vulnérabilité a été découverte dans Juniper Networks Junos OS Evolved. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service à distance."
+        },
+        {
+          "titre": "Multiples vulnérabilités dans GitLab (17 novembre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1552/",
+          "date": "2026-11-17T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans GitLab. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une falsification de requêtes côté serveur (SSRF)."
+        },
+        {
+          "titre": "Multiples vulnérabilités dans Typo3 (17 novembre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1553/",
+          "date": "2026-11-17T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans Typo3. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données."
+        },
+        {
+          "titre": "Multiples vulnérabilités dans OpenSSL (17 novembre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1554/",
+          "date": "2026-11-17T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans OpenSSL. Elles permettent à un attaquant de provoquer un déni de service à distance."
+        },
+        {
+          "titre": "Multiples vulnérabilités dans Microsoft SharePoint (17 novembre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1555/",
+          "date": "2026-11-17T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans Microsoft SharePoint. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et une élévation de privilèges."
+        }
+      ]
+    },
+    "cert_fr_alertes": {
+      "flux_utilise": "https://www.cert.ssi.gouv.fr/alerte/feed/",
+      "entrees": []
+    },
+    "cert_fr_cti": {
+      "flux_utilise": "https://www.cert.ssi.gouv.fr/cti/feed/",
+      "entrees": []
+    },
+    "anssi_actualites": {
+      "flux_utilise": "listing HTML (repli, flux RSS indisponible)",
+      "entrees": []
+    },
+    "cert_eu": {
+      "flux_utilise": null,
+      "entrees": []
+    },
+    "fuites_infos": {
+      "flux_utilise": "raw.githubusercontent.com REGISTRE.md",
+      "lignes_recentes": [
+        "- `2026-11-17 (constaté)` — **Delatad** (fiche du 2026-10-25) · Description publique réécrite — texte non reproduit (empreinte 1c10b4edf8667d11 → 736a04f54aec1a76)",
+        "- `2026-11-17 (constaté)` — **Delatad** (fiche du 2026-10-25) · Nature des données : retiré Identifiant de connexion",
+        "- `2026-11-17` — **Nord Chauffage Services** (fiche du 2026-11-09) · **entrée ajoutée**",
+        "- `2026-11-17` — **Fishipedia** (fiche du 2026-11-17) · **entrée ajoutée**",
+        "- `2026-11-17` — **Rassemblement National** (fiche du 2026-11-17) · **entrée ajoutée**",
+        "- `2026-11-16 (constaté)` — **Fédération Française de Cardiologie** (fiche du 2025-11-11) · Volume concerné : 125 000 → 29 232",
+        "- `2026-11-16 (constaté)` — **Fédération Française de Cardiologie** (fiche du 2025-11-11) · Description publique réécrite — texte non reproduit (empreinte c7aa1aa317a49455 → ae14d8585716c885)",
+        "- `2026-11-16 (constaté)` — **Fédération Française de Cardiologie** (fiche du 2025-11-11) · Nature des données : ajouté Code postal, Date de naissance, Données professionnelles, Identifiant de connexion, Jeton d'authentification, Rôle ou droits d'accès, Ville ; retiré Historique de transactions, Mot de passe",
+        "- `2026-11-16` — **France Projecteurs** (fiche du 2026-11-16) · **entrée ajoutée**",
+        "- `2026-11-16` — **L'As Demarque** (fiche du 2026-11-16) · **entrée ajoutée**",
+        "- `2026-11-16` — **Fournishop** (fiche du 2026-11-16) · **entrée ajoutée**",
+        "- `2026-11-16` — **Ipsos** (fiche du 2026-11-16) · **entrée ajoutée**",
+        "- `2026-11-16` — **Interservices** (fiche du 2026-11-16) · **entrée ajoutée**",
+        "- `2026-11-16` — **Fédération Française du Sport Universitaire** (fiche du 2026-11-16) · **entrée ajoutée**",
+        "- `2026-11-16` — **Trezor** (fiche du 2026-11-16) · **entrée ajoutée**",
+        "- `2026-11-16` — **La Fabrique à Filets** (fiche du 2026-11-16) · **entrée ajoutée**",
+        "- `2026-11-16` — **Groupe T2MC** (fiche du 2026-11-16) · **entrée ajoutée**",
+        "- `2026-11-16` — **Imagerie des 3 Rivières** (fiche du 2026-11-12) · **entrée ajoutée**",
+        "- `2026-11-16` — **GRIM** (fiche du 2026-11-10) · **entrée ajoutée**",
+        "- `2026-11-15` — **Dagier** (fiche du 2026-11-15) · **entrée ajoutée**",
+        "- `2026-11-15 (constaté)` — **JASP K9** (fiche du 2026-11-03) · Description publique réécrite — texte non reproduit (empreinte ba5a65a176805818 → ca82029d985ab130)",
+        "- `2026-11-15` — **Trynet** (fiche du 2026-11-15) · **entrée ajoutée**",
+        "- `2026-11-15 (constaté)` — **Communauté de communes Entre Bièvre et Rhône** (fiche du 2026-11-13) · Statut : Revendiquée → Confirmée",
+        "- `2026-11-15 (constaté)` — **Communauté de communes Entre Bièvre et Rhône** (fiche du 2026-11-13) · Description publique réécrite — texte non reproduit (empreinte 01aa2bd3406510f3 → 75ebdebd69285024)",
+        "- `2026-11-15 (constaté)` — **ARTE** (fiche du 2026-11-11) · Statut : Revendiquée → Confirmée",
+        "- `2026-11-15 (constaté)` — **ARTE** (fiche du 2026-11-11) · Description publique réécrite — texte non reproduit (empreinte 62b61c67e0ff56b3 → 03a225d3cc8badeb)",
+        "- `2026-11-15` — **CodinGame** (fiche du 2026-11-15) · **entrée ajoutée**",
+        "- `2026-11-15` — **FIC Expertise** (fiche du 2026-11-14) · **entrée ajoutée**",
+        "- `2026-11-15 (constaté)` — **1001RDV** (fiche du 2026-11-12) · Description publique réécrite — texte non reproduit (empreinte 86d7e0e4ca2d3726 → c2157c018fc701f8)",
+        "- `2026-11-15 (constaté)` — **1001RDV** (fiche du 2026-11-12) · Nature des données : ajouté Adresse IP, Cookie de session, Données d'appareil, Données de mineurs, Situation familiale",
+        "- `2026-11-15` — **Essilor** (fiche du 2026-11-14) · **entrée ajoutée**",
+        "- `2026-11-14 (constaté)` — **SGS** (fiche du 2026-11-08) · Statut : Revendiquée → Confirmée",
+        "- `2026-11-14 (constaté)` — **SGS** (fiche du 2026-11-08) · Description publique réécrite — texte non reproduit (empreinte 988058dcaf7c4cd2 → 5a7c102d14ab672f)",
+        "- `2026-11-14` — **Ninkasi** (fiche du 2026-11-14) · **entrée ajoutée**",
+        "- `2026-11-14` — **Maileva** (fiche du 2026-10-09) · Volume concerné : (vide) → 22 000 000",
+        "- `2026-11-14` — **Maileva** (fiche du 2026-10-09) · Description publique réécrite — texte non reproduit (empreinte 9325278131a504fc → e6afc121f538b9d7)",
+        "- `2026-11-14` — **The Bradery** (fiche du 2026-11-13) · **entrée ajoutée**",
+        "- `2026-11-14` — **Cursor** (fiche du 2026-11-13) · **entrée ajoutée**",
+        "- `2026-11-14` — **Aquatonic Saint-Malo** (fiche du 2026-11-12) · **entrée ajoutée**"
+      ]
+    }
+  },
+  "erreurs": [
+    "anssi_actualites: aucune entrée récupérée",
+    "cert_eu: flux non trouvé — vérifier l'URL manuellement, source à faible priorité"
+  ]
+}

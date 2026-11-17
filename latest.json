@@ -1,94 +1,10 @@
 {
-  "genere_le": "2026-11-16T16:28:34.443170+00:00",
+  "genere_le": "2026-11-17T16:29:53.504676+00:00",
   "fenetre_jours": 3,
   "sources": {
     "cert_fr_avis": {
       "flux_utilise": "https://www.cert.ssi.gouv.fr/avis/feed/",
       "entrees": [
-        {
-          "titre": "Multiples vulnérabilités dans Apple HomeView Software (13 novembre 2026)",
-          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1526/",
-          "date": "2026-11-13T00:00:00+00:00",
-          "resume": "De multiples vulnérabilités ont été découvertes dans Apple HomeView Software. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données."
-        },
-        {
-          "titre": "Multiples vulnérabilités dans VMware Tanzu Greenplum (13 novembre 2026)",
-          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1527/",
-          "date": "2026-11-13T00:00:00+00:00",
-          "resume": "De multiples vulnérabilités ont été découvertes dans VMware Tanzu Greenplum. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur."
-        },
-        {
-          "titre": "Multiples vulnérabilités dans les produits Citrix (13 novembre 2026)",
-          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1528/",
-          "date": "2026-11-13T00:00:00+00:00",
-          "resume": "De multiples vulnérabilités ont été découvertes dans les produits Citrix. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données."
-        },
-        {
-          "titre": "Multiples vulnérabilités dans les produits Check Point (13 novembre 2026)",
-          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1529/",
-          "date": "2026-11-13T00:00:00+00:00",
-          "resume": "De multiples vulnérabilités ont été découvertes dans les produits Check Point. Elles permettent à un attaquant de provoquer une élévation de privilèges et un contournement de la politique de sécurité."
-        },
-        {
-          "titre": "Multiples vulnérabilités dans PostgreSQL (13 novembre 2026)",
-          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1530/",
-          "date": "2026-11-13T00:00:00+00:00",
-          "resume": "De multiples vulnérabilités ont été découvertes dans PostgreSQL. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données."
-        },
-        {
-          "titre": "Multiples vulnérabilités dans Node.js (13 novembre 2026)",
-          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1531/",
-          "date": "2026-11-13T00:00:00+00:00",
-          "resume": "De multiples vulnérabilités ont été découvertes dans Node.js. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, un contournement de la politique de sécurité et un déni de service."
-        },
-        {
-          "titre": "Vulnérabilité dans Opera Neon (13 novembre 2026)",
-          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1532/",
-          "date": "2026-11-13T00:00:00+00:00",
-          "resume": "Une vulnérabilité a été découverte dans Opera Neon. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité."
-        },
-        {
-          "titre": "Multiples vulnérabilités dans Progress Telerik (13 novembre 2026)",
-          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1533/",
-          "date": "2026-11-13T00:00:00+00:00",
-          "resume": "De multiples vulnérabilités ont été découvertes dans Progress Telerik. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données."
-        },
-        {
-          "titre": "Vulnérabilité dans les produits Axis (13 novembre 2026)",
-          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1534/",
-          "date": "2026-11-13T00:00:00+00:00",
-          "resume": "Une vulnérabilité a été découverte dans les produits Axis. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance."
-        },
-        {
-          "titre": "Multiples vulnérabilités dans le noyau Linux de SUSE (13 novembre 2026)",
-          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1535/",
-          "date": "2026-11-13T00:00:00+00:00",
-          "resume": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des données et un contournement de la politique de sécurité."
-        },
-        {
-          "titre": "Multiples vulnérabilités dans le noyau Linux de Red Hat (13 novembre 2026)",
-          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1536/",
-          "date": "2026-11-13T00:00:00+00:00",
-          "resume": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance."
-        },
-        {
-          "titre": "Multiples vulnérabilités dans le noyau Linux d'Ubuntu (13 novembre 2026)",
-          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1537/",
-          "date": "2026-11-13T00:00:00+00:00",
-          "resume": "De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à l'intégrité des données et un contournement de la politique de sécurité."
-        },
-        {
-          "titre": "Multiples vulnérabilités dans le noyau Linux de Debian (13 novembre 2026)",
-          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1538/",
-          "date": "2026-11-13T00:00:00+00:00",
-          "resume": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un contournement de la politique de sécurité."
-        },
-        {
-          "titre": "Multiples vulnérabilités dans les produits IBM (13 novembre 2026)",
-          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1539/",
-          "date": "2026-11-13T00:00:00+00:00",
-          "resume": "De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données."
-        },
         {
           "titre": "Multiples vulnérabilités dans Kerberos (16 novembre 2026)",
           "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1540/",
@@ -130,6 +46,60 @@
           "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1546/",
           "date": "2026-11-16T00:00:00+00:00",
           "resume": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur."
+        },
+        {
+          "titre": "Multiples vulnérabilités dans Mitel MiCollab (17 novembre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1547/",
+          "date": "2026-11-17T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans Mitel MiCollab. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données."
+        },
+        {
+          "titre": "Vulnérabilité dans GLPI (17 novembre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1548/",
+          "date": "2026-11-17T00:00:00+00:00",
+          "resume": "Une vulnérabilité a été découverte dans GLPI. Elle permet à un attaquant de provoquer une atteinte à l'intégrité des données."
+        },
+        {
+          "titre": "Vulnérabilité dans Axis OS (17 novembre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1549/",
+          "date": "2026-11-17T00:00:00+00:00",
+          "resume": "Une vulnérabilité a été découverte dans Axis OS. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance."
+        },
+        {
+          "titre": "Multiples vulnérabilités dans Tenable Identity Exposure (17 novembre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1550/",
+          "date": "2026-11-17T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans Tenable Identity Exposure. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur."
+        },
+        {
+          "titre": "Vulnérabilité dans Juniper Networks Junos OS Evolved (17 novembre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1551/",
+          "date": "2026-11-17T00:00:00+00:00",
+          "resume": "Une vulnérabilité a été découverte dans Juniper Networks Junos OS Evolved. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service à distance."
+        },
+        {
+          "titre": "Multiples vulnérabilités dans GitLab (17 novembre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1552/",
+          "date": "2026-11-17T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans GitLab. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une falsification de requêtes côté serveur (SSRF)."
+        },
+        {
+          "titre": "Multiples vulnérabilités dans Typo3 (17 novembre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1553/",
+          "date": "2026-11-17T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans Typo3. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données."
+        },
+        {
+          "titre": "Multiples vulnérabilités dans OpenSSL (17 novembre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1554/",
+          "date": "2026-11-17T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans OpenSSL. Elles permettent à un attaquant de provoquer un déni de service à distance."
+        },
+        {
+          "titre": "Multiples vulnérabilités dans Microsoft SharePoint (17 novembre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1555/",
+          "date": "2026-11-17T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans Microsoft SharePoint. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et une élévation de privilèges."
         }
       ]
     },
@@ -152,6 +122,23 @@
     "fuites_infos": {
       "flux_utilise": "raw.githubusercontent.com REGISTRE.md",
       "lignes_recentes": [
+        "- `2026-11-17 (constaté)` — **Delatad** (fiche du 2026-10-25) · Description publique réécrite — texte non reproduit (empreinte 1c10b4edf8667d11 → 736a04f54aec1a76)",
+        "- `2026-11-17 (constaté)` — **Delatad** (fiche du 2026-10-25) · Nature des données : retiré Identifiant de connexion",
+        "- `2026-11-17` — **Nord Chauffage Services** (fiche du 2026-11-09) · **entrée ajoutée**",
+        "- `2026-11-17` — **Fishipedia** (fiche du 2026-11-17) · **entrée ajoutée**",
+        "- `2026-11-17` — **Rassemblement National** (fiche du 2026-11-17) · **entrée ajoutée**",
+        "- `2026-11-16 (constaté)` — **Fédération Française de Cardiologie** (fiche du 2025-11-11) · Volume concerné : 125 000 → 29 232",
+        "- `2026-11-16 (constaté)` — **Fédération Française de Cardiologie** (fiche du 2025-11-11) · Description publique réécrite — texte non reproduit (empreinte c7aa1aa317a49455 → ae14d8585716c885)",
+        "- `2026-11-16 (constaté)` — **Fédération Française de Cardiologie** (fiche du 2025-11-11) · Nature des données : ajouté Code postal, Date de naissance, Données professionnelles, Identifiant de connexion, Jeton d'authentification, Rôle ou droits d'accès, Ville ; retiré Historique de transactions, Mot de passe",
+        "- `2026-11-16` — **France Projecteurs** (fiche du 2026-11-16) · **entrée ajoutée**",
+        "- `2026-11-16` — **L'As Demarque** (fiche du 2026-11-16) · **entrée ajoutée**",
+        "- `2026-11-16` — **Fournishop** (fiche du 2026-11-16) · **entrée ajoutée**",
+        "- `2026-11-16` — **Ipsos** (fiche du 2026-11-16) · **entrée ajoutée**",
+        "- `2026-11-16` — **Interservices** (fiche du 2026-11-16) · **entrée ajoutée**",
+        "- `2026-11-16` — **Fédération Française du Sport Universitaire** (fiche du 2026-11-16) · **entrée ajoutée**",
+        "- `2026-11-16` — **Trezor** (fiche du 2026-11-16) · **entrée ajoutée**",
+        "- `2026-11-16` — **La Fabrique à Filets** (fiche du 2026-11-16) · **entrée ajoutée**",
+        "- `2026-11-16` — **Groupe T2MC** (fiche du 2026-11-16) · **entrée ajoutée**",
         "- `2026-11-16` — **Imagerie des 3 Rivières** (fiche du 2026-11-12) · **entrée ajoutée**",
         "- `2026-11-16` — **GRIM** (fiche du 2026-11-10) · **entrée ajoutée**",
         "- `2026-11-15` — **Dagier** (fiche du 2026-11-15) · **entrée ajoutée**",
@@ -173,28 +160,7 @@
         "- `2026-11-14` — **Maileva** (fiche du 2026-10-09) · Description publique réécrite — texte non reproduit (empreinte 9325278131a504fc → e6afc121f538b9d7)",
         "- `2026-11-14` — **The Bradery** (fiche du 2026-11-13) · **entrée ajoutée**",
         "- `2026-11-14` — **Cursor** (fiche du 2026-11-13) · **entrée ajoutée**",
-        "- `2026-11-14` — **Aquatonic Saint-Malo** (fiche du 2026-11-12) · **entrée ajoutée**",
-        "- `2026-11-13 (constaté)` — **Centre Hospitalier d'Armentières** (fiche du 2026-11-13) · Statut : Revendiquée → Confirmée",
-        "- `2026-11-13 (constaté)` — **Centre Hospitalier d'Armentières** (fiche du 2026-11-13) · Description publique réécrite — texte non reproduit (empreinte 54153b06bbf10223 → 7ea481420cd811de)",
-        "- `2026-11-13` — **Communauté de communes Entre Bièvre et Rhône** (fiche du 2026-11-13) · **entrée ajoutée**",
-        "- `2026-11-13` — **Grand Est Automobiles** (fiche du 2026-11-13) · **entrée ajoutée**",
-        "- `2026-11-13` — **Centre Hospitalier d'Armentières** (fiche du 2026-11-13) · **entrée ajoutée**",
-        "- `2026-11-13` — **CuisineAddict** (fiche du 2026-11-13) · **entrée ajoutée**",
-        "- `2026-11-13` — **UFOLEP** (fiche du 2026-11-10) · **entrée ajoutée**",
-        "- `2026-11-13` — **Location-etudiant.fr** (fiche du 2026-11-12) · **entrée ajoutée**",
-        "- `2026-11-13 (constaté)` — **Gestool** (fiche du 2026-11-11) · Statut : Revendiquée → Confirmée",
-        "- `2026-11-13 (constaté)` — **Gestool** (fiche du 2026-11-11) · Description publique réécrite — texte non reproduit (empreinte da86804e6cc31f57 → a1a5d2070f4ea040)",
-        "- `2026-11-13 (constaté)` — **Therapeutes.com** (fiche du 2026-03-13) · Volume concerné : 71 502 → (vide)",
-        "- `2026-11-13 (constaté)` — **Maeva** (fiche du 2026-05-15) · Volume concerné : 4 500 000 → (vide)",
-        "- `2026-11-13 (constaté)` — **Leroy Merlin** (fiche du 2025-12-02) · Volume concerné : 367 462 → (vide)",
-        "- `2026-11-13 (constaté)` — **Le Temps des Cerises** (fiche du 2026-03-08) · Volume concerné : 853 740 → (vide)",
-        "- `2026-11-13 (constaté)` — **Le Temps des Cerises** (fiche du 2026-03-08) · Description publique réécrite — texte non reproduit (empreinte 145a441924fdcd46 → 715179c422e3e76a)",
-        "- `2026-11-13 (constaté)` — **Fédération Omnisports ASPTT** (fiche du 2026-03-09) · Volume concerné : 1 005 361 → (vide)",
-        "- `2026-11-13 (constaté)` — **Fédération Française Handisport** (fiche du 2026-03-28) · Volume concerné : 197 276 → (vide)",
-        "- `2026-11-13 (constaté)` — **France Services** (fiche du 2026-06-12) · Volume concerné : 11 569 → (vide)",
-        "- `2026-11-13 (constaté)` — **Cegid** (fiche du 2026-02-24) · Volume concerné : 74 312 → (vide)",
-        "- `2026-11-13 (constaté)` — **Cegid** (fiche du 2026-02-24) · Description publique réécrite — texte non reproduit (empreinte 02daa71d5b7e4bea → e153115afc6f7b83)",
-        "- `2026-11-13 (constaté)` — **Bioserveur** (fiche du 2026-03-02) · Volume concerné : 2 200 → (vide)"
+        "- `2026-11-14` — **Aquatonic Saint-Malo** (fiche du 2026-11-12) · **entrée ajoutée**"
       ]
     }
   },
