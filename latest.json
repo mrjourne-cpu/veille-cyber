@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-11-24T18:21:39.323228+00:00",
+  "genere_le": "2026-11-25T17:38:39.999640+00:00",
   "fenetre_jours": 3,
   "sources": {
     "cert_fr_avis": {
@@ -100,6 +100,54 @@
           "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1614/",
           "date": "2026-11-24T00:00:00+00:00",
           "resume": "De multiples vulnérabilités ont été découvertes dans les produits Elastic. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance."
+        },
+        {
+          "titre": "Multiples vulnérabilités dans Tenable Enclave Security (25 novembre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1615/",
+          "date": "2026-11-25T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans Tenable Enclave Security. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance."
+        },
+        {
+          "titre": "Multiples vulnérabilités dans les produits Mozilla (25 novembre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1616/",
+          "date": "2026-11-25T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans les produits Mozilla. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et une atteinte à la confidentialité des données."
+        },
+        {
+          "titre": "Vulnérabilité dans Laravel (25 novembre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1617/",
+          "date": "2026-11-25T00:00:00+00:00",
+          "resume": "Une vulnérabilité a été découverte dans Laravel. Elle permet à un attaquant de provoquer un déni de service à distance."
+        },
+        {
+          "titre": "Vulnérabilité dans les produits Schneider Electric (25 novembre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1618/",
+          "date": "2026-11-25T00:00:00+00:00",
+          "resume": "Une vulnérabilité a été découverte dans les produits Schneider Electric. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service à distance."
+        },
+        {
+          "titre": "Multiples vulnérabilités dans Symfony (25 novembre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1619/",
+          "date": "2026-11-25T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans Symfony. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et un contournement de la politique de sécurité."
+        },
+        {
+          "titre": "Vulnérabilité dans Microsoft Office (25 novembre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1620/",
+          "date": "2026-11-25T00:00:00+00:00",
+          "resume": "Une vulnérabilité a été découverte dans Microsoft Office. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance."
+        },
+        {
+          "titre": "Vulnérabilité dans Palo Alto Networks PAN-OS (25 novembre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1621/",
+          "date": "2026-11-25T00:00:00+00:00",
+          "resume": "Une vulnérabilité a été découverte dans Palo Alto Networks PAN-OS. Elle permet à un attaquant de provoquer une élévation de privilèges. Palo Alto Networks indique que la vulnérabilité CVE-2026-43600 est activement exploitée."
+        },
+        {
+          "titre": "Multiples vulnérabilités dans les produits VMware (25 novembre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1622/",
+          "date": "2026-11-25T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans les produits VMware. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance."
         }
       ]
     },
@@ -122,6 +170,16 @@
     "fuites_infos": {
       "flux_utilise": "raw.githubusercontent.com REGISTRE.md",
       "lignes_recentes": [
+        "- `2026-11-25` — **Snipes** (fiche du 2026-11-24) · **entrée ajoutée**",
+        "- `2026-11-25` — **Inmac Wstore** (fiche du 2026-11-25) · **entrée ajoutée**",
+        "- `2026-11-25` — **Septeo IT Solutions** (fiche du 2026-11-24) · **entrée ajoutée**",
+        "- `2026-11-25 (constaté)` — **Arobases** (fiche du 2026-11-17) · Description publique réécrite — texte non reproduit (empreinte e2cd7c0c9f4e7c5e → 568efd38dba11da1)",
+        "- `2026-11-25` — **Univers du Cuir** (fiche du 2026-11-23) · **entrée ajoutée**",
+        "- `2026-11-25 (constaté)` — **Timer Immobilier** (fiche du 2026-06-18) · Description publique réécrite — texte non reproduit (empreinte a87635175804b4d1 → 6a73eb20764b3faf)",
+        "- `2026-11-25 (constaté)` — **Cours Thalès** (fiche du 2026-10-03) · Statut : Revendiquée → Confirmée",
+        "- `2026-11-25 (constaté)` — **Cours Thalès** (fiche du 2026-10-03) · Description publique réécrite — texte non reproduit (empreinte 12fac87e2ee562a7 → 33f427d697b64d8a)",
+        "- `2026-11-25 (constaté)` — **Bebeboutik** (fiche du 2026-07-10) · Statut : Revendiquée → Confirmée",
+        "- `2026-11-25 (constaté)` — **Bebeboutik** (fiche du 2026-07-10) · Description publique réécrite — texte non reproduit (empreinte 598751d605d769ca → e1b49a712035c7d8)",
         "- `2026-11-24` — **Macadam** (fiche du 2026-11-24) · **entrée ajoutée**",
         "- `2026-11-24 (constaté)` — **Decathlon** (fiche du 2026-11-23) · Statut : Revendiquée → Confirmée",
         "- `2026-11-24 (constaté)` — **Decathlon** (fiche du 2026-11-23) · Description publique réécrite — texte non reproduit (empreinte ac6639943554d79c → 216528481fba8ddb)",
@@ -211,28 +269,7 @@
         "- `2026-11-22` — **ADMR** (fiche du 2026-10-23) · Statut : Revendiquée → Confirmée",
         "- `2026-11-22` — **ADMR** (fiche du 2026-10-23) · Description publique réécrite — texte non reproduit (empreinte a0e00a61a63a457c → 500e6c8ca6900ff7)",
         "- `2026-11-22` — **1001RDV** (fiche du 2026-11-12) · Statut : Revendiquée → Confirmée",
-        "- `2026-11-22` — **1001RDV** (fiche du 2026-11-12) · Description publique réécrite — texte non reproduit (empreinte c2157c018fc701f8 → 9751845c22dbe5d2)",
-        "- `2026-11-21 (constaté)` — **ManyFics** (fiche du 2026-11-12) · Description publique réécrite — texte non reproduit (empreinte 66515bddba400cf5 → f80baff862701acc)",
-        "- `2026-11-21 (constaté)` — **Trynet** (fiche du 2026-11-15) · Description publique réécrite — texte non reproduit (empreinte 809bcc29d2ea16b6 → 74eb84859ae4b9fd)",
-        "- `2026-11-21 (constaté)` — **Robot Advance** (fiche du 2026-11-21) · Description publique réécrite — texte non reproduit (empreinte cea16fb600592558 → 39191670b746b09c)",
-        "- `2026-11-21 (constaté)` — **Rassemblement National** (fiche du 2026-11-17) · Description publique réécrite — texte non reproduit (empreinte c594089744ce659a → 10b77ca647a92b4a)",
-        "- `2026-11-21 (constaté)` — **L'As Demarque** (fiche du 2026-11-16) · Description publique réécrite — texte non reproduit (empreinte 511dfd72c3e704a6 → 4235f17a8b0a1c02)",
-        "- `2026-11-21 (constaté)` — **HomeMaison** (fiche du 2026-11-12) · Description publique réécrite — texte non reproduit (empreinte 702415d56777cb87 → 96269a86bd8f7f86)",
-        "- `2026-11-21 (constaté)` — **Groupe T2MC** (fiche du 2026-11-16) · Description publique réécrite — texte non reproduit (empreinte 4b4d3b8037a89ae5 → afbb22564a6a4013)",
-        "- `2026-11-21 (constaté)` — **Grand Est Automobiles** (fiche du 2026-11-13) · Description publique réécrite — texte non reproduit (empreinte e24cd6ec81e90e7d → ed44e66bdc4d8d9f)",
-        "- `2026-11-21 (constaté)` — **Gotronic** (fiche du 2026-11-21) · Description publique réécrite — texte non reproduit (empreinte 3ed29e58cc8ce1d5 → 2453fbd012400336)",
-        "- `2026-11-21 (constaté)` — **Gestool** (fiche du 2026-11-11) · Description publique réécrite — texte non reproduit (empreinte a1a5d2070f4ea040 → e78e5afafe72f5fd)",
-        "- `2026-11-21 (constaté)` — **Fédération Française du Sport Universitaire** (fiche du 2026-11-16) · Description publique réécrite — texte non reproduit (empreinte 337fb0988a5b15ac → 0fcc2c55d324f6ac)",
-        "- `2026-11-21 (constaté)` — **France Travail** (fiche du 2026-11-19) · Description publique réécrite — texte non reproduit (empreinte 2fd874ec428a0e61 → 0d0fd75f5ffdd648)",
-        "- `2026-11-21 (constaté)` — **France Projecteurs** (fiche du 2026-11-16) · Description publique réécrite — texte non reproduit (empreinte e8663f703735e982 → cb4b59f03e1d3d20)",
-        "- `2026-11-21 (constaté)` — **FIC Expertise** (fiche du 2026-11-14) · Description publique réécrite — texte non reproduit (empreinte c0a12e292c17dd46 → 99b2bf31be3e0d53)",
-        "- `2026-11-21 (constaté)` — **Essilor** (fiche du 2026-11-14) · Description publique réécrite — texte non reproduit (empreinte 8513f9910eaaecb0 → 6cb2ab0b77a629f3)",
-        "- `2026-11-21 (constaté)` — **Dagier** (fiche du 2026-11-15) · Description publique réécrite — texte non reproduit (empreinte bb7b8737d2fbfd41 → 9459b348fe24bd3d)",
-        "- `2026-11-21 (constaté)` — **Chargemap** (fiche du 2026-11-18) · Description publique réécrite — texte non reproduit (empreinte 7d36cabcd31925e5 → 2f6dbf25db323d7e)",
-        "- `2026-11-21` — **Robot Advance** (fiche du 2026-11-21) · **entrée ajoutée**",
-        "- `2026-11-21` — **La Maison des Travaux** (fiche du 2026-11-21) · **entrée ajoutée**",
-        "- `2026-11-21` — **Gotronic** (fiche du 2026-11-21) · **entrée ajoutée**",
-        "- `2026-11-21` — **Clevermate** (fiche du 2026-11-21) · **entrée ajoutée**"
+        "- `2026-11-22` — **1001RDV** (fiche du 2026-11-12) · Description publique réécrite — texte non reproduit (empreinte c2157c018fc701f8 → 9751845c22dbe5d2)"
       ]
     }
   },

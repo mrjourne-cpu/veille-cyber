@@ -1,0 +1,280 @@
+{
+  "genere_le": "2026-11-25T17:38:39.999640+00:00",
+  "fenetre_jours": 3,
+  "sources": {
+    "cert_fr_avis": {
+      "flux_utilise": "https://www.cert.ssi.gouv.fr/avis/feed/",
+      "entrees": [
+        {
+          "titre": "Multiples vulnérabilités dans SPIP (23 novembre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1599/",
+          "date": "2026-11-23T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans SPIP. Elles permettent à un attaquant de provoquer une injection de code indirecte à distance (XSS) et une injection de requêtes illégitimes par rebond (CSRF)."
+        },
+        {
+          "titre": "Multiples vulnérabilités dans les produits Palo Alto Networks (23 novembre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1600/",
+          "date": "2026-11-23T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans les produits Palo Alto Networks. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service à distance."
+        },
+        {
+          "titre": "Vulnérabilité dans Laravel (23 novembre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1601/",
+          "date": "2026-11-23T00:00:00+00:00",
+          "resume": "Une vulnérabilité a été découverte dans Laravel. Elle permet à un attaquant de provoquer un déni de service à distance."
+        },
+        {
+          "titre": "Multiples vulnérabilités dans Roundcube Webmail (23 novembre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1602/",
+          "date": "2026-11-23T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans Roundcube Webmail. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données."
+        },
+        {
+          "titre": "Multiples vulnérabilités dans Microsoft Edge (23 novembre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1603/",
+          "date": "2026-11-23T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur."
+        },
+        {
+          "titre": "Vulnérabilité dans Microsoft Office (23 novembre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1604/",
+          "date": "2026-11-23T00:00:00+00:00",
+          "resume": "Une vulnérabilité a été découverte dans Microsoft Office. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance."
+        },
+        {
+          "titre": "Vulnérabilité dans Mattermost Server (23 novembre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1605/",
+          "date": "2026-11-23T00:00:00+00:00",
+          "resume": "Une vulnérabilité a été découverte dans Mattermost Server. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données."
+        },
+        {
+          "titre": "Multiples vulnérabilités dans MongoDB (23 novembre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1606/",
+          "date": "2026-11-23T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans MongoDB. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données."
+        },
+        {
+          "titre": "Multiples vulnérabilités dans les produits Synology (23 novembre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1607/",
+          "date": "2026-11-23T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans les produits Synology. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données."
+        },
+        {
+          "titre": "Vulnérabilité dans Google Chrome (24 novembre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1608/",
+          "date": "2026-11-24T00:00:00+00:00",
+          "resume": "Une vulnérabilité a été découverte dans Google Chrome. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de sécurité."
+        },
+        {
+          "titre": "Vulnérabilité dans Laravel (24 novembre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1609/",
+          "date": "2026-11-24T00:00:00+00:00",
+          "resume": "Une vulnérabilité a été découverte dans Laravel. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité."
+        },
+        {
+          "titre": "Multiples vulnérabilités dans Postfix (24 novembre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1610/",
+          "date": "2026-11-24T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans Postfix. Elles permettent à un attaquant de provoquer un déni de service à distance et une atteinte à la confidentialité des données."
+        },
+        {
+          "titre": "Multiples vulnérabilités dans Traefik (24 novembre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1611/",
+          "date": "2026-11-24T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans Traefik. Elle permet à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et un contournement de la politique de sécurité."
+        },
+        {
+          "titre": "Vulnérabilité dans les produits F5 (24 novembre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1612/",
+          "date": "2026-11-24T00:00:00+00:00",
+          "resume": "Une vulnérabilité a été découverte dans les produits F5. Elle permet à un attaquant de provoquer un déni de service à distance."
+        },
+        {
+          "titre": "Multiples vulnérabilités dans OpenSSL (24 novembre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1613/",
+          "date": "2026-11-24T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans OpenSSL. Elles permettent à un attaquant de provoquer un déni de service à distance."
+        },
+        {
+          "titre": "Multiples vulnérabilités dans les produits Elastic (24 novembre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1614/",
+          "date": "2026-11-24T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans les produits Elastic. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance."
+        },
+        {
+          "titre": "Multiples vulnérabilités dans Tenable Enclave Security (25 novembre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1615/",
+          "date": "2026-11-25T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans Tenable Enclave Security. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance."
+        },
+        {
+          "titre": "Multiples vulnérabilités dans les produits Mozilla (25 novembre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1616/",
+          "date": "2026-11-25T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans les produits Mozilla. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et une atteinte à la confidentialité des données."
+        },
+        {
+          "titre": "Vulnérabilité dans Laravel (25 novembre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1617/",
+          "date": "2026-11-25T00:00:00+00:00",
+          "resume": "Une vulnérabilité a été découverte dans Laravel. Elle permet à un attaquant de provoquer un déni de service à distance."
+        },
+        {
+          "titre": "Vulnérabilité dans les produits Schneider Electric (25 novembre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1618/",
+          "date": "2026-11-25T00:00:00+00:00",
+          "resume": "Une vulnérabilité a été découverte dans les produits Schneider Electric. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service à distance."
+        },
+        {
+          "titre": "Multiples vulnérabilités dans Symfony (25 novembre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1619/",
+          "date": "2026-11-25T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans Symfony. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et un contournement de la politique de sécurité."
+        },
+        {
+          "titre": "Vulnérabilité dans Microsoft Office (25 novembre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1620/",
+          "date": "2026-11-25T00:00:00+00:00",
+          "resume": "Une vulnérabilité a été découverte dans Microsoft Office. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance."
+        },
+        {
+          "titre": "Vulnérabilité dans Palo Alto Networks PAN-OS (25 novembre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1621/",
+          "date": "2026-11-25T00:00:00+00:00",
+          "resume": "Une vulnérabilité a été découverte dans Palo Alto Networks PAN-OS. Elle permet à un attaquant de provoquer une élévation de privilèges. Palo Alto Networks indique que la vulnérabilité CVE-2026-43600 est activement exploitée."
+        },
+        {
+          "titre": "Multiples vulnérabilités dans les produits VMware (25 novembre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1622/",
+          "date": "2026-11-25T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans les produits VMware. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance."
+        }
+      ]
+    },
+    "cert_fr_alertes": {
+      "flux_utilise": "https://www.cert.ssi.gouv.fr/alerte/feed/",
+      "entrees": []
+    },
+    "cert_fr_cti": {
+      "flux_utilise": "https://www.cert.ssi.gouv.fr/cti/feed/",
+      "entrees": []
+    },
+    "anssi_actualites": {
+      "flux_utilise": "listing HTML (repli, flux RSS indisponible)",
+      "entrees": []
+    },
+    "cert_eu": {
+      "flux_utilise": null,
+      "entrees": []
+    },
+    "fuites_infos": {
+      "flux_utilise": "raw.githubusercontent.com REGISTRE.md",
+      "lignes_recentes": [
+        "- `2026-11-25` — **Snipes** (fiche du 2026-11-24) · **entrée ajoutée**",
+        "- `2026-11-25` — **Inmac Wstore** (fiche du 2026-11-25) · **entrée ajoutée**",
+        "- `2026-11-25` — **Septeo IT Solutions** (fiche du 2026-11-24) · **entrée ajoutée**",
+        "- `2026-11-25 (constaté)` — **Arobases** (fiche du 2026-11-17) · Description publique réécrite — texte non reproduit (empreinte e2cd7c0c9f4e7c5e → 568efd38dba11da1)",
+        "- `2026-11-25` — **Univers du Cuir** (fiche du 2026-11-23) · **entrée ajoutée**",
+        "- `2026-11-25 (constaté)` — **Timer Immobilier** (fiche du 2026-06-18) · Description publique réécrite — texte non reproduit (empreinte a87635175804b4d1 → 6a73eb20764b3faf)",
+        "- `2026-11-25 (constaté)` — **Cours Thalès** (fiche du 2026-10-03) · Statut : Revendiquée → Confirmée",
+        "- `2026-11-25 (constaté)` — **Cours Thalès** (fiche du 2026-10-03) · Description publique réécrite — texte non reproduit (empreinte 12fac87e2ee562a7 → 33f427d697b64d8a)",
+        "- `2026-11-25 (constaté)` — **Bebeboutik** (fiche du 2026-07-10) · Statut : Revendiquée → Confirmée",
+        "- `2026-11-25 (constaté)` — **Bebeboutik** (fiche du 2026-07-10) · Description publique réécrite — texte non reproduit (empreinte 598751d605d769ca → e1b49a712035c7d8)",
+        "- `2026-11-24` — **Macadam** (fiche du 2026-11-24) · **entrée ajoutée**",
+        "- `2026-11-24 (constaté)` — **Decathlon** (fiche du 2026-11-23) · Statut : Revendiquée → Confirmée",
+        "- `2026-11-24 (constaté)` — **Decathlon** (fiche du 2026-11-23) · Description publique réécrite — texte non reproduit (empreinte ac6639943554d79c → 216528481fba8ddb)",
+        "- `2026-11-24 (constaté)` — **Pix** (fiche du 2026-01-18) · Description publique réécrite — texte non reproduit (empreinte 7a214c4c5027e59e → 7f8e6e84f3075cff)",
+        "- `2026-11-24` — **DSAC (Aviation civile)** (fiche du 2026-11-24) · **entrée ajoutée**",
+        "- `2026-11-24 (constaté)` — **FranceBourse** (fiche du 2026-10-10) · Statut : Revendiquée → Confirmée",
+        "- `2026-11-24 (constaté)` — **FranceBourse** (fiche du 2026-10-10) · Description publique réécrite — texte non reproduit (empreinte 016b280db3ee5966 → 861d3a6017be8409)",
+        "- `2026-11-24 (constaté)` — **Love and Vibes** (fiche du 2026-11-02) · Description publique réécrite — texte non reproduit (empreinte 05b52b6bb18c79c2 → 6be30b16d468131d)",
+        "- `2026-11-24 (constaté)` — **Love and Vibes** (fiche du 2026-11-02) · Nature des données : ajouté Champs libres, Identifiant interne, Pays",
+        "- `2026-11-24 (constaté)` — **Arobases** (fiche du 2026-11-17) · Description publique réécrite — texte non reproduit (empreinte 2357b5bf81a62568 → e2cd7c0c9f4e7c5e)",
+        "- `2026-11-24` — **Rapid-Sign** (fiche du 2026-11-23) · **entrée ajoutée**",
+        "- `2026-11-24` — **L'Empreinte du Bois** (fiche du 2026-11-23) · **entrée ajoutée**",
+        "- `2026-11-24` — **Institut national du cancer (INCa)** (fiche du 2026-11-23) · **entrée ajoutée**",
+        "- `2026-11-24` — **Expert Canapé** (fiche du 2026-11-23) · **entrée ajoutée**",
+        "- `2026-11-24` — **Bocklip** (fiche du 2026-11-23) · **entrée ajoutée**",
+        "- `2026-11-24` — **LocService** (fiche du 2026-11-19) · Description publique réécrite — texte non reproduit (empreinte 1678251fb5b1cabf → ae1f07ee4b0892cc)",
+        "- `2026-11-24` — **LocService** (fiche du 2026-11-19) · Nature des données : ajouté Adresse IP, Adresses web, Numéro de téléphone",
+        "- `2026-11-23 (constaté)` — **Arobases** (fiche du 2026-11-17) · Description publique réécrite — texte non reproduit (empreinte f7e3c3de5ff4a2e5 → 2357b5bf81a62568)",
+        "- `2026-11-23` — **Les Gazons Parisiens** (fiche du 2026-11-23) · **entrée ajoutée**",
+        "- `2026-11-23` — **La Fabrique d'écharpe** (fiche du 2026-11-23) · **entrée ajoutée**",
+        "- `2026-11-23` — **Idil Diffusion** (fiche du 2026-11-23) · **entrée ajoutée**",
+        "- `2026-11-23` — **Happy Candy** (fiche du 2026-11-23) · **entrée ajoutée**",
+        "- `2026-11-23` — **Eurovanille** (fiche du 2026-11-23) · **entrée ajoutée**",
+        "- `2026-11-23` — **Banque Delubac & Cie** (fiche du 2026-11-23) · **entrée ajoutée**",
+        "- `2026-11-23 (constaté)` — **Assoclub** (fiche du 2026-10-31) · Statut : Revendiquée → Confirmée",
+        "- `2026-11-23 (constaté)` — **Assoclub** (fiche du 2026-10-31) · Description publique réécrite — texte non reproduit (empreinte f90eccc625dd0c95 → 7464c833c11c0af8)",
+        "- `2026-11-23 (constaté)` — **Score'n'co** (fiche du 2026-09-27) · Statut : Revendiquée → Confirmée",
+        "- `2026-11-23 (constaté)` — **Score'n'co** (fiche du 2026-09-27) · Description publique réécrite — texte non reproduit (empreinte 0f1ca12aba64f34c → 69a854969c30d102)",
+        "- `2026-11-23 (constaté)` — **Vackelys** (fiche du 2026-10-17) · Statut : Revendiquée → Confirmée",
+        "- `2026-11-23 (constaté)` — **Vackelys** (fiche du 2026-10-17) · Description publique réécrite — texte non reproduit (empreinte a05890556b98b0e8 → 59452609bc7590ec)",
+        "- `2026-11-23 (constaté)` — **Gotronic** (fiche du 2026-11-21) · Statut : Revendiquée → Confirmée",
+        "- `2026-11-23 (constaté)` — **Gotronic** (fiche du 2026-11-21) · Description publique réécrite — texte non reproduit (empreinte 2453fbd012400336 → e207acf52330ee33)",
+        "- `2026-11-23 (constaté)` — **HomePad** (fiche du 2026-06-12) · Description publique réécrite — texte non reproduit (empreinte 92a762f19a6a42ef → ad0579f76fafda58)",
+        "- `2026-11-23 (constaté)` — **Certificat CléA** (fiche du 2026-05-27) · Statut : Revendiquée → Confirmée",
+        "- `2026-11-23 (constaté)` — **Certificat CléA** (fiche du 2026-05-27) · Description publique réécrite — texte non reproduit (empreinte d3b4966b3d10d4fc → 248cc24c640a687a)",
+        "- `2026-11-23` — **LWS** (fiche du 2026-11-23) · **entrée ajoutée**",
+        "- `2026-11-23` — **OC Sport** (fiche du 2026-11-20) · **entrée ajoutée**",
+        "- `2026-11-23` — **Arobases** (fiche du 2026-11-17) · **entrée ajoutée**",
+        "- `2026-11-23 (constaté)` — **Predige** (fiche du 2026-10-04) · Statut : Revendiquée → Confirmée",
+        "- `2026-11-23 (constaté)` — **Predige** (fiche du 2026-10-04) · Description publique réécrite — texte non reproduit (empreinte 4fce5d6f1a34acd3 → 4bb44130215a60a8)",
+        "- `2026-11-23 (constaté)` — **Docurba** (fiche du 2026-08-25) · Statut : Revendiquée → Confirmée",
+        "- `2026-11-23 (constaté)` — **Docurba** (fiche du 2026-08-25) · Description publique réécrite — texte non reproduit (empreinte 26efff37d6e337e6 → bddcff22d2e60097)",
+        "- `2026-11-23 (constaté)` — **Be-in-Home** (fiche du 2026-10-17) · Statut : Revendiquée → Confirmée",
+        "- `2026-11-23 (constaté)` — **Be-in-Home** (fiche du 2026-10-17) · Description publique réécrite — texte non reproduit (empreinte cd8fe4dab42a9ee5 → 1f39e09b5be62783)",
+        "- `2026-11-23 (constaté)` — **Woop** (fiche du 2026-05-13) · **ENTRÉE RETIRÉE** — motif : Information devenue inexacte (La fiche rapportait la mise en vente, le 13 mai 2026 sur un forum cybercriminel, d'une base de 256 319 lignes présentée comme issue de la plateforme de livraison Woop. Le vendeur, sans réputation sur le forum, n'en avait diffusé qu'un extrait partiel. Sollicitée le 22 novembre 2026, Woop a démenti la revendication le lendemain : l'entreprise indique n'avoir trouvé aucune correspondance entre l'extrait et ses bases de données, ni dans ses journaux ou sur sa surface d'exposition, et ne pas collecter les données d'état civil et bancaires annoncées. Aucun élément ne contredit ce démenti. La fiche sort de l'accès public et reste au catalogue professionnel, avec la revendication et le démenti.)",
+        "- `2026-11-23 (constaté)` — **Snowleader** (fiche du 2026-11-18) · Description publique réécrite — texte non reproduit (empreinte 8decdc11491523bf → 375bee86baafc9ce)",
+        "- `2026-11-23 (constaté)` — **Snowleader** (fiche du 2026-11-18) · Nature des données : ajouté Adresse email, Adresse postale, Carte de paiement, Historique de commandes, Mot de passe (haché), Nom complet, Numéro de téléphone",
+        "- `2026-11-23 (constaté)` — **Cigusto** (fiche du 2026-09-26) · Statut : Revendiquée → Confirmée",
+        "- `2026-11-23 (constaté)` — **Cigusto** (fiche du 2026-09-26) · Description publique réécrite — texte non reproduit (empreinte 07a5013fe1e8100a → e31f59007efc73b2)",
+        "- `2026-11-23 (constaté)` — **Cigusto** (fiche du 2026-09-26) · Description publique réécrite — texte non reproduit (empreinte 2ed4be55e9d4ae63 → 07a5013fe1e8100a)",
+        "- `2026-11-23` — **Decathlon** (fiche du 2026-11-23) · **entrée ajoutée**",
+        "- `2026-11-23` — **AAAEP** (fiche du 2026-11-23) · **entrée ajoutée**",
+        "- `2026-11-23` — **Fondation des Femmes** (fiche du 2026-11-23) · **entrée ajoutée**",
+        "- `2026-11-23` — **LAPSA** (fiche du 2026-11-23) · **entrée ajoutée**",
+        "- `2026-11-22` — **Wanda Collection** (fiche du 2026-11-22) · **entrée ajoutée**",
+        "- `2026-11-22` — **Subtil Diamant** (fiche du 2026-11-22) · **entrée ajoutée**",
+        "- `2026-11-22` — **La Chouette Mauve** (fiche du 2026-11-22) · **entrée ajoutée**",
+        "- `2026-11-22 (constaté)` — **Comptoir du Rêve** (fiche du 2026-04-18) · Statut : Revendiquée → Confirmée",
+        "- `2026-11-22 (constaté)` — **Comptoir du Rêve** (fiche du 2026-04-18) · Description publique réécrite — texte non reproduit (empreinte 5900f67edc50021c → f34e12a0eb67c7b0)",
+        "- `2026-11-22 (constaté)` — **La Maison des Travaux** (fiche du 2026-11-21) · Description publique réécrite — texte non reproduit (empreinte 78eb752d54c31c22 → f4d2c629a779a4c1)",
+        "- `2026-11-22 (constaté)` — **Transporteur.com** (fiche du 2026-10-20) · Description publique réécrite — texte non reproduit (empreinte 057e6ed71744f1c4 → 3f1e256a900576bf)",
+        "- `2026-11-22 (constaté)` — **Frenchy Sushi** (fiche du 2026-10-20) · Description publique réécrite — texte non reproduit (empreinte 822d4e548abe5e7c → 33cda7239ecb91a6)",
+        "- `2026-11-22 (constaté)` — **SOS Oxygène** (fiche du 2026-11-10) · Volume concerné : (vide) → 14 832",
+        "- `2026-11-22 (constaté)` — **SOS Oxygène** (fiche du 2026-11-10) · Description publique réécrite — texte non reproduit (empreinte 6b56e862f519b1cf → 40d4af7db811fb07)",
+        "- `2026-11-22 (constaté)` — **École nationale vétérinaire d'Alfort (EnvA)** (fiche du 2026-09-30) · Statut : Revendiquée → Confirmée",
+        "- `2026-11-22 (constaté)` — **École nationale vétérinaire d'Alfort (EnvA)** (fiche du 2026-09-30) · Description publique réécrite — texte non reproduit (empreinte bffa7a8a6d9ad31a → 45e3fc9c719eb613)",
+        "- `2026-11-22 (constaté)` — **Solutions30** (fiche du 2026-10-12) · Statut : Revendiquée → Confirmée",
+        "- `2026-11-22 (constaté)` — **Solutions30** (fiche du 2026-10-12) · Description publique réécrite — texte non reproduit (empreinte 7f4f9a7f34b10ef3 → 52c2a27b5d53cdc6)",
+        "- `2026-11-22 (constaté)` — **AFPA** (fiche du 2026-09-16) · Volume concerné : (vide) → 1 732 703",
+        "- `2026-11-22 (constaté)` — **AFPA** (fiche du 2026-09-15) · Description publique réécrite — texte non reproduit (empreinte 0ac78e70c2f551c5 → fe44b55fe15e4a3c)",
+        "- `2026-11-22 (constaté)` — **AFPA** (fiche du 2026-09-16) · Description publique réécrite — texte non reproduit (empreinte 775f360b816c4333 → 3e6c3be5f7fdb1bf)",
+        "- `2026-11-22 (constaté)` — **PRREL Ambition** (fiche du 2026-10-17) · Statut : Revendiquée → Confirmée",
+        "- `2026-11-22 (constaté)` — **PRREL Ambition** (fiche du 2026-10-17) · Description publique réécrite — texte non reproduit (empreinte 84000b3214f2e054 → 678534e0704c997c)",
+        "- `2026-11-22 (constaté)` — **Nantes Métropole** (fiche du 2026-06-09) · Statut : Revendiquée → Confirmée",
+        "- `2026-11-22 (constaté)` — **Nantes Métropole** (fiche du 2026-06-09) · Description publique réécrite — texte non reproduit (empreinte 593f98be7f0ede50 → eb6c8edbf08cd278)",
+        "- `2026-11-22 (constaté)` — **Géofoncier** (fiche du 2026-09-01) · Statut : Revendiquée → Confirmée",
+        "- `2026-11-22 (constaté)` — **Géofoncier** (fiche du 2026-09-01) · Description publique réécrite — texte non reproduit (empreinte f42edaadcdaf3149 → 2ed7edd37985f987)",
+        "- `2026-11-22 (constaté)` — **Agefiph** (fiche du 2026-09-27) · Statut : Revendiquée → Confirmée",
+        "- `2026-11-22 (constaté)` — **Agefiph** (fiche du 2026-09-27) · Description publique réécrite — texte non reproduit (empreinte 475d33bb78a52e6c → 6686e1356762dd18)",
+        "- `2026-11-22` — **Ecologic** (fiche du 2026-10-13) · Statut : Revendiquée → Confirmée",
+        "- `2026-11-22` — **Ecologic** (fiche du 2026-10-13) · Description publique réécrite — texte non reproduit (empreinte 80268437e0a208b7 → 1ca4a18e2d190b60)",
+        "- `2026-11-22` — **Doinsport** (fiche du 2026-09-24) · Statut : Revendiquée → Confirmée",
+        "- `2026-11-22` — **Doinsport** (fiche du 2026-09-24) · Description publique réécrite — texte non reproduit (empreinte e7ccb772966ec658 → 65bd9aa3ffcdce45)",
+        "- `2026-11-22` — **Djaboo** (fiche du 2026-05-15) · Description publique réécrite — texte non reproduit (empreinte 260444548af1691c → d8e5ed2bb1d26f59)",
+        "- `2026-11-22` — **Conservatoire national des arts et métiers (Cnam)** (fiche du 2026-10-02) · Statut : Revendiquée → Confirmée",
+        "- `2026-11-22` — **Conservatoire national des arts et métiers (Cnam)** (fiche du 2026-10-02) · Description publique réécrite — texte non reproduit (empreinte bc9da86a626d32b1 → 541a25473137b1e7)",
+        "- `2026-11-22` — **ADMR** (fiche du 2026-10-23) · Statut : Revendiquée → Confirmée",
+        "- `2026-11-22` — **ADMR** (fiche du 2026-10-23) · Description publique réécrite — texte non reproduit (empreinte a0e00a61a63a457c → 500e6c8ca6900ff7)",
+        "- `2026-11-22` — **1001RDV** (fiche du 2026-11-12) · Statut : Revendiquée → Confirmée",
+        "- `2026-11-22` — **1001RDV** (fiche du 2026-11-12) · Description publique réécrite — texte non reproduit (empreinte c2157c018fc701f8 → 9751845c22dbe5d2)"
+      ]
+    }
+  },
+  "erreurs": [
+    "anssi_actualites: aucune entrée récupérée",
+    "cert_eu: flux non trouvé — vérifier l'URL manuellement, source à faible priorité"
+  ]
+}
