@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-11-25T17:38:39.999640+00:00",
+  "genere_le": "2026-11-26T17:20:41.692461+00:00",
   "fenetre_jours": 3,
   "sources": {
     "cert_fr_avis": {
@@ -148,6 +148,48 @@
           "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1622/",
           "date": "2026-11-25T00:00:00+00:00",
           "resume": "De multiples vulnérabilités ont été découvertes dans les produits VMware. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance."
+        },
+        {
+          "titre": "Vulnérabilité dans Drupal (26 novembre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1623/",
+          "date": "2026-11-26T00:00:00+00:00",
+          "resume": "Une vulnérabilité a été découverte dans Drupal. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité. Drupal indique que la vulnérabilité CVE-2026-136716 est activement exploitée."
+        },
+        {
+          "titre": "Multiples vulnérabilités dans GitLab (26 novembre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1624/",
+          "date": "2026-11-26T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans GitLab. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données."
+        },
+        {
+          "titre": "Multiples vulnérabilités dans les produits Tenable (26 novembre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1625/",
+          "date": "2026-11-26T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans les produits Tenable. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une injection SQL (SQLi) et un contournement de la politique de sécurité."
+        },
+        {
+          "titre": "Multiples vulnérabilités dans les produits NetApp (26 novembre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1626/",
+          "date": "2026-11-26T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans les produits NetApp. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données."
+        },
+        {
+          "titre": "Vulnérabilité dans Mattermost Server (26 novembre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1627/",
+          "date": "2026-11-26T00:00:00+00:00",
+          "resume": "Une vulnérabilité a été découverte dans Mattermost Server. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur."
+        },
+        {
+          "titre": "Multiples vulnérabilités dans HPE Aruba Networking Airwave (26 novembre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1628/",
+          "date": "2026-11-26T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans HPE Aruba Networking Airwave. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance."
+        },
+        {
+          "titre": "Multiples vulnérabilités dans les produits Veeam (26 novembre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1629/",
+          "date": "2026-11-26T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans les produits Veeam. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance. L'éditeur fournit également une mesure de contournement provisoire."
         }
       ]
     },
@@ -170,6 +212,18 @@
     "fuites_infos": {
       "flux_utilise": "raw.githubusercontent.com REGISTRE.md",
       "lignes_recentes": [
+        "- `2026-11-26 (constaté)` — **Celinni** (fiche du 2026-09-26) · Statut : Revendiquée → Confirmée",
+        "- `2026-11-26 (constaté)` — **Celinni** (fiche du 2026-09-26) · Description publique réécrite — texte non reproduit (empreinte ebaa21886be60137 → 9e545634f03af2e7)",
+        "- `2026-11-26` — **Intelcia** (fiche du 2026-11-26) · **entrée ajoutée**",
+        "- `2026-11-26` — **Todoist** (fiche du 2026-11-24) · **entrée ajoutée**",
+        "- `2026-11-25 (constaté)` — **Arobases** (fiche du 2026-11-17) · Description publique réécrite — texte non reproduit (empreinte 568efd38dba11da1 → f5155e1f9207e2cb)",
+        "- `2026-11-25` — **Technimusic** (fiche du 2026-11-25) · **entrée ajoutée**",
+        "- `2026-11-25` — **Stickers-Folies** (fiche du 2026-11-25) · **entrée ajoutée**",
+        "- `2026-11-25` — **Laboratoires Lehning** (fiche du 2026-11-25) · **entrée ajoutée**",
+        "- `2026-11-25` — **Idéa Bois Nicolas** (fiche du 2026-11-25) · **entrée ajoutée**",
+        "- `2026-11-25` — **Creativ'Sign** (fiche du 2026-11-25) · **entrée ajoutée**",
+        "- `2026-11-25` — **Alexandre de Paris** (fiche du 2026-11-25) · **entrée ajoutée**",
+        "- `2026-11-25` — **Ligue Nationale de Basket** (fiche du 2026-11-25) · **entrée ajoutée**",
         "- `2026-11-25` — **Snipes** (fiche du 2026-11-24) · **entrée ajoutée**",
         "- `2026-11-25` — **Inmac Wstore** (fiche du 2026-11-25) · **entrée ajoutée**",
         "- `2026-11-25` — **Septeo IT Solutions** (fiche du 2026-11-24) · **entrée ajoutée**",
@@ -233,43 +287,7 @@
         "- `2026-11-23` — **Decathlon** (fiche du 2026-11-23) · **entrée ajoutée**",
         "- `2026-11-23` — **AAAEP** (fiche du 2026-11-23) · **entrée ajoutée**",
         "- `2026-11-23` — **Fondation des Femmes** (fiche du 2026-11-23) · **entrée ajoutée**",
-        "- `2026-11-23` — **LAPSA** (fiche du 2026-11-23) · **entrée ajoutée**",
-        "- `2026-11-22` — **Wanda Collection** (fiche du 2026-11-22) · **entrée ajoutée**",
-        "- `2026-11-22` — **Subtil Diamant** (fiche du 2026-11-22) · **entrée ajoutée**",
-        "- `2026-11-22` — **La Chouette Mauve** (fiche du 2026-11-22) · **entrée ajoutée**",
-        "- `2026-11-22 (constaté)` — **Comptoir du Rêve** (fiche du 2026-04-18) · Statut : Revendiquée → Confirmée",
-        "- `2026-11-22 (constaté)` — **Comptoir du Rêve** (fiche du 2026-04-18) · Description publique réécrite — texte non reproduit (empreinte 5900f67edc50021c → f34e12a0eb67c7b0)",
-        "- `2026-11-22 (constaté)` — **La Maison des Travaux** (fiche du 2026-11-21) · Description publique réécrite — texte non reproduit (empreinte 78eb752d54c31c22 → f4d2c629a779a4c1)",
-        "- `2026-11-22 (constaté)` — **Transporteur.com** (fiche du 2026-10-20) · Description publique réécrite — texte non reproduit (empreinte 057e6ed71744f1c4 → 3f1e256a900576bf)",
-        "- `2026-11-22 (constaté)` — **Frenchy Sushi** (fiche du 2026-10-20) · Description publique réécrite — texte non reproduit (empreinte 822d4e548abe5e7c → 33cda7239ecb91a6)",
-        "- `2026-11-22 (constaté)` — **SOS Oxygène** (fiche du 2026-11-10) · Volume concerné : (vide) → 14 832",
-        "- `2026-11-22 (constaté)` — **SOS Oxygène** (fiche du 2026-11-10) · Description publique réécrite — texte non reproduit (empreinte 6b56e862f519b1cf → 40d4af7db811fb07)",
-        "- `2026-11-22 (constaté)` — **École nationale vétérinaire d'Alfort (EnvA)** (fiche du 2026-09-30) · Statut : Revendiquée → Confirmée",
-        "- `2026-11-22 (constaté)` — **École nationale vétérinaire d'Alfort (EnvA)** (fiche du 2026-09-30) · Description publique réécrite — texte non reproduit (empreinte bffa7a8a6d9ad31a → 45e3fc9c719eb613)",
-        "- `2026-11-22 (constaté)` — **Solutions30** (fiche du 2026-10-12) · Statut : Revendiquée → Confirmée",
-        "- `2026-11-22 (constaté)` — **Solutions30** (fiche du 2026-10-12) · Description publique réécrite — texte non reproduit (empreinte 7f4f9a7f34b10ef3 → 52c2a27b5d53cdc6)",
-        "- `2026-11-22 (constaté)` — **AFPA** (fiche du 2026-09-16) · Volume concerné : (vide) → 1 732 703",
-        "- `2026-11-22 (constaté)` — **AFPA** (fiche du 2026-09-15) · Description publique réécrite — texte non reproduit (empreinte 0ac78e70c2f551c5 → fe44b55fe15e4a3c)",
-        "- `2026-11-22 (constaté)` — **AFPA** (fiche du 2026-09-16) · Description publique réécrite — texte non reproduit (empreinte 775f360b816c4333 → 3e6c3be5f7fdb1bf)",
-        "- `2026-11-22 (constaté)` — **PRREL Ambition** (fiche du 2026-10-17) · Statut : Revendiquée → Confirmée",
-        "- `2026-11-22 (constaté)` — **PRREL Ambition** (fiche du 2026-10-17) · Description publique réécrite — texte non reproduit (empreinte 84000b3214f2e054 → 678534e0704c997c)",
-        "- `2026-11-22 (constaté)` — **Nantes Métropole** (fiche du 2026-06-09) · Statut : Revendiquée → Confirmée",
-        "- `2026-11-22 (constaté)` — **Nantes Métropole** (fiche du 2026-06-09) · Description publique réécrite — texte non reproduit (empreinte 593f98be7f0ede50 → eb6c8edbf08cd278)",
-        "- `2026-11-22 (constaté)` — **Géofoncier** (fiche du 2026-09-01) · Statut : Revendiquée → Confirmée",
-        "- `2026-11-22 (constaté)` — **Géofoncier** (fiche du 2026-09-01) · Description publique réécrite — texte non reproduit (empreinte f42edaadcdaf3149 → 2ed7edd37985f987)",
-        "- `2026-11-22 (constaté)` — **Agefiph** (fiche du 2026-09-27) · Statut : Revendiquée → Confirmée",
-        "- `2026-11-22 (constaté)` — **Agefiph** (fiche du 2026-09-27) · Description publique réécrite — texte non reproduit (empreinte 475d33bb78a52e6c → 6686e1356762dd18)",
-        "- `2026-11-22` — **Ecologic** (fiche du 2026-10-13) · Statut : Revendiquée → Confirmée",
-        "- `2026-11-22` — **Ecologic** (fiche du 2026-10-13) · Description publique réécrite — texte non reproduit (empreinte 80268437e0a208b7 → 1ca4a18e2d190b60)",
-        "- `2026-11-22` — **Doinsport** (fiche du 2026-09-24) · Statut : Revendiquée → Confirmée",
-        "- `2026-11-22` — **Doinsport** (fiche du 2026-09-24) · Description publique réécrite — texte non reproduit (empreinte e7ccb772966ec658 → 65bd9aa3ffcdce45)",
-        "- `2026-11-22` — **Djaboo** (fiche du 2026-05-15) · Description publique réécrite — texte non reproduit (empreinte 260444548af1691c → d8e5ed2bb1d26f59)",
-        "- `2026-11-22` — **Conservatoire national des arts et métiers (Cnam)** (fiche du 2026-10-02) · Statut : Revendiquée → Confirmée",
-        "- `2026-11-22` — **Conservatoire national des arts et métiers (Cnam)** (fiche du 2026-10-02) · Description publique réécrite — texte non reproduit (empreinte bc9da86a626d32b1 → 541a25473137b1e7)",
-        "- `2026-11-22` — **ADMR** (fiche du 2026-10-23) · Statut : Revendiquée → Confirmée",
-        "- `2026-11-22` — **ADMR** (fiche du 2026-10-23) · Description publique réécrite — texte non reproduit (empreinte a0e00a61a63a457c → 500e6c8ca6900ff7)",
-        "- `2026-11-22` — **1001RDV** (fiche du 2026-11-12) · Statut : Revendiquée → Confirmée",
-        "- `2026-11-22` — **1001RDV** (fiche du 2026-11-12) · Description publique réécrite — texte non reproduit (empreinte c2157c018fc701f8 → 9751845c22dbe5d2)"
+        "- `2026-11-23` — **LAPSA** (fiche du 2026-11-23) · **entrée ajoutée**"
       ]
     }
   },
