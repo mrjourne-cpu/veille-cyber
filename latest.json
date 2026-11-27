@@ -1,64 +1,10 @@
 {
-  "genere_le": "2026-11-26T17:20:41.692461+00:00",
+  "genere_le": "2026-11-27T16:59:37.388349+00:00",
   "fenetre_jours": 3,
   "sources": {
     "cert_fr_avis": {
       "flux_utilise": "https://www.cert.ssi.gouv.fr/avis/feed/",
       "entrees": [
-        {
-          "titre": "Multiples vulnérabilités dans SPIP (23 novembre 2026)",
-          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1599/",
-          "date": "2026-11-23T00:00:00+00:00",
-          "resume": "De multiples vulnérabilités ont été découvertes dans SPIP. Elles permettent à un attaquant de provoquer une injection de code indirecte à distance (XSS) et une injection de requêtes illégitimes par rebond (CSRF)."
-        },
-        {
-          "titre": "Multiples vulnérabilités dans les produits Palo Alto Networks (23 novembre 2026)",
-          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1600/",
-          "date": "2026-11-23T00:00:00+00:00",
-          "resume": "De multiples vulnérabilités ont été découvertes dans les produits Palo Alto Networks. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service à distance."
-        },
-        {
-          "titre": "Vulnérabilité dans Laravel (23 novembre 2026)",
-          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1601/",
-          "date": "2026-11-23T00:00:00+00:00",
-          "resume": "Une vulnérabilité a été découverte dans Laravel. Elle permet à un attaquant de provoquer un déni de service à distance."
-        },
-        {
-          "titre": "Multiples vulnérabilités dans Roundcube Webmail (23 novembre 2026)",
-          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1602/",
-          "date": "2026-11-23T00:00:00+00:00",
-          "resume": "De multiples vulnérabilités ont été découvertes dans Roundcube Webmail. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données."
-        },
-        {
-          "titre": "Multiples vulnérabilités dans Microsoft Edge (23 novembre 2026)",
-          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1603/",
-          "date": "2026-11-23T00:00:00+00:00",
-          "resume": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur."
-        },
-        {
-          "titre": "Vulnérabilité dans Microsoft Office (23 novembre 2026)",
-          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1604/",
-          "date": "2026-11-23T00:00:00+00:00",
-          "resume": "Une vulnérabilité a été découverte dans Microsoft Office. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance."
-        },
-        {
-          "titre": "Vulnérabilité dans Mattermost Server (23 novembre 2026)",
-          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1605/",
-          "date": "2026-11-23T00:00:00+00:00",
-          "resume": "Une vulnérabilité a été découverte dans Mattermost Server. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données."
-        },
-        {
-          "titre": "Multiples vulnérabilités dans MongoDB (23 novembre 2026)",
-          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1606/",
-          "date": "2026-11-23T00:00:00+00:00",
-          "resume": "De multiples vulnérabilités ont été découvertes dans MongoDB. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données."
-        },
-        {
-          "titre": "Multiples vulnérabilités dans les produits Synology (23 novembre 2026)",
-          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1607/",
-          "date": "2026-11-23T00:00:00+00:00",
-          "resume": "De multiples vulnérabilités ont été découvertes dans les produits Synology. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données."
-        },
         {
           "titre": "Vulnérabilité dans Google Chrome (24 novembre 2026)",
           "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1608/",
@@ -190,6 +136,72 @@
           "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1629/",
           "date": "2026-11-26T00:00:00+00:00",
           "resume": "De multiples vulnérabilités ont été découvertes dans les produits Veeam. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance. L'éditeur fournit également une mesure de contournement provisoire."
+        },
+        {
+          "titre": "Multiples vulnérabilités dans Synology DSM et DSM Enterprise (27 novembre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1630/",
+          "date": "2026-11-27T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans Synology DSM et DSM Enterprise. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance."
+        },
+        {
+          "titre": "Multiples vulnérabilités dans Xen (27 novembre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1631/",
+          "date": "2026-11-27T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans Xen. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, un déni de service à distance et une atteinte à la confidentialité des données."
+        },
+        {
+          "titre": "Multiples vulnérabilités dans FreeRADIUS (27 novembre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1632/",
+          "date": "2026-11-27T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans FreeRADIUS. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données."
+        },
+        {
+          "titre": "Multiples vulnérabilités dans MongoDB (27 novembre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1633/",
+          "date": "2026-11-27T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans MongoDB. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et une atteinte à la confidentialité des données."
+        },
+        {
+          "titre": "Multiples vulnérabilités dans SolarWinds Serv-U (27 novembre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1634/",
+          "date": "2026-11-27T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans SolarWinds Serv-U. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance."
+        },
+        {
+          "titre": "Multiples vulnérabilités dans SPIP (27 novembre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1635/",
+          "date": "2026-11-27T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans SPIP. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une falsification de requêtes côté serveur (SSRF)."
+        },
+        {
+          "titre": "Multiples vulnérabilités dans le noyau Linux de Red Hat (27 novembre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1636/",
+          "date": "2026-11-27T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance."
+        },
+        {
+          "titre": "Multiples vulnérabilités dans le noyau Linux de SUSE (27 novembre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1637/",
+          "date": "2026-11-27T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance."
+        },
+        {
+          "titre": "Multiples vulnérabilités dans le noyau Linux de Debian (27 novembre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1638/",
+          "date": "2026-11-27T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, un déni de service à distance et une atteinte à l'intégrité des données."
+        },
+        {
+          "titre": "Multiples vulnérabilités dans le noyau Linux de Debian LTS (27 novembre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1639/",
+          "date": "2026-11-27T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian LTS. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance."
+        },
+        {
+          "titre": "Multiples vulnérabilités dans les produits IBM (27 novembre 2026)",
+          "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1640/",
+          "date": "2026-11-27T00:00:00+00:00",
+          "resume": "De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données."
         }
       ]
     },
@@ -212,6 +224,16 @@
     "fuites_infos": {
       "flux_utilise": "raw.githubusercontent.com REGISTRE.md",
       "lignes_recentes": [
+        "- `2026-11-27 (constaté)` — **Pixartprinting** (fiche du 2026-07-07) · Statut : Revendiquée → Confirmée",
+        "- `2026-11-27 (constaté)` — **Pixartprinting** (fiche du 2026-07-07) · Description publique réécrite — texte non reproduit (empreinte 89babd8022ba7f26 → ffacc4a5f3b26d3e)",
+        "- `2026-11-27 (constaté)` — **Pagès** (fiche du 2026-11-27) · Description publique réécrite — texte non reproduit (empreinte a5c0f630fc8072c4 → 4029054157fc37e7)",
+        "- `2026-11-27 (constaté)` — **GeoNat'îdF** (fiche du 2026-09-25) · Statut : Revendiquée → Confirmée",
+        "- `2026-11-27 (constaté)` — **GeoNat'îdF** (fiche du 2026-09-25) · Description publique réécrite — texte non reproduit (empreinte 6f42c9bed4bc451a → f8cadc81d9f6476e)",
+        "- `2026-11-27` — **Gold Union** (fiche du 2026-04-02) · Site de l'entité : https://gold-union.com/fr → https://goldunion.fr/",
+        "- `2026-11-27` — **StoragePal** (fiche du 2026-11-26) · **entrée ajoutée**",
+        "- `2026-11-27` — **Pagès** (fiche du 2026-11-27) · **entrée ajoutée**",
+        "- `2026-11-27` — **Offi** (fiche du 2026-11-26) · **entrée ajoutée**",
+        "- `2026-11-27` — **Buffalo Grill** (fiche du 2026-11-26) · **entrée ajoutée**",
         "- `2026-11-26 (constaté)` — **Celinni** (fiche du 2026-09-26) · Statut : Revendiquée → Confirmée",
         "- `2026-11-26 (constaté)` — **Celinni** (fiche du 2026-09-26) · Description publique réécrite — texte non reproduit (empreinte ebaa21886be60137 → 9e545634f03af2e7)",
         "- `2026-11-26` — **Intelcia** (fiche du 2026-11-26) · **entrée ajoutée**",
@@ -250,44 +272,7 @@
         "- `2026-11-24` — **Expert Canapé** (fiche du 2026-11-23) · **entrée ajoutée**",
         "- `2026-11-24` — **Bocklip** (fiche du 2026-11-23) · **entrée ajoutée**",
         "- `2026-11-24` — **LocService** (fiche du 2026-11-19) · Description publique réécrite — texte non reproduit (empreinte 1678251fb5b1cabf → ae1f07ee4b0892cc)",
-        "- `2026-11-24` — **LocService** (fiche du 2026-11-19) · Nature des données : ajouté Adresse IP, Adresses web, Numéro de téléphone",
-        "- `2026-11-23 (constaté)` — **Arobases** (fiche du 2026-11-17) · Description publique réécrite — texte non reproduit (empreinte f7e3c3de5ff4a2e5 → 2357b5bf81a62568)",
-        "- `2026-11-23` — **Les Gazons Parisiens** (fiche du 2026-11-23) · **entrée ajoutée**",
-        "- `2026-11-23` — **La Fabrique d'écharpe** (fiche du 2026-11-23) · **entrée ajoutée**",
-        "- `2026-11-23` — **Idil Diffusion** (fiche du 2026-11-23) · **entrée ajoutée**",
-        "- `2026-11-23` — **Happy Candy** (fiche du 2026-11-23) · **entrée ajoutée**",
-        "- `2026-11-23` — **Eurovanille** (fiche du 2026-11-23) · **entrée ajoutée**",
-        "- `2026-11-23` — **Banque Delubac & Cie** (fiche du 2026-11-23) · **entrée ajoutée**",
-        "- `2026-11-23 (constaté)` — **Assoclub** (fiche du 2026-10-31) · Statut : Revendiquée → Confirmée",
-        "- `2026-11-23 (constaté)` — **Assoclub** (fiche du 2026-10-31) · Description publique réécrite — texte non reproduit (empreinte f90eccc625dd0c95 → 7464c833c11c0af8)",
-        "- `2026-11-23 (constaté)` — **Score'n'co** (fiche du 2026-09-27) · Statut : Revendiquée → Confirmée",
-        "- `2026-11-23 (constaté)` — **Score'n'co** (fiche du 2026-09-27) · Description publique réécrite — texte non reproduit (empreinte 0f1ca12aba64f34c → 69a854969c30d102)",
-        "- `2026-11-23 (constaté)` — **Vackelys** (fiche du 2026-10-17) · Statut : Revendiquée → Confirmée",
-        "- `2026-11-23 (constaté)` — **Vackelys** (fiche du 2026-10-17) · Description publique réécrite — texte non reproduit (empreinte a05890556b98b0e8 → 59452609bc7590ec)",
-        "- `2026-11-23 (constaté)` — **Gotronic** (fiche du 2026-11-21) · Statut : Revendiquée → Confirmée",
-        "- `2026-11-23 (constaté)` — **Gotronic** (fiche du 2026-11-21) · Description publique réécrite — texte non reproduit (empreinte 2453fbd012400336 → e207acf52330ee33)",
-        "- `2026-11-23 (constaté)` — **HomePad** (fiche du 2026-06-12) · Description publique réécrite — texte non reproduit (empreinte 92a762f19a6a42ef → ad0579f76fafda58)",
-        "- `2026-11-23 (constaté)` — **Certificat CléA** (fiche du 2026-05-27) · Statut : Revendiquée → Confirmée",
-        "- `2026-11-23 (constaté)` — **Certificat CléA** (fiche du 2026-05-27) · Description publique réécrite — texte non reproduit (empreinte d3b4966b3d10d4fc → 248cc24c640a687a)",
-        "- `2026-11-23` — **LWS** (fiche du 2026-11-23) · **entrée ajoutée**",
-        "- `2026-11-23` — **OC Sport** (fiche du 2026-11-20) · **entrée ajoutée**",
-        "- `2026-11-23` — **Arobases** (fiche du 2026-11-17) · **entrée ajoutée**",
-        "- `2026-11-23 (constaté)` — **Predige** (fiche du 2026-10-04) · Statut : Revendiquée → Confirmée",
-        "- `2026-11-23 (constaté)` — **Predige** (fiche du 2026-10-04) · Description publique réécrite — texte non reproduit (empreinte 4fce5d6f1a34acd3 → 4bb44130215a60a8)",
-        "- `2026-11-23 (constaté)` — **Docurba** (fiche du 2026-08-25) · Statut : Revendiquée → Confirmée",
-        "- `2026-11-23 (constaté)` — **Docurba** (fiche du 2026-08-25) · Description publique réécrite — texte non reproduit (empreinte 26efff37d6e337e6 → bddcff22d2e60097)",
-        "- `2026-11-23 (constaté)` — **Be-in-Home** (fiche du 2026-10-17) · Statut : Revendiquée → Confirmée",
-        "- `2026-11-23 (constaté)` — **Be-in-Home** (fiche du 2026-10-17) · Description publique réécrite — texte non reproduit (empreinte cd8fe4dab42a9ee5 → 1f39e09b5be62783)",
-        "- `2026-11-23 (constaté)` — **Woop** (fiche du 2026-05-13) · **ENTRÉE RETIRÉE** — motif : Information devenue inexacte (La fiche rapportait la mise en vente, le 13 mai 2026 sur un forum cybercriminel, d'une base de 256 319 lignes présentée comme issue de la plateforme de livraison Woop. Le vendeur, sans réputation sur le forum, n'en avait diffusé qu'un extrait partiel. Sollicitée le 22 novembre 2026, Woop a démenti la revendication le lendemain : l'entreprise indique n'avoir trouvé aucune correspondance entre l'extrait et ses bases de données, ni dans ses journaux ou sur sa surface d'exposition, et ne pas collecter les données d'état civil et bancaires annoncées. Aucun élément ne contredit ce démenti. La fiche sort de l'accès public et reste au catalogue professionnel, avec la revendication et le démenti.)",
-        "- `2026-11-23 (constaté)` — **Snowleader** (fiche du 2026-11-18) · Description publique réécrite — texte non reproduit (empreinte 8decdc11491523bf → 375bee86baafc9ce)",
-        "- `2026-11-23 (constaté)` — **Snowleader** (fiche du 2026-11-18) · Nature des données : ajouté Adresse email, Adresse postale, Carte de paiement, Historique de commandes, Mot de passe (haché), Nom complet, Numéro de téléphone",
-        "- `2026-11-23 (constaté)` — **Cigusto** (fiche du 2026-09-26) · Statut : Revendiquée → Confirmée",
-        "- `2026-11-23 (constaté)` — **Cigusto** (fiche du 2026-09-26) · Description publique réécrite — texte non reproduit (empreinte 07a5013fe1e8100a → e31f59007efc73b2)",
-        "- `2026-11-23 (constaté)` — **Cigusto** (fiche du 2026-09-26) · Description publique réécrite — texte non reproduit (empreinte 2ed4be55e9d4ae63 → 07a5013fe1e8100a)",
-        "- `2026-11-23` — **Decathlon** (fiche du 2026-11-23) · **entrée ajoutée**",
-        "- `2026-11-23` — **AAAEP** (fiche du 2026-11-23) · **entrée ajoutée**",
-        "- `2026-11-23` — **Fondation des Femmes** (fiche du 2026-11-23) · **entrée ajoutée**",
-        "- `2026-11-23` — **LAPSA** (fiche du 2026-11-23) · **entrée ajoutée**"
+        "- `2026-11-24` — **LocService** (fiche du 2026-11-19) · Nature des données : ajouté Adresse IP, Adresses web, Numéro de téléphone"
       ]
     }
   },
